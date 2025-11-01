@@ -1,0 +1,1501 @@
+External_Id__c,Subject,Account:External_Id__c,Contact:External_Id__c,Type,Status,Origin,Priority,Reason
+CASE-000001,Issue #1,ACC-000489,CON-000683,Equipment,Closed,Phone,Low,Other
+CASE-000002,Issue #2,ACC-000092,CON-001065,Electrical,Working,Email,Medium,Network Issue
+CASE-000003,Issue #3,ACC-000301,CON-000613,Billing,Closed,Web,Low,Shipment Damaged
+CASE-000004,Issue #4,ACC-000068,CON-000382,Installation,New,Web,Medium,Shipment Damaged
+CASE-000005,Issue #5,ACC-000303,CON-000248,Connectivity,New,Email,Medium,Network Issue
+CASE-000006,Issue #6,ACC-000325,CON-000167,Installation,Working,Email,Low,Performance
+CASE-000007,Issue #7,ACC-000046,CON-001049,Equipment,Working,Web,Low,Bug
+CASE-000008,Issue #8,ACC-000326,CON-001432,Installation,New,Web,High,Other
+CASE-000009,Issue #9,ACC-000407,CON-000497,Equipment,Closed,Web,High,Return
+CASE-000010,Issue #10,ACC-000282,CON-000108,Installation,Working,Email,Low,Performance
+CASE-000011,Issue #11,ACC-000093,CON-000749,Connectivity,New,Web,Medium,Other
+CASE-000012,Issue #12,ACC-000344,CON-000456,Software,Working,Web,Low,Bug
+CASE-000013,Issue #13,ACC-000482,CON-001071,Connectivity,New,Web,Low,Network Issue
+CASE-000014,Issue #14,ACC-000469,CON-001110,Equipment,New,Web,Medium,Shipment Damaged
+CASE-000015,Issue #15,ACC-000092,CON-000011,Equipment,Closed,Email,Low,Performance
+CASE-000016,Issue #16,ACC-000296,CON-000234,Billing,New,Email,Medium,Network Issue
+CASE-000017,Issue #17,ACC-000028,CON-001480,Billing,Working,Email,Low,Other
+CASE-000018,Issue #18,ACC-000298,CON-000552,Software,New,Email,Low,Bug
+CASE-000019,Issue #19,ACC-000427,CON-000416,Equipment,Closed,Web,Low,Return
+CASE-000020,Issue #20,ACC-000387,CON-000398,Equipment,Closed,Email,High,Performance
+CASE-000021,Issue #21,ACC-000043,CON-001343,Connectivity,New,Email,High,Performance
+CASE-000022,Issue #22,ACC-000307,CON-001252,Shipping,New,Email,Medium,Return
+CASE-000023,Issue #23,ACC-000308,CON-001415,Software,Closed,Web,High,Return
+CASE-000024,Issue #24,ACC-000118,CON-001495,Installation,Closed,Email,Medium,Other
+CASE-000025,Issue #25,ACC-000388,CON-000749,Billing,Closed,Phone,Medium,Performance
+CASE-000026,Issue #26,ACC-000243,CON-000817,Shipping,Closed,Phone,High,Equipment Complexity
+CASE-000027,Issue #27,ACC-000328,CON-000578,Billing,Closed,Phone,High,Other
+CASE-000028,Issue #28,ACC-000352,CON-000337,Connectivity,Closed,Phone,Low,Bug
+CASE-000029,Issue #29,ACC-000262,CON-000464,Shipping,Working,Web,Medium,Bug
+CASE-000030,Issue #30,ACC-000429,CON-000623,Electrical,Closed,Web,Medium,Return
+CASE-000031,Issue #31,ACC-000310,CON-000493,Electrical,Closed,Email,Low,Network Issue
+CASE-000032,Issue #32,ACC-000477,CON-000186,Installation,Working,Phone,Low,Network Issue
+CASE-000033,Issue #33,ACC-000140,CON-000003,Electrical,Closed,Phone,High,Equipment Complexity
+CASE-000034,Issue #34,ACC-000445,CON-001156,Electrical,Closed,Phone,Low,Bug
+CASE-000035,Issue #35,ACC-000325,CON-001039,Software,Closed,Phone,Medium,Performance
+CASE-000036,Issue #36,ACC-000311,CON-000473,Equipment,Working,Web,High,Equipment Complexity
+CASE-000037,Issue #37,ACC-000265,CON-000781,Equipment,Closed,Web,Medium,Network Issue
+CASE-000038,Issue #38,ACC-000357,CON-000262,Software,New,Web,High,Bug
+CASE-000039,Issue #39,ACC-000286,CON-001245,Installation,Closed,Web,High,Equipment Complexity
+CASE-000040,Issue #40,ACC-000259,CON-000184,Software,Working,Phone,High,Equipment Complexity
+CASE-000041,Issue #41,ACC-000462,CON-000182,Software,Working,Email,Medium,Equipment Complexity
+CASE-000042,Issue #42,ACC-000044,CON-001396,Electrical,Working,Email,Low,Performance
+CASE-000043,Issue #43,ACC-000030,CON-000227,Equipment,New,Phone,Low,Performance
+CASE-000044,Issue #44,ACC-000484,CON-001225,Installation,New,Web,Medium,Equipment Complexity
+CASE-000045,Issue #45,ACC-000294,CON-000839,Connectivity,Closed,Phone,Medium,Bug
+CASE-000046,Issue #46,ACC-000373,CON-000879,Connectivity,Closed,Web,Medium,Performance
+CASE-000047,Issue #47,ACC-000126,CON-000934,Connectivity,Closed,Web,Medium,Performance
+CASE-000048,Issue #48,ACC-000252,CON-000204,Connectivity,Closed,Web,Medium,Bug
+CASE-000049,Issue #49,ACC-000451,CON-001315,Software,Closed,Web,Low,Network Issue
+CASE-000050,Issue #50,ACC-000475,CON-000550,Installation,Closed,Email,High,Shipment Damaged
+CASE-000051,Issue #51,ACC-000102,CON-000592,Installation,New,Phone,Low,Bug
+CASE-000052,Issue #52,ACC-000129,CON-000199,Electrical,New,Web,High,Shipment Damaged
+CASE-000053,Issue #53,ACC-000194,CON-000435,Billing,Working,Phone,Low,Performance
+CASE-000054,Issue #54,ACC-000186,CON-001211,Billing,Closed,Email,Medium,Equipment Complexity
+CASE-000055,Issue #55,ACC-000205,CON-000624,Electrical,Working,Email,Low,Network Issue
+CASE-000056,Issue #56,ACC-000427,CON-000853,Software,Closed,Web,Low,Network Issue
+CASE-000057,Issue #57,ACC-000225,CON-000065,Electrical,Working,Web,Low,Shipment Damaged
+CASE-000058,Issue #58,ACC-000425,CON-000742,Installation,Working,Email,Low,Bug
+CASE-000059,Issue #59,ACC-000196,CON-000917,Equipment,Working,Web,Low,Bug
+CASE-000060,Issue #60,ACC-000250,CON-000201,Shipping,Closed,Email,Medium,Performance
+CASE-000061,Issue #61,ACC-000053,CON-001275,Shipping,Closed,Web,Medium,Network Issue
+CASE-000062,Issue #62,ACC-000376,CON-001348,Electrical,Working,Web,Low,Other
+CASE-000063,Issue #63,ACC-000469,CON-000835,Equipment,Closed,Web,Medium,Equipment Complexity
+CASE-000064,Issue #64,ACC-000484,CON-001280,Shipping,New,Email,Low,Network Issue
+CASE-000065,Issue #65,ACC-000220,CON-000823,Electrical,Working,Email,Medium,Other
+CASE-000066,Issue #66,ACC-000144,CON-000154,Shipping,Working,Web,Low,Shipment Damaged
+CASE-000067,Issue #67,ACC-000102,CON-000466,Billing,Working,Email,Medium,Equipment Complexity
+CASE-000068,Issue #68,ACC-000033,CON-001258,Connectivity,Closed,Web,Medium,Bug
+CASE-000069,Issue #69,ACC-000060,CON-001425,Shipping,Closed,Phone,Medium,Return
+CASE-000070,Issue #70,ACC-000295,CON-000564,Equipment,New,Phone,High,Bug
+CASE-000071,Issue #71,ACC-000006,CON-000585,Shipping,Working,Phone,Low,Bug
+CASE-000072,Issue #72,ACC-000261,CON-000191,Equipment,Working,Web,Medium,Network Issue
+CASE-000073,Issue #73,ACC-000260,CON-000673,Equipment,New,Web,Low,Return
+CASE-000074,Issue #74,ACC-000450,CON-000404,Installation,Working,Phone,Medium,Equipment Complexity
+CASE-000075,Issue #75,ACC-000354,CON-000705,Billing,Working,Phone,Low,Bug
+CASE-000076,Issue #76,ACC-000142,CON-000238,Installation,Working,Web,Medium,Other
+CASE-000077,Issue #77,ACC-000028,CON-000157,Billing,New,Phone,High,Performance
+CASE-000078,Issue #78,ACC-000427,CON-001253,Electrical,Closed,Web,Low,Bug
+CASE-000079,Issue #79,ACC-000348,CON-000965,Connectivity,Working,Phone,Medium,Network Issue
+CASE-000080,Issue #80,ACC-000113,CON-001237,Installation,Closed,Phone,High,Return
+CASE-000081,Issue #81,ACC-000154,CON-000343,Billing,Working,Phone,Low,Network Issue
+CASE-000082,Issue #82,ACC-000131,CON-001107,Electrical,Working,Web,Low,Bug
+CASE-000083,Issue #83,ACC-000304,CON-000020,Installation,New,Email,Low,Equipment Complexity
+CASE-000084,Issue #84,ACC-000347,CON-000816,Installation,Working,Email,High,Return
+CASE-000085,Issue #85,ACC-000311,CON-001454,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-000086,Issue #86,ACC-000012,CON-000754,Equipment,New,Web,Medium,Bug
+CASE-000087,Issue #87,ACC-000349,CON-001365,Billing,Working,Web,Medium,Network Issue
+CASE-000088,Issue #88,ACC-000430,CON-001052,Billing,Closed,Web,Low,Other
+CASE-000089,Issue #89,ACC-000305,CON-000560,Billing,Closed,Web,Low,Shipment Damaged
+CASE-000090,Issue #90,ACC-000440,CON-000665,Electrical,New,Phone,High,Bug
+CASE-000091,Issue #91,ACC-000271,CON-000140,Installation,New,Phone,High,Return
+CASE-000092,Issue #92,ACC-000029,CON-000945,Electrical,New,Web,Medium,Other
+CASE-000093,Issue #93,ACC-000245,CON-000205,Installation,Working,Email,Low,Network Issue
+CASE-000094,Issue #94,ACC-000333,CON-000351,Installation,Working,Web,Medium,Bug
+CASE-000095,Issue #95,ACC-000209,CON-001259,Software,New,Phone,Low,Other
+CASE-000096,Issue #96,ACC-000213,CON-000839,Electrical,New,Phone,Low,Network Issue
+CASE-000097,Issue #97,ACC-000407,CON-001104,Equipment,New,Email,Low,Equipment Complexity
+CASE-000098,Issue #98,ACC-000152,CON-000033,Billing,Working,Email,Low,Performance
+CASE-000099,Issue #99,ACC-000026,CON-001077,Installation,Closed,Phone,Low,Return
+CASE-000100,Issue #100,ACC-000052,CON-001315,Electrical,Working,Web,Low,Other
+CASE-000101,Issue #101,ACC-000143,CON-000182,Installation,Closed,Web,Low,Equipment Complexity
+CASE-000102,Issue #102,ACC-000106,CON-001338,Equipment,Working,Web,Medium,Other
+CASE-000103,Issue #103,ACC-000055,CON-000039,Connectivity,Working,Web,Low,Network Issue
+CASE-000104,Issue #104,ACC-000207,CON-000040,Electrical,New,Email,High,Return
+CASE-000105,Issue #105,ACC-000311,CON-000457,Electrical,Closed,Email,Medium,Other
+CASE-000106,Issue #106,ACC-000192,CON-000666,Installation,New,Email,Low,Return
+CASE-000107,Issue #107,ACC-000045,CON-001408,Electrical,Closed,Email,Medium,Equipment Complexity
+CASE-000108,Issue #108,ACC-000394,CON-000759,Connectivity,Working,Phone,Medium,Equipment Complexity
+CASE-000109,Issue #109,ACC-000347,CON-001167,Installation,New,Email,High,Performance
+CASE-000110,Issue #110,ACC-000117,CON-001429,Connectivity,Closed,Email,Low,Equipment Complexity
+CASE-000111,Issue #111,ACC-000108,CON-000049,Shipping,Closed,Email,Medium,Other
+CASE-000112,Issue #112,ACC-000206,CON-000741,Installation,New,Email,Low,Bug
+CASE-000113,Issue #113,ACC-000011,CON-000490,Electrical,Closed,Email,Low,Other
+CASE-000114,Issue #114,ACC-000333,CON-001399,Connectivity,New,Web,Medium,Other
+CASE-000115,Issue #115,ACC-000147,CON-000610,Software,Working,Phone,Medium,Bug
+CASE-000116,Issue #116,ACC-000359,CON-001132,Connectivity,Working,Email,Medium,Return
+CASE-000117,Issue #117,ACC-000420,CON-001269,Electrical,Closed,Phone,Medium,Shipment Damaged
+CASE-000118,Issue #118,ACC-000131,CON-001493,Billing,Closed,Email,High,Shipment Damaged
+CASE-000119,Issue #119,ACC-000468,CON-001207,Equipment,Working,Web,Medium,Shipment Damaged
+CASE-000120,Issue #120,ACC-000445,CON-000065,Equipment,Closed,Email,Medium,Other
+CASE-000121,Issue #121,ACC-000050,CON-000458,Installation,Working,Web,Low,Performance
+CASE-000122,Issue #122,ACC-000393,CON-000243,Electrical,Working,Email,High,Other
+CASE-000123,Issue #123,ACC-000385,CON-000271,Electrical,Closed,Email,Medium,Network Issue
+CASE-000124,Issue #124,ACC-000314,CON-000376,Installation,Closed,Web,Medium,Return
+CASE-000125,Issue #125,ACC-000286,CON-000337,Equipment,Closed,Email,Medium,Equipment Complexity
+CASE-000126,Issue #126,ACC-000429,CON-000002,Installation,Closed,Phone,Low,Shipment Damaged
+CASE-000127,Issue #127,ACC-000410,CON-000367,Connectivity,Working,Web,Medium,Return
+CASE-000128,Issue #128,ACC-000377,CON-001033,Connectivity,Closed,Email,Low,Shipment Damaged
+CASE-000129,Issue #129,ACC-000444,CON-000290,Billing,Closed,Web,Medium,Equipment Complexity
+CASE-000130,Issue #130,ACC-000281,CON-001051,Electrical,New,Phone,Medium,Equipment Complexity
+CASE-000131,Issue #131,ACC-000469,CON-000367,Installation,Working,Web,Medium,Network Issue
+CASE-000132,Issue #132,ACC-000017,CON-001410,Software,Working,Email,Medium,Bug
+CASE-000133,Issue #133,ACC-000159,CON-001083,Shipping,Closed,Phone,Medium,Other
+CASE-000134,Issue #134,ACC-000117,CON-000689,Connectivity,Closed,Email,High,Performance
+CASE-000135,Issue #135,ACC-000051,CON-001037,Billing,Closed,Phone,Low,Equipment Complexity
+CASE-000136,Issue #136,ACC-000048,CON-000887,Equipment,Closed,Email,High,Bug
+CASE-000137,Issue #137,ACC-000447,CON-000391,Shipping,New,Phone,High,Performance
+CASE-000138,Issue #138,ACC-000144,CON-000927,Electrical,Working,Web,Medium,Return
+CASE-000139,Issue #139,ACC-000152,CON-000144,Electrical,Working,Phone,High,Shipment Damaged
+CASE-000140,Issue #140,ACC-000090,CON-001269,Shipping,New,Email,High,Performance
+CASE-000141,Issue #141,ACC-000008,CON-001039,Shipping,New,Phone,Low,Equipment Complexity
+CASE-000142,Issue #142,ACC-000069,CON-000150,Billing,Closed,Phone,Medium,Performance
+CASE-000143,Issue #143,ACC-000047,CON-001122,Installation,Working,Phone,High,Return
+CASE-000144,Issue #144,ACC-000150,CON-000546,Connectivity,Working,Email,Low,Performance
+CASE-000145,Issue #145,ACC-000133,CON-001426,Electrical,Closed,Web,Low,Bug
+CASE-000146,Issue #146,ACC-000440,CON-001228,Software,Closed,Web,High,Return
+CASE-000147,Issue #147,ACC-000437,CON-000995,Software,New,Phone,Low,Equipment Complexity
+CASE-000148,Issue #148,ACC-000274,CON-000501,Shipping,Closed,Phone,Medium,Equipment Complexity
+CASE-000149,Issue #149,ACC-000010,CON-000813,Installation,Closed,Web,Medium,Bug
+CASE-000150,Issue #150,ACC-000441,CON-000576,Equipment,Working,Phone,Low,Performance
+CASE-000151,Issue #151,ACC-000300,CON-000604,Billing,New,Phone,Low,Performance
+CASE-000152,Issue #152,ACC-000355,CON-001146,Billing,Closed,Web,Medium,Equipment Complexity
+CASE-000153,Issue #153,ACC-000359,CON-001156,Software,Working,Web,Low,Network Issue
+CASE-000154,Issue #154,ACC-000195,CON-000552,Equipment,New,Web,Medium,Bug
+CASE-000155,Issue #155,ACC-000027,CON-000529,Software,New,Phone,High,Shipment Damaged
+CASE-000156,Issue #156,ACC-000342,CON-001476,Installation,Closed,Web,Medium,Shipment Damaged
+CASE-000157,Issue #157,ACC-000278,CON-000047,Equipment,New,Web,Low,Bug
+CASE-000158,Issue #158,ACC-000033,CON-000208,Software,Closed,Web,High,Network Issue
+CASE-000159,Issue #159,ACC-000470,CON-000670,Electrical,Closed,Web,Low,Other
+CASE-000160,Issue #160,ACC-000027,CON-001302,Equipment,Closed,Phone,Medium,Bug
+CASE-000161,Issue #161,ACC-000465,CON-000091,Equipment,Closed,Email,Medium,Bug
+CASE-000162,Issue #162,ACC-000194,CON-000844,Connectivity,New,Phone,Low,Shipment Damaged
+CASE-000163,Issue #163,ACC-000162,CON-000046,Shipping,Working,Email,Medium,Shipment Damaged
+CASE-000164,Issue #164,ACC-000306,CON-000795,Shipping,Working,Phone,Low,Equipment Complexity
+CASE-000165,Issue #165,ACC-000002,CON-000491,Software,Closed,Web,Medium,Return
+CASE-000166,Issue #166,ACC-000291,CON-000705,Billing,Closed,Web,Medium,Performance
+CASE-000167,Issue #167,ACC-000039,CON-000641,Shipping,Closed,Web,Low,Network Issue
+CASE-000168,Issue #168,ACC-000437,CON-000918,Connectivity,Closed,Phone,Medium,Shipment Damaged
+CASE-000169,Issue #169,ACC-000228,CON-001196,Connectivity,Working,Phone,Medium,Return
+CASE-000170,Issue #170,ACC-000255,CON-001123,Billing,Closed,Phone,Medium,Other
+CASE-000171,Issue #171,ACC-000101,CON-000731,Software,Closed,Phone,Low,Performance
+CASE-000172,Issue #172,ACC-000389,CON-001324,Electrical,Working,Phone,Low,Bug
+CASE-000173,Issue #173,ACC-000326,CON-001151,Electrical,Working,Web,High,Other
+CASE-000174,Issue #174,ACC-000201,CON-001419,Electrical,Closed,Phone,Medium,Network Issue
+CASE-000175,Issue #175,ACC-000076,CON-000576,Connectivity,Closed,Phone,High,Equipment Complexity
+CASE-000176,Issue #176,ACC-000169,CON-000092,Shipping,Closed,Email,Low,Performance
+CASE-000177,Issue #177,ACC-000134,CON-000618,Electrical,New,Phone,Medium,Shipment Damaged
+CASE-000178,Issue #178,ACC-000186,CON-001081,Billing,New,Web,Low,Bug
+CASE-000179,Issue #179,ACC-000359,CON-000703,Billing,New,Phone,Low,Return
+CASE-000180,Issue #180,ACC-000082,CON-000022,Equipment,Closed,Phone,Low,Bug
+CASE-000181,Issue #181,ACC-000460,CON-001213,Electrical,Closed,Email,Medium,Network Issue
+CASE-000182,Issue #182,ACC-000295,CON-000551,Electrical,Working,Web,Low,Bug
+CASE-000183,Issue #183,ACC-000069,CON-000690,Billing,Closed,Web,Medium,Shipment Damaged
+CASE-000184,Issue #184,ACC-000125,CON-000271,Software,Closed,Phone,Medium,Other
+CASE-000185,Issue #185,ACC-000338,CON-000287,Billing,Closed,Web,Low,Other
+CASE-000186,Issue #186,ACC-000239,CON-000836,Equipment,New,Web,High,Network Issue
+CASE-000187,Issue #187,ACC-000244,CON-001287,Shipping,Working,Phone,High,Return
+CASE-000188,Issue #188,ACC-000228,CON-000466,Software,Working,Email,Low,Network Issue
+CASE-000189,Issue #189,ACC-000232,CON-000232,Billing,Closed,Phone,Low,Equipment Complexity
+CASE-000190,Issue #190,ACC-000127,CON-000173,Installation,Closed,Email,Low,Performance
+CASE-000191,Issue #191,ACC-000254,CON-001299,Installation,Working,Email,Medium,Equipment Complexity
+CASE-000192,Issue #192,ACC-000471,CON-000289,Electrical,Closed,Web,High,Other
+CASE-000193,Issue #193,ACC-000085,CON-000611,Electrical,Closed,Web,Low,Performance
+CASE-000194,Issue #194,ACC-000194,CON-000793,Billing,Closed,Phone,Low,Equipment Complexity
+CASE-000195,Issue #195,ACC-000489,CON-000069,Billing,New,Email,Medium,Shipment Damaged
+CASE-000196,Issue #196,ACC-000450,CON-000189,Equipment,Closed,Phone,Medium,Equipment Complexity
+CASE-000197,Issue #197,ACC-000025,CON-000611,Shipping,New,Web,Medium,Return
+CASE-000198,Issue #198,ACC-000345,CON-000647,Installation,New,Email,Medium,Network Issue
+CASE-000199,Issue #199,ACC-000361,CON-000260,Billing,New,Email,Medium,Bug
+CASE-000200,Issue #200,ACC-000365,CON-001435,Connectivity,New,Web,Medium,Return
+CASE-000201,Issue #201,ACC-000311,CON-000166,Equipment,Closed,Web,Low,Other
+CASE-000202,Issue #202,ACC-000258,CON-000430,Billing,Closed,Web,High,Network Issue
+CASE-000203,Issue #203,ACC-000414,CON-000960,Electrical,Working,Email,Low,Return
+CASE-000204,Issue #204,ACC-000280,CON-001135,Equipment,Closed,Phone,Medium,Return
+CASE-000205,Issue #205,ACC-000028,CON-001429,Connectivity,Working,Email,Low,Bug
+CASE-000206,Issue #206,ACC-000202,CON-001104,Shipping,Closed,Phone,Medium,Network Issue
+CASE-000207,Issue #207,ACC-000453,CON-001256,Connectivity,Closed,Email,Medium,Return
+CASE-000208,Issue #208,ACC-000222,CON-000739,Billing,Working,Email,Medium,Bug
+CASE-000209,Issue #209,ACC-000438,CON-000140,Installation,Closed,Web,Medium,Bug
+CASE-000210,Issue #210,ACC-000332,CON-001165,Equipment,Working,Email,Low,Other
+CASE-000211,Issue #211,ACC-000066,CON-000528,Installation,New,Web,High,Other
+CASE-000212,Issue #212,ACC-000034,CON-000426,Electrical,Working,Web,Medium,Equipment Complexity
+CASE-000213,Issue #213,ACC-000377,CON-001014,Electrical,Closed,Phone,Medium,Performance
+CASE-000214,Issue #214,ACC-000105,CON-000310,Equipment,Working,Web,Medium,Return
+CASE-000215,Issue #215,ACC-000306,CON-000987,Shipping,Closed,Web,High,Equipment Complexity
+CASE-000216,Issue #216,ACC-000367,CON-000194,Installation,New,Email,Low,Bug
+CASE-000217,Issue #217,ACC-000150,CON-000536,Installation,Working,Email,High,Shipment Damaged
+CASE-000218,Issue #218,ACC-000312,CON-000297,Equipment,New,Phone,Medium,Network Issue
+CASE-000219,Issue #219,ACC-000417,CON-000053,Installation,Working,Web,Medium,Shipment Damaged
+CASE-000220,Issue #220,ACC-000388,CON-000586,Software,New,Email,Low,Performance
+CASE-000221,Issue #221,ACC-000191,CON-001334,Installation,Working,Web,Low,Performance
+CASE-000222,Issue #222,ACC-000388,CON-001435,Shipping,Working,Email,Low,Other
+CASE-000223,Issue #223,ACC-000136,CON-000706,Installation,Closed,Web,Medium,Return
+CASE-000224,Issue #224,ACC-000411,CON-000285,Connectivity,New,Web,High,Shipment Damaged
+CASE-000225,Issue #225,ACC-000013,CON-001007,Equipment,New,Web,Low,Equipment Complexity
+CASE-000226,Issue #226,ACC-000262,CON-001195,Installation,Closed,Phone,Low,Equipment Complexity
+CASE-000227,Issue #227,ACC-000041,CON-001102,Equipment,New,Phone,Medium,Network Issue
+CASE-000228,Issue #228,ACC-000436,CON-000825,Software,Working,Email,Medium,Bug
+CASE-000229,Issue #229,ACC-000422,CON-000854,Electrical,Working,Email,Medium,Bug
+CASE-000230,Issue #230,ACC-000104,CON-000347,Billing,Working,Web,Medium,Other
+CASE-000231,Issue #231,ACC-000163,CON-001220,Equipment,Closed,Web,Medium,Equipment Complexity
+CASE-000232,Issue #232,ACC-000271,CON-000390,Equipment,Closed,Web,Medium,Return
+CASE-000233,Issue #233,ACC-000477,CON-000682,Software,Working,Email,Medium,Network Issue
+CASE-000234,Issue #234,ACC-000396,CON-000880,Installation,Closed,Phone,High,Bug
+CASE-000235,Issue #235,ACC-000169,CON-001208,Shipping,Closed,Email,Medium,Equipment Complexity
+CASE-000236,Issue #236,ACC-000285,CON-000710,Equipment,Closed,Phone,Low,Return
+CASE-000237,Issue #237,ACC-000238,CON-000346,Billing,New,Email,Low,Other
+CASE-000238,Issue #238,ACC-000226,CON-000443,Connectivity,Working,Email,Low,Bug
+CASE-000239,Issue #239,ACC-000078,CON-000838,Connectivity,Closed,Web,High,Performance
+CASE-000240,Issue #240,ACC-000115,CON-001121,Installation,New,Phone,Low,Network Issue
+CASE-000241,Issue #241,ACC-000385,CON-000504,Equipment,Working,Phone,Low,Bug
+CASE-000242,Issue #242,ACC-000371,CON-000680,Connectivity,New,Phone,Medium,Other
+CASE-000243,Issue #243,ACC-000395,CON-000763,Shipping,New,Email,Low,Other
+CASE-000244,Issue #244,ACC-000271,CON-001236,Electrical,Closed,Email,Low,Network Issue
+CASE-000245,Issue #245,ACC-000246,CON-001456,Billing,Working,Web,Medium,Shipment Damaged
+CASE-000246,Issue #246,ACC-000341,CON-000288,Shipping,Closed,Web,High,Network Issue
+CASE-000247,Issue #247,ACC-000104,CON-000122,Software,New,Phone,Medium,Other
+CASE-000248,Issue #248,ACC-000340,CON-000124,Shipping,Working,Email,Low,Return
+CASE-000249,Issue #249,ACC-000099,CON-001353,Billing,Closed,Phone,Low,Performance
+CASE-000250,Issue #250,ACC-000414,CON-000466,Connectivity,Working,Web,Medium,Equipment Complexity
+CASE-000251,Issue #251,ACC-000425,CON-000101,Connectivity,Closed,Phone,Medium,Performance
+CASE-000252,Issue #252,ACC-000421,CON-000223,Electrical,Working,Phone,Low,Bug
+CASE-000253,Issue #253,ACC-000499,CON-000720,Billing,Working,Email,Medium,Network Issue
+CASE-000254,Issue #254,ACC-000484,CON-001331,Software,Closed,Phone,High,Performance
+CASE-000255,Issue #255,ACC-000351,CON-000050,Equipment,Closed,Phone,Low,Return
+CASE-000256,Issue #256,ACC-000100,CON-001212,Software,Working,Web,Low,Shipment Damaged
+CASE-000257,Issue #257,ACC-000077,CON-001018,Installation,Working,Phone,Low,Performance
+CASE-000258,Issue #258,ACC-000489,CON-000497,Equipment,New,Email,Medium,Network Issue
+CASE-000259,Issue #259,ACC-000277,CON-000546,Installation,Working,Web,High,Bug
+CASE-000260,Issue #260,ACC-000127,CON-000524,Software,Closed,Email,Low,Performance
+CASE-000261,Issue #261,ACC-000300,CON-000091,Electrical,Working,Phone,Medium,Bug
+CASE-000262,Issue #262,ACC-000106,CON-001419,Billing,Working,Web,Medium,Equipment Complexity
+CASE-000263,Issue #263,ACC-000107,CON-000272,Connectivity,Closed,Email,Medium,Performance
+CASE-000264,Issue #264,ACC-000343,CON-000964,Installation,New,Phone,High,Bug
+CASE-000265,Issue #265,ACC-000078,CON-000822,Connectivity,Working,Email,Low,Equipment Complexity
+CASE-000266,Issue #266,ACC-000492,CON-001232,Shipping,Working,Web,Medium,Bug
+CASE-000267,Issue #267,ACC-000397,CON-000734,Equipment,Closed,Phone,Medium,Return
+CASE-000268,Issue #268,ACC-000005,CON-000781,Software,Closed,Phone,Low,Shipment Damaged
+CASE-000269,Issue #269,ACC-000184,CON-000749,Connectivity,Working,Web,Medium,Shipment Damaged
+CASE-000270,Issue #270,ACC-000135,CON-000731,Installation,New,Web,High,Shipment Damaged
+CASE-000271,Issue #271,ACC-000344,CON-000977,Connectivity,Closed,Web,High,Equipment Complexity
+CASE-000272,Issue #272,ACC-000360,CON-000589,Connectivity,Closed,Email,Medium,Network Issue
+CASE-000273,Issue #273,ACC-000236,CON-000177,Equipment,New,Email,Medium,Return
+CASE-000274,Issue #274,ACC-000494,CON-001308,Installation,Closed,Phone,Low,Shipment Damaged
+CASE-000275,Issue #275,ACC-000186,CON-000785,Electrical,Closed,Web,Medium,Performance
+CASE-000276,Issue #276,ACC-000015,CON-001166,Software,Working,Web,Low,Return
+CASE-000277,Issue #277,ACC-000467,CON-000542,Connectivity,Working,Phone,Medium,Performance
+CASE-000278,Issue #278,ACC-000002,CON-001211,Equipment,Working,Email,Medium,Bug
+CASE-000279,Issue #279,ACC-000300,CON-000439,Software,New,Email,Medium,Other
+CASE-000280,Issue #280,ACC-000422,CON-000462,Connectivity,New,Phone,Medium,Bug
+CASE-000281,Issue #281,ACC-000371,CON-001147,Equipment,Closed,Web,High,Bug
+CASE-000282,Issue #282,ACC-000439,CON-001230,Connectivity,New,Web,Low,Bug
+CASE-000283,Issue #283,ACC-000200,CON-000156,Connectivity,Working,Email,Medium,Performance
+CASE-000284,Issue #284,ACC-000136,CON-001323,Equipment,New,Phone,Medium,Other
+CASE-000285,Issue #285,ACC-000277,CON-000233,Connectivity,Working,Web,Low,Performance
+CASE-000286,Issue #286,ACC-000341,CON-000607,Billing,Working,Email,Low,Return
+CASE-000287,Issue #287,ACC-000212,CON-000140,Installation,Working,Web,Low,Network Issue
+CASE-000288,Issue #288,ACC-000185,CON-000273,Shipping,New,Web,High,Shipment Damaged
+CASE-000289,Issue #289,ACC-000021,CON-000454,Installation,Closed,Phone,Low,Performance
+CASE-000290,Issue #290,ACC-000333,CON-000314,Electrical,Closed,Email,Low,Bug
+CASE-000291,Issue #291,ACC-000272,CON-001304,Shipping,Working,Email,Medium,Performance
+CASE-000292,Issue #292,ACC-000435,CON-000041,Shipping,Working,Phone,High,Equipment Complexity
+CASE-000293,Issue #293,ACC-000331,CON-000676,Electrical,Closed,Phone,Medium,Return
+CASE-000294,Issue #294,ACC-000117,CON-000474,Software,Working,Email,High,Return
+CASE-000295,Issue #295,ACC-000001,CON-000381,Equipment,Closed,Web,Medium,Performance
+CASE-000296,Issue #296,ACC-000097,CON-001160,Connectivity,New,Phone,Low,Other
+CASE-000297,Issue #297,ACC-000070,CON-000699,Connectivity,New,Email,Medium,Bug
+CASE-000298,Issue #298,ACC-000408,CON-000153,Shipping,New,Phone,High,Return
+CASE-000299,Issue #299,ACC-000291,CON-000882,Electrical,Closed,Phone,Low,Performance
+CASE-000300,Issue #300,ACC-000038,CON-000470,Installation,Working,Phone,Medium,Bug
+CASE-000301,Issue #301,ACC-000048,CON-000273,Electrical,New,Phone,Medium,Shipment Damaged
+CASE-000302,Issue #302,ACC-000304,CON-000052,Connectivity,New,Web,Medium,Performance
+CASE-000303,Issue #303,ACC-000213,CON-001410,Connectivity,Closed,Email,Low,Other
+CASE-000304,Issue #304,ACC-000113,CON-000054,Equipment,Closed,Web,High,Other
+CASE-000305,Issue #305,ACC-000046,CON-000896,Billing,Closed,Web,Low,Equipment Complexity
+CASE-000306,Issue #306,ACC-000355,CON-001222,Equipment,New,Email,Medium,Network Issue
+CASE-000307,Issue #307,ACC-000220,CON-000277,Connectivity,Working,Web,Medium,Equipment Complexity
+CASE-000308,Issue #308,ACC-000369,CON-001067,Billing,Closed,Phone,Low,Bug
+CASE-000309,Issue #309,ACC-000131,CON-000231,Shipping,Working,Web,Low,Other
+CASE-000310,Issue #310,ACC-000054,CON-000682,Equipment,Working,Web,High,Other
+CASE-000311,Issue #311,ACC-000034,CON-000383,Installation,Closed,Web,Low,Shipment Damaged
+CASE-000312,Issue #312,ACC-000184,CON-001249,Equipment,Working,Phone,Low,Bug
+CASE-000313,Issue #313,ACC-000397,CON-001332,Equipment,Closed,Web,Medium,Bug
+CASE-000314,Issue #314,ACC-000298,CON-001308,Software,Working,Web,Low,Return
+CASE-000315,Issue #315,ACC-000275,CON-001166,Installation,New,Email,Low,Equipment Complexity
+CASE-000316,Issue #316,ACC-000228,CON-001196,Electrical,New,Email,High,Equipment Complexity
+CASE-000317,Issue #317,ACC-000114,CON-000051,Software,Working,Email,Low,Return
+CASE-000318,Issue #318,ACC-000256,CON-001126,Electrical,Working,Web,High,Other
+CASE-000319,Issue #319,ACC-000371,CON-000385,Installation,Closed,Phone,Low,Performance
+CASE-000320,Issue #320,ACC-000183,CON-001010,Software,Closed,Email,Low,Network Issue
+CASE-000321,Issue #321,ACC-000256,CON-000411,Electrical,Working,Email,Medium,Equipment Complexity
+CASE-000322,Issue #322,ACC-000343,CON-000374,Billing,Working,Phone,Low,Equipment Complexity
+CASE-000323,Issue #323,ACC-000482,CON-000974,Installation,New,Web,Medium,Performance
+CASE-000324,Issue #324,ACC-000043,CON-000982,Connectivity,New,Phone,Medium,Performance
+CASE-000325,Issue #325,ACC-000350,CON-000893,Equipment,Closed,Phone,Low,Network Issue
+CASE-000326,Issue #326,ACC-000076,CON-000064,Shipping,New,Phone,High,Shipment Damaged
+CASE-000327,Issue #327,ACC-000312,CON-000033,Shipping,Working,Email,Medium,Network Issue
+CASE-000328,Issue #328,ACC-000334,CON-000593,Equipment,Working,Phone,Low,Equipment Complexity
+CASE-000329,Issue #329,ACC-000483,CON-000407,Electrical,Closed,Web,Medium,Shipment Damaged
+CASE-000330,Issue #330,ACC-000255,CON-001403,Shipping,Working,Email,High,Performance
+CASE-000331,Issue #331,ACC-000048,CON-000358,Equipment,New,Web,Medium,Other
+CASE-000332,Issue #332,ACC-000323,CON-000030,Equipment,Closed,Email,Medium,Bug
+CASE-000333,Issue #333,ACC-000164,CON-001337,Billing,Closed,Web,Medium,Other
+CASE-000334,Issue #334,ACC-000201,CON-000717,Billing,Closed,Email,Medium,Return
+CASE-000335,Issue #335,ACC-000255,CON-001013,Billing,Working,Phone,Low,Other
+CASE-000336,Issue #336,ACC-000400,CON-000243,Software,Working,Web,Low,Other
+CASE-000337,Issue #337,ACC-000436,CON-000769,Electrical,Closed,Phone,Low,Performance
+CASE-000338,Issue #338,ACC-000367,CON-001305,Equipment,Closed,Email,Medium,Performance
+CASE-000339,Issue #339,ACC-000320,CON-000629,Installation,Closed,Email,High,Return
+CASE-000340,Issue #340,ACC-000374,CON-000880,Equipment,Working,Phone,Low,Network Issue
+CASE-000341,Issue #341,ACC-000159,CON-000881,Electrical,Working,Phone,Medium,Other
+CASE-000342,Issue #342,ACC-000001,CON-000878,Electrical,New,Phone,Medium,Bug
+CASE-000343,Issue #343,ACC-000020,CON-000935,Electrical,New,Email,Medium,Network Issue
+CASE-000344,Issue #344,ACC-000375,CON-001016,Connectivity,Working,Email,Medium,Performance
+CASE-000345,Issue #345,ACC-000499,CON-000726,Equipment,Working,Phone,Low,Equipment Complexity
+CASE-000346,Issue #346,ACC-000359,CON-000645,Connectivity,New,Email,Medium,Network Issue
+CASE-000347,Issue #347,ACC-000363,CON-000263,Billing,Closed,Email,High,Network Issue
+CASE-000348,Issue #348,ACC-000269,CON-000847,Electrical,New,Phone,Low,Other
+CASE-000349,Issue #349,ACC-000440,CON-000759,Connectivity,Working,Web,Medium,Bug
+CASE-000350,Issue #350,ACC-000313,CON-001349,Electrical,Working,Phone,Medium,Bug
+CASE-000351,Issue #351,ACC-000034,CON-000931,Connectivity,Closed,Phone,High,Shipment Damaged
+CASE-000352,Issue #352,ACC-000286,CON-001377,Connectivity,Closed,Web,Medium,Return
+CASE-000353,Issue #353,ACC-000403,CON-000827,Installation,Working,Phone,Low,Network Issue
+CASE-000354,Issue #354,ACC-000426,CON-000866,Software,Closed,Email,Low,Equipment Complexity
+CASE-000355,Issue #355,ACC-000417,CON-001492,Electrical,New,Phone,Medium,Network Issue
+CASE-000356,Issue #356,ACC-000119,CON-000954,Equipment,Closed,Web,High,Performance
+CASE-000357,Issue #357,ACC-000126,CON-000546,Connectivity,Closed,Email,Medium,Other
+CASE-000358,Issue #358,ACC-000473,CON-000130,Billing,Closed,Web,Low,Performance
+CASE-000359,Issue #359,ACC-000348,CON-000393,Shipping,Working,Phone,Low,Network Issue
+CASE-000360,Issue #360,ACC-000394,CON-000776,Equipment,Working,Email,Low,Equipment Complexity
+CASE-000361,Issue #361,ACC-000201,CON-000710,Software,Closed,Web,Low,Return
+CASE-000362,Issue #362,ACC-000422,CON-001072,Billing,New,Web,Medium,Equipment Complexity
+CASE-000363,Issue #363,ACC-000415,CON-001444,Installation,Closed,Email,Low,Other
+CASE-000364,Issue #364,ACC-000340,CON-001046,Software,Working,Web,High,Performance
+CASE-000365,Issue #365,ACC-000257,CON-000391,Installation,Working,Email,High,Equipment Complexity
+CASE-000366,Issue #366,ACC-000005,CON-000561,Connectivity,Closed,Web,Low,Other
+CASE-000367,Issue #367,ACC-000210,CON-000641,Connectivity,Closed,Email,Medium,Return
+CASE-000368,Issue #368,ACC-000046,CON-000606,Installation,Closed,Email,Medium,Shipment Damaged
+CASE-000369,Issue #369,ACC-000310,CON-000831,Software,New,Email,High,Equipment Complexity
+CASE-000370,Issue #370,ACC-000392,CON-001141,Software,Working,Phone,Low,Performance
+CASE-000371,Issue #371,ACC-000174,CON-001188,Shipping,Working,Phone,Medium,Return
+CASE-000372,Issue #372,ACC-000014,CON-000182,Electrical,Closed,Email,Medium,Shipment Damaged
+CASE-000373,Issue #373,ACC-000278,CON-001225,Software,Closed,Email,High,Return
+CASE-000374,Issue #374,ACC-000475,CON-001402,Shipping,Closed,Phone,Medium,Performance
+CASE-000375,Issue #375,ACC-000203,CON-001115,Electrical,Working,Web,Medium,Bug
+CASE-000376,Issue #376,ACC-000362,CON-000629,Connectivity,Closed,Web,Low,Performance
+CASE-000377,Issue #377,ACC-000383,CON-001445,Installation,Closed,Phone,Medium,Equipment Complexity
+CASE-000378,Issue #378,ACC-000321,CON-000432,Shipping,Working,Web,Low,Equipment Complexity
+CASE-000379,Issue #379,ACC-000073,CON-000925,Shipping,Working,Email,Medium,Return
+CASE-000380,Issue #380,ACC-000200,CON-001025,Connectivity,Working,Phone,Medium,Shipment Damaged
+CASE-000381,Issue #381,ACC-000481,CON-000084,Software,Closed,Email,Low,Equipment Complexity
+CASE-000382,Issue #382,ACC-000140,CON-000692,Installation,Closed,Email,Low,Network Issue
+CASE-000383,Issue #383,ACC-000081,CON-000019,Connectivity,New,Phone,Low,Equipment Complexity
+CASE-000384,Issue #384,ACC-000238,CON-000027,Connectivity,Working,Phone,Medium,Performance
+CASE-000385,Issue #385,ACC-000324,CON-000208,Software,Closed,Email,Low,Shipment Damaged
+CASE-000386,Issue #386,ACC-000482,CON-001342,Billing,New,Phone,Low,Other
+CASE-000387,Issue #387,ACC-000494,CON-000101,Electrical,Working,Email,Low,Network Issue
+CASE-000388,Issue #388,ACC-000428,CON-000601,Billing,Working,Phone,High,Bug
+CASE-000389,Issue #389,ACC-000197,CON-000460,Connectivity,Working,Email,Medium,Equipment Complexity
+CASE-000390,Issue #390,ACC-000285,CON-000353,Connectivity,New,Email,Medium,Network Issue
+CASE-000391,Issue #391,ACC-000114,CON-000324,Billing,New,Email,Medium,Other
+CASE-000392,Issue #392,ACC-000305,CON-000453,Installation,Closed,Email,Medium,Equipment Complexity
+CASE-000393,Issue #393,ACC-000383,CON-000107,Installation,Working,Email,Low,Shipment Damaged
+CASE-000394,Issue #394,ACC-000370,CON-000690,Shipping,Closed,Phone,Medium,Performance
+CASE-000395,Issue #395,ACC-000262,CON-001276,Electrical,Working,Phone,Low,Performance
+CASE-000396,Issue #396,ACC-000253,CON-000543,Software,Closed,Phone,Low,Equipment Complexity
+CASE-000397,Issue #397,ACC-000255,CON-001306,Shipping,Working,Phone,Medium,Bug
+CASE-000398,Issue #398,ACC-000340,CON-000166,Connectivity,New,Email,Low,Return
+CASE-000399,Issue #399,ACC-000253,CON-000624,Shipping,Closed,Email,High,Other
+CASE-000400,Issue #400,ACC-000256,CON-001191,Shipping,Closed,Phone,Low,Equipment Complexity
+CASE-000401,Issue #401,ACC-000095,CON-001060,Equipment,Closed,Phone,Medium,Other
+CASE-000402,Issue #402,ACC-000067,CON-000877,Electrical,Closed,Email,Medium,Return
+CASE-000403,Issue #403,ACC-000491,CON-000630,Electrical,New,Email,High,Network Issue
+CASE-000404,Issue #404,ACC-000449,CON-001019,Installation,Working,Email,Medium,Network Issue
+CASE-000405,Issue #405,ACC-000341,CON-001156,Software,Closed,Phone,High,Return
+CASE-000406,Issue #406,ACC-000281,CON-000682,Equipment,New,Email,Medium,Network Issue
+CASE-000407,Issue #407,ACC-000433,CON-001358,Equipment,Working,Web,High,Return
+CASE-000408,Issue #408,ACC-000205,CON-001124,Shipping,New,Phone,Low,Network Issue
+CASE-000409,Issue #409,ACC-000113,CON-000393,Software,Closed,Phone,Low,Network Issue
+CASE-000410,Issue #410,ACC-000024,CON-000127,Software,Closed,Email,Medium,Shipment Damaged
+CASE-000411,Issue #411,ACC-000395,CON-001138,Shipping,New,Phone,Low,Return
+CASE-000412,Issue #412,ACC-000084,CON-000338,Connectivity,New,Phone,Medium,Shipment Damaged
+CASE-000413,Issue #413,ACC-000455,CON-001034,Equipment,New,Web,High,Bug
+CASE-000414,Issue #414,ACC-000168,CON-000297,Connectivity,Closed,Phone,Medium,Other
+CASE-000415,Issue #415,ACC-000459,CON-000229,Software,Closed,Email,Low,Other
+CASE-000416,Issue #416,ACC-000382,CON-000317,Equipment,Working,Email,High,Equipment Complexity
+CASE-000417,Issue #417,ACC-000077,CON-000395,Installation,Working,Phone,High,Network Issue
+CASE-000418,Issue #418,ACC-000256,CON-000228,Software,Working,Email,High,Return
+CASE-000419,Issue #419,ACC-000026,CON-000015,Installation,Closed,Email,Low,Performance
+CASE-000420,Issue #420,ACC-000287,CON-000201,Equipment,Working,Web,High,Other
+CASE-000421,Issue #421,ACC-000384,CON-000813,Billing,Working,Email,High,Other
+CASE-000422,Issue #422,ACC-000419,CON-000088,Shipping,New,Phone,Medium,Other
+CASE-000423,Issue #423,ACC-000281,CON-001253,Electrical,New,Phone,Low,Return
+CASE-000424,Issue #424,ACC-000229,CON-000087,Installation,Closed,Web,Low,Shipment Damaged
+CASE-000425,Issue #425,ACC-000480,CON-000890,Shipping,Working,Web,Low,Equipment Complexity
+CASE-000426,Issue #426,ACC-000282,CON-001021,Software,Closed,Web,Low,Return
+CASE-000427,Issue #427,ACC-000019,CON-000004,Installation,New,Phone,Medium,Network Issue
+CASE-000428,Issue #428,ACC-000495,CON-000554,Billing,Working,Web,Low,Return
+CASE-000429,Issue #429,ACC-000496,CON-001249,Software,Closed,Phone,Low,Other
+CASE-000430,Issue #430,ACC-000102,CON-000887,Installation,Closed,Phone,Medium,Other
+CASE-000431,Issue #431,ACC-000298,CON-000631,Electrical,New,Email,Medium,Equipment Complexity
+CASE-000432,Issue #432,ACC-000256,CON-000247,Software,Working,Phone,High,Network Issue
+CASE-000433,Issue #433,ACC-000341,CON-000109,Software,Closed,Web,Medium,Bug
+CASE-000434,Issue #434,ACC-000496,CON-000978,Billing,Closed,Web,Low,Performance
+CASE-000435,Issue #435,ACC-000137,CON-000819,Shipping,Closed,Phone,Low,Performance
+CASE-000436,Issue #436,ACC-000433,CON-000021,Billing,Working,Web,High,Network Issue
+CASE-000437,Issue #437,ACC-000259,CON-000425,Billing,New,Email,Medium,Network Issue
+CASE-000438,Issue #438,ACC-000294,CON-000030,Billing,Working,Web,Medium,Return
+CASE-000439,Issue #439,ACC-000033,CON-000270,Electrical,Working,Phone,Medium,Other
+CASE-000440,Issue #440,ACC-000487,CON-000924,Shipping,Closed,Email,Low,Network Issue
+CASE-000441,Issue #441,ACC-000433,CON-000194,Shipping,New,Phone,Low,Network Issue
+CASE-000442,Issue #442,ACC-000194,CON-000514,Billing,Closed,Phone,Low,Equipment Complexity
+CASE-000443,Issue #443,ACC-000353,CON-000993,Software,New,Email,High,Equipment Complexity
+CASE-000444,Issue #444,ACC-000393,CON-000928,Electrical,Closed,Web,High,Other
+CASE-000445,Issue #445,ACC-000471,CON-000030,Equipment,Working,Web,Medium,Equipment Complexity
+CASE-000446,Issue #446,ACC-000210,CON-000170,Electrical,Closed,Email,Low,Other
+CASE-000447,Issue #447,ACC-000196,CON-000978,Installation,Closed,Email,Medium,Bug
+CASE-000448,Issue #448,ACC-000240,CON-000880,Shipping,Working,Web,Low,Other
+CASE-000449,Issue #449,ACC-000213,CON-000654,Electrical,New,Web,Low,Performance
+CASE-000450,Issue #450,ACC-000058,CON-001014,Shipping,Closed,Phone,Medium,Network Issue
+CASE-000451,Issue #451,ACC-000001,CON-001116,Software,Working,Web,Low,Shipment Damaged
+CASE-000452,Issue #452,ACC-000249,CON-000666,Software,Working,Phone,Medium,Equipment Complexity
+CASE-000453,Issue #453,ACC-000197,CON-001455,Equipment,Closed,Phone,Low,Equipment Complexity
+CASE-000454,Issue #454,ACC-000270,CON-001155,Electrical,Closed,Phone,Medium,Equipment Complexity
+CASE-000455,Issue #455,ACC-000377,CON-001406,Shipping,Closed,Email,Medium,Network Issue
+CASE-000456,Issue #456,ACC-000344,CON-000690,Software,Working,Email,Low,Return
+CASE-000457,Issue #457,ACC-000395,CON-000717,Electrical,Closed,Phone,High,Network Issue
+CASE-000458,Issue #458,ACC-000239,CON-000944,Connectivity,Working,Web,Low,Bug
+CASE-000459,Issue #459,ACC-000423,CON-001009,Shipping,New,Phone,Medium,Return
+CASE-000460,Issue #460,ACC-000171,CON-000928,Billing,Closed,Phone,Medium,Equipment Complexity
+CASE-000461,Issue #461,ACC-000479,CON-000054,Installation,Working,Web,High,Return
+CASE-000462,Issue #462,ACC-000050,CON-001311,Shipping,New,Phone,Low,Other
+CASE-000463,Issue #463,ACC-000389,CON-000163,Shipping,Working,Phone,Low,Performance
+CASE-000464,Issue #464,ACC-000500,CON-000124,Billing,New,Email,Medium,Bug
+CASE-000465,Issue #465,ACC-000162,CON-000162,Connectivity,New,Web,Medium,Return
+CASE-000466,Issue #466,ACC-000056,CON-000514,Shipping,New,Web,Low,Bug
+CASE-000467,Issue #467,ACC-000397,CON-000255,Software,Working,Email,Medium,Network Issue
+CASE-000468,Issue #468,ACC-000397,CON-000418,Shipping,Closed,Phone,Medium,Performance
+CASE-000469,Issue #469,ACC-000033,CON-000989,Billing,New,Email,High,Equipment Complexity
+CASE-000470,Issue #470,ACC-000143,CON-000264,Connectivity,New,Phone,Medium,Return
+CASE-000471,Issue #471,ACC-000145,CON-000825,Electrical,Working,Phone,Medium,Bug
+CASE-000472,Issue #472,ACC-000214,CON-000176,Software,New,Web,Low,Equipment Complexity
+CASE-000473,Issue #473,ACC-000347,CON-000088,Equipment,Working,Web,High,Return
+CASE-000474,Issue #474,ACC-000164,CON-000511,Equipment,Closed,Phone,Medium,Equipment Complexity
+CASE-000475,Issue #475,ACC-000376,CON-000755,Billing,Working,Phone,Low,Network Issue
+CASE-000476,Issue #476,ACC-000250,CON-000579,Connectivity,Working,Email,High,Performance
+CASE-000477,Issue #477,ACC-000345,CON-001367,Installation,New,Email,Medium,Bug
+CASE-000478,Issue #478,ACC-000305,CON-001321,Installation,Closed,Phone,High,Equipment Complexity
+CASE-000479,Issue #479,ACC-000086,CON-000625,Installation,New,Email,Low,Shipment Damaged
+CASE-000480,Issue #480,ACC-000463,CON-000864,Equipment,Working,Phone,High,Equipment Complexity
+CASE-000481,Issue #481,ACC-000418,CON-000991,Software,New,Phone,Medium,Return
+CASE-000482,Issue #482,ACC-000082,CON-000933,Billing,New,Email,Low,Equipment Complexity
+CASE-000483,Issue #483,ACC-000368,CON-000661,Equipment,New,Phone,High,Bug
+CASE-000484,Issue #484,ACC-000190,CON-000856,Shipping,New,Email,Low,Equipment Complexity
+CASE-000485,Issue #485,ACC-000073,CON-001008,Equipment,New,Web,Low,Return
+CASE-000486,Issue #486,ACC-000233,CON-000691,Shipping,Closed,Email,Medium,Network Issue
+CASE-000487,Issue #487,ACC-000147,CON-000621,Billing,Working,Email,High,Network Issue
+CASE-000488,Issue #488,ACC-000489,CON-001414,Electrical,New,Email,Medium,Other
+CASE-000489,Issue #489,ACC-000346,CON-000612,Shipping,Closed,Email,Medium,Equipment Complexity
+CASE-000490,Issue #490,ACC-000070,CON-000239,Installation,Working,Web,Medium,Performance
+CASE-000491,Issue #491,ACC-000120,CON-000583,Software,Closed,Email,Low,Equipment Complexity
+CASE-000492,Issue #492,ACC-000260,CON-000234,Connectivity,Closed,Email,Medium,Equipment Complexity
+CASE-000493,Issue #493,ACC-000191,CON-000139,Electrical,New,Phone,High,Performance
+CASE-000494,Issue #494,ACC-000271,CON-000219,Equipment,Working,Phone,Medium,Shipment Damaged
+CASE-000495,Issue #495,ACC-000188,CON-001146,Billing,Closed,Web,Medium,Equipment Complexity
+CASE-000496,Issue #496,ACC-000462,CON-000371,Installation,Closed,Web,High,Equipment Complexity
+CASE-000497,Issue #497,ACC-000368,CON-000081,Connectivity,Closed,Web,High,Shipment Damaged
+CASE-000498,Issue #498,ACC-000088,CON-001357,Software,Closed,Phone,High,Equipment Complexity
+CASE-000499,Issue #499,ACC-000354,CON-000379,Installation,New,Web,High,Equipment Complexity
+CASE-000500,Issue #500,ACC-000131,CON-000586,Installation,New,Web,Low,Performance
+CASE-000501,Issue #501,ACC-000485,CON-001451,Software,Working,Phone,Medium,Shipment Damaged
+CASE-000502,Issue #502,ACC-000292,CON-000441,Shipping,New,Web,Low,Other
+CASE-000503,Issue #503,ACC-000118,CON-001315,Shipping,Working,Phone,High,Performance
+CASE-000504,Issue #504,ACC-000287,CON-000698,Software,Working,Phone,Low,Other
+CASE-000505,Issue #505,ACC-000418,CON-001032,Billing,Closed,Email,High,Return
+CASE-000506,Issue #506,ACC-000018,CON-000452,Shipping,New,Email,Low,Shipment Damaged
+CASE-000507,Issue #507,ACC-000210,CON-000748,Electrical,Closed,Phone,Low,Bug
+CASE-000508,Issue #508,ACC-000287,CON-000270,Software,Closed,Email,Medium,Performance
+CASE-000509,Issue #509,ACC-000057,CON-000501,Connectivity,Working,Web,Low,Other
+CASE-000510,Issue #510,ACC-000269,CON-000785,Shipping,Closed,Phone,Medium,Shipment Damaged
+CASE-000511,Issue #511,ACC-000119,CON-000216,Software,Closed,Web,Medium,Bug
+CASE-000512,Issue #512,ACC-000108,CON-000257,Billing,Closed,Web,Low,Network Issue
+CASE-000513,Issue #513,ACC-000060,CON-000048,Connectivity,Working,Web,Medium,Performance
+CASE-000514,Issue #514,ACC-000253,CON-001031,Billing,New,Email,Low,Network Issue
+CASE-000515,Issue #515,ACC-000438,CON-000294,Billing,Working,Web,Low,Equipment Complexity
+CASE-000516,Issue #516,ACC-000389,CON-001268,Billing,Closed,Email,High,Network Issue
+CASE-000517,Issue #517,ACC-000419,CON-000911,Connectivity,Closed,Web,Low,Equipment Complexity
+CASE-000518,Issue #518,ACC-000216,CON-000025,Electrical,Closed,Web,Medium,Shipment Damaged
+CASE-000519,Issue #519,ACC-000360,CON-000745,Software,Closed,Email,Low,Return
+CASE-000520,Issue #520,ACC-000381,CON-001291,Shipping,New,Phone,Medium,Other
+CASE-000521,Issue #521,ACC-000295,CON-000008,Equipment,New,Email,High,Return
+CASE-000522,Issue #522,ACC-000154,CON-000318,Installation,Working,Web,High,Equipment Complexity
+CASE-000523,Issue #523,ACC-000479,CON-000893,Electrical,Closed,Phone,Low,Bug
+CASE-000524,Issue #524,ACC-000236,CON-000836,Equipment,New,Web,Medium,Shipment Damaged
+CASE-000525,Issue #525,ACC-000334,CON-000695,Connectivity,New,Email,Low,Bug
+CASE-000526,Issue #526,ACC-000169,CON-001412,Connectivity,Closed,Web,Low,Bug
+CASE-000527,Issue #527,ACC-000405,CON-001330,Connectivity,Closed,Email,Low,Equipment Complexity
+CASE-000528,Issue #528,ACC-000357,CON-000059,Equipment,New,Email,Medium,Equipment Complexity
+CASE-000529,Issue #529,ACC-000355,CON-001360,Billing,Closed,Phone,Medium,Bug
+CASE-000530,Issue #530,ACC-000276,CON-000915,Connectivity,New,Email,Medium,Network Issue
+CASE-000531,Issue #531,ACC-000472,CON-000326,Equipment,Closed,Email,Medium,Return
+CASE-000532,Issue #532,ACC-000351,CON-000544,Installation,Closed,Phone,High,Return
+CASE-000533,Issue #533,ACC-000411,CON-000654,Connectivity,Closed,Web,High,Performance
+CASE-000534,Issue #534,ACC-000400,CON-000913,Software,New,Email,Low,Other
+CASE-000535,Issue #535,ACC-000056,CON-001316,Shipping,New,Email,Low,Other
+CASE-000536,Issue #536,ACC-000479,CON-001264,Software,Working,Phone,Medium,Performance
+CASE-000537,Issue #537,ACC-000085,CON-000959,Installation,Working,Web,High,Equipment Complexity
+CASE-000538,Issue #538,ACC-000194,CON-000632,Equipment,Working,Web,Low,Return
+CASE-000539,Issue #539,ACC-000368,CON-000077,Connectivity,New,Phone,Low,Return
+CASE-000540,Issue #540,ACC-000036,CON-000230,Shipping,New,Phone,High,Bug
+CASE-000541,Issue #541,ACC-000243,CON-001040,Connectivity,Working,Phone,Medium,Other
+CASE-000542,Issue #542,ACC-000365,CON-001435,Software,Closed,Web,Low,Shipment Damaged
+CASE-000543,Issue #543,ACC-000154,CON-000497,Electrical,New,Email,Low,Performance
+CASE-000544,Issue #544,ACC-000205,CON-000819,Shipping,Closed,Phone,Low,Network Issue
+CASE-000545,Issue #545,ACC-000044,CON-001026,Billing,New,Phone,Medium,Performance
+CASE-000546,Issue #546,ACC-000179,CON-000744,Installation,Closed,Email,Low,Performance
+CASE-000547,Issue #547,ACC-000407,CON-000934,Connectivity,Closed,Web,Low,Network Issue
+CASE-000548,Issue #548,ACC-000399,CON-000319,Electrical,Working,Web,Low,Equipment Complexity
+CASE-000549,Issue #549,ACC-000451,CON-001439,Shipping,Working,Phone,Medium,Equipment Complexity
+CASE-000550,Issue #550,ACC-000274,CON-000741,Electrical,New,Web,High,Performance
+CASE-000551,Issue #551,ACC-000163,CON-000519,Equipment,Working,Web,Medium,Bug
+CASE-000552,Issue #552,ACC-000383,CON-001414,Electrical,New,Phone,Low,Shipment Damaged
+CASE-000553,Issue #553,ACC-000349,CON-000627,Equipment,Working,Phone,Low,Other
+CASE-000554,Issue #554,ACC-000258,CON-000640,Equipment,New,Web,Low,Shipment Damaged
+CASE-000555,Issue #555,ACC-000497,CON-001348,Equipment,Closed,Web,Low,Shipment Damaged
+CASE-000556,Issue #556,ACC-000486,CON-001080,Connectivity,Working,Email,High,Equipment Complexity
+CASE-000557,Issue #557,ACC-000019,CON-001296,Installation,Working,Phone,Medium,Bug
+CASE-000558,Issue #558,ACC-000275,CON-000516,Connectivity,Working,Phone,Low,Shipment Damaged
+CASE-000559,Issue #559,ACC-000276,CON-000339,Software,Closed,Email,High,Equipment Complexity
+CASE-000560,Issue #560,ACC-000389,CON-000332,Billing,Closed,Phone,Medium,Shipment Damaged
+CASE-000561,Issue #561,ACC-000133,CON-000741,Connectivity,Closed,Phone,High,Bug
+CASE-000562,Issue #562,ACC-000366,CON-001385,Connectivity,Working,Email,High,Equipment Complexity
+CASE-000563,Issue #563,ACC-000042,CON-000543,Shipping,Closed,Email,High,Performance
+CASE-000564,Issue #564,ACC-000322,CON-001101,Electrical,Working,Web,Medium,Shipment Damaged
+CASE-000565,Issue #565,ACC-000182,CON-000399,Software,Closed,Phone,High,Other
+CASE-000566,Issue #566,ACC-000481,CON-000242,Shipping,New,Web,Medium,Other
+CASE-000567,Issue #567,ACC-000384,CON-000739,Software,Closed,Web,Low,Performance
+CASE-000568,Issue #568,ACC-000278,CON-000754,Connectivity,Working,Web,Medium,Network Issue
+CASE-000569,Issue #569,ACC-000009,CON-000733,Installation,New,Email,Low,Network Issue
+CASE-000570,Issue #570,ACC-000417,CON-000405,Shipping,Closed,Web,Medium,Bug
+CASE-000571,Issue #571,ACC-000083,CON-000805,Electrical,Closed,Phone,High,Equipment Complexity
+CASE-000572,Issue #572,ACC-000140,CON-001439,Installation,Working,Web,Medium,Other
+CASE-000573,Issue #573,ACC-000024,CON-000211,Equipment,Working,Email,Medium,Network Issue
+CASE-000574,Issue #574,ACC-000039,CON-000756,Equipment,Closed,Phone,Medium,Network Issue
+CASE-000575,Issue #575,ACC-000206,CON-000059,Equipment,Working,Web,Medium,Equipment Complexity
+CASE-000576,Issue #576,ACC-000481,CON-001282,Connectivity,Closed,Email,Medium,Equipment Complexity
+CASE-000577,Issue #577,ACC-000443,CON-000802,Billing,Working,Phone,High,Bug
+CASE-000578,Issue #578,ACC-000185,CON-000839,Installation,Working,Phone,Low,Equipment Complexity
+CASE-000579,Issue #579,ACC-000294,CON-000708,Shipping,Closed,Phone,Medium,Network Issue
+CASE-000580,Issue #580,ACC-000275,CON-000338,Software,Closed,Phone,High,Return
+CASE-000581,Issue #581,ACC-000201,CON-000751,Software,Working,Email,Low,Equipment Complexity
+CASE-000582,Issue #582,ACC-000281,CON-001174,Installation,Working,Phone,Medium,Shipment Damaged
+CASE-000583,Issue #583,ACC-000271,CON-001435,Electrical,Closed,Web,Medium,Performance
+CASE-000584,Issue #584,ACC-000085,CON-000291,Connectivity,Working,Web,Medium,Performance
+CASE-000585,Issue #585,ACC-000466,CON-001482,Billing,New,Email,High,Bug
+CASE-000586,Issue #586,ACC-000217,CON-000124,Electrical,Closed,Web,Medium,Network Issue
+CASE-000587,Issue #587,ACC-000021,CON-001225,Shipping,Working,Web,High,Other
+CASE-000588,Issue #588,ACC-000449,CON-001230,Software,Closed,Email,Low,Network Issue
+CASE-000589,Issue #589,ACC-000486,CON-001172,Software,New,Phone,Medium,Return
+CASE-000590,Issue #590,ACC-000104,CON-000844,Software,Closed,Web,Medium,Return
+CASE-000591,Issue #591,ACC-000002,CON-000234,Billing,Closed,Web,Low,Return
+CASE-000592,Issue #592,ACC-000430,CON-000611,Billing,Working,Phone,Low,Network Issue
+CASE-000593,Issue #593,ACC-000404,CON-001424,Electrical,Closed,Web,Low,Other
+CASE-000594,Issue #594,ACC-000229,CON-000329,Electrical,New,Web,Low,Network Issue
+CASE-000595,Issue #595,ACC-000121,CON-001104,Electrical,Working,Email,Low,Other
+CASE-000596,Issue #596,ACC-000301,CON-000690,Shipping,New,Phone,Medium,Equipment Complexity
+CASE-000597,Issue #597,ACC-000464,CON-000683,Installation,Working,Web,Medium,Network Issue
+CASE-000598,Issue #598,ACC-000045,CON-000978,Connectivity,New,Phone,Medium,Network Issue
+CASE-000599,Issue #599,ACC-000291,CON-000352,Electrical,New,Web,Low,Network Issue
+CASE-000600,Issue #600,ACC-000251,CON-000047,Installation,Working,Web,Medium,Equipment Complexity
+CASE-000601,Issue #601,ACC-000288,CON-000854,Installation,Working,Email,Low,Bug
+CASE-000602,Issue #602,ACC-000434,CON-000947,Connectivity,Closed,Phone,Low,Performance
+CASE-000603,Issue #603,ACC-000485,CON-000434,Electrical,Closed,Email,Medium,Return
+CASE-000604,Issue #604,ACC-000493,CON-000427,Equipment,New,Web,Low,Equipment Complexity
+CASE-000605,Issue #605,ACC-000237,CON-001120,Equipment,Closed,Phone,Medium,Shipment Damaged
+CASE-000606,Issue #606,ACC-000228,CON-001035,Connectivity,Closed,Web,Low,Return
+CASE-000607,Issue #607,ACC-000081,CON-000894,Equipment,Closed,Web,Medium,Network Issue
+CASE-000608,Issue #608,ACC-000079,CON-000059,Shipping,Closed,Email,Low,Return
+CASE-000609,Issue #609,ACC-000117,CON-000633,Electrical,Working,Email,Low,Bug
+CASE-000610,Issue #610,ACC-000200,CON-001054,Installation,Working,Phone,High,Equipment Complexity
+CASE-000611,Issue #611,ACC-000475,CON-001206,Software,Working,Web,Low,Network Issue
+CASE-000612,Issue #612,ACC-000369,CON-000308,Shipping,Closed,Web,Medium,Other
+CASE-000613,Issue #613,ACC-000428,CON-001381,Electrical,Closed,Phone,Medium,Bug
+CASE-000614,Issue #614,ACC-000067,CON-001121,Billing,New,Phone,Low,Equipment Complexity
+CASE-000615,Issue #615,ACC-000067,CON-001247,Equipment,Closed,Email,Low,Performance
+CASE-000616,Issue #616,ACC-000443,CON-000288,Connectivity,Closed,Phone,Low,Shipment Damaged
+CASE-000617,Issue #617,ACC-000335,CON-000127,Software,Working,Phone,Medium,Other
+CASE-000618,Issue #618,ACC-000140,CON-000298,Software,Closed,Web,Low,Equipment Complexity
+CASE-000619,Issue #619,ACC-000345,CON-000503,Installation,Working,Email,Low,Bug
+CASE-000620,Issue #620,ACC-000288,CON-001242,Equipment,New,Web,Medium,Return
+CASE-000621,Issue #621,ACC-000145,CON-001266,Electrical,Working,Web,Medium,Other
+CASE-000622,Issue #622,ACC-000014,CON-000133,Connectivity,Working,Web,Low,Bug
+CASE-000623,Issue #623,ACC-000100,CON-001093,Connectivity,Closed,Web,Medium,Network Issue
+CASE-000624,Issue #624,ACC-000109,CON-000572,Equipment,Working,Phone,Medium,Other
+CASE-000625,Issue #625,ACC-000366,CON-000917,Connectivity,Closed,Email,Low,Other
+CASE-000626,Issue #626,ACC-000476,CON-000344,Installation,Working,Email,Low,Return
+CASE-000627,Issue #627,ACC-000028,CON-001268,Electrical,Closed,Phone,High,Other
+CASE-000628,Issue #628,ACC-000184,CON-000194,Billing,Working,Phone,Medium,Equipment Complexity
+CASE-000629,Issue #629,ACC-000430,CON-001373,Billing,Working,Phone,Low,Network Issue
+CASE-000630,Issue #630,ACC-000107,CON-001179,Shipping,New,Phone,Medium,Shipment Damaged
+CASE-000631,Issue #631,ACC-000398,CON-000055,Software,Closed,Web,High,Return
+CASE-000632,Issue #632,ACC-000150,CON-000625,Billing,Working,Phone,Low,Bug
+CASE-000633,Issue #633,ACC-000094,CON-000908,Connectivity,New,Phone,Low,Performance
+CASE-000634,Issue #634,ACC-000165,CON-000241,Shipping,Working,Email,High,Shipment Damaged
+CASE-000635,Issue #635,ACC-000190,CON-000381,Shipping,Closed,Web,Low,Network Issue
+CASE-000636,Issue #636,ACC-000395,CON-000827,Software,Working,Phone,High,Other
+CASE-000637,Issue #637,ACC-000485,CON-000269,Shipping,New,Email,High,Equipment Complexity
+CASE-000638,Issue #638,ACC-000449,CON-000227,Equipment,New,Email,High,Other
+CASE-000639,Issue #639,ACC-000253,CON-000209,Connectivity,Closed,Email,Low,Bug
+CASE-000640,Issue #640,ACC-000416,CON-000291,Billing,Closed,Web,High,Performance
+CASE-000641,Issue #641,ACC-000104,CON-000075,Billing,Closed,Web,High,Shipment Damaged
+CASE-000642,Issue #642,ACC-000294,CON-000300,Shipping,Working,Phone,Medium,Equipment Complexity
+CASE-000643,Issue #643,ACC-000051,CON-000144,Software,Working,Phone,Low,Return
+CASE-000644,Issue #644,ACC-000479,CON-000852,Electrical,Working,Email,Low,Equipment Complexity
+CASE-000645,Issue #645,ACC-000135,CON-001013,Equipment,Closed,Web,Low,Shipment Damaged
+CASE-000646,Issue #646,ACC-000467,CON-000408,Installation,Working,Phone,Low,Network Issue
+CASE-000647,Issue #647,ACC-000385,CON-001139,Billing,Closed,Email,Low,Return
+CASE-000648,Issue #648,ACC-000079,CON-000614,Shipping,Working,Phone,Medium,Return
+CASE-000649,Issue #649,ACC-000226,CON-000154,Shipping,Working,Phone,Medium,Other
+CASE-000650,Issue #650,ACC-000021,CON-000115,Billing,Closed,Email,Low,Other
+CASE-000651,Issue #651,ACC-000251,CON-000751,Installation,New,Web,High,Network Issue
+CASE-000652,Issue #652,ACC-000171,CON-001014,Equipment,New,Email,Low,Network Issue
+CASE-000653,Issue #653,ACC-000129,CON-001303,Electrical,Closed,Email,High,Other
+CASE-000654,Issue #654,ACC-000297,CON-001069,Billing,Closed,Phone,Medium,Equipment Complexity
+CASE-000655,Issue #655,ACC-000401,CON-001416,Equipment,New,Email,Medium,Equipment Complexity
+CASE-000656,Issue #656,ACC-000086,CON-000873,Equipment,Working,Web,Medium,Performance
+CASE-000657,Issue #657,ACC-000210,CON-001196,Software,Working,Phone,Medium,Other
+CASE-000658,Issue #658,ACC-000016,CON-000819,Installation,Working,Phone,Low,Bug
+CASE-000659,Issue #659,ACC-000372,CON-000459,Software,Closed,Email,High,Equipment Complexity
+CASE-000660,Issue #660,ACC-000195,CON-001423,Billing,Closed,Web,Low,Performance
+CASE-000661,Issue #661,ACC-000287,CON-000197,Installation,New,Web,Medium,Performance
+CASE-000662,Issue #662,ACC-000492,CON-000782,Software,Working,Web,Medium,Bug
+CASE-000663,Issue #663,ACC-000002,CON-000691,Electrical,Closed,Email,Low,Performance
+CASE-000664,Issue #664,ACC-000227,CON-000088,Connectivity,Closed,Email,High,Shipment Damaged
+CASE-000665,Issue #665,ACC-000143,CON-001209,Electrical,Working,Email,High,Network Issue
+CASE-000666,Issue #666,ACC-000210,CON-001252,Installation,Closed,Email,Medium,Network Issue
+CASE-000667,Issue #667,ACC-000035,CON-001383,Software,Working,Web,Low,Bug
+CASE-000668,Issue #668,ACC-000251,CON-001250,Billing,Working,Email,Medium,Return
+CASE-000669,Issue #669,ACC-000252,CON-000655,Equipment,Working,Web,Low,Bug
+CASE-000670,Issue #670,ACC-000188,CON-000705,Equipment,Working,Web,Low,Bug
+CASE-000671,Issue #671,ACC-000479,CON-001387,Software,Working,Email,High,Network Issue
+CASE-000672,Issue #672,ACC-000200,CON-000303,Equipment,New,Web,Low,Performance
+CASE-000673,Issue #673,ACC-000212,CON-000170,Shipping,Closed,Phone,High,Network Issue
+CASE-000674,Issue #674,ACC-000292,CON-001314,Connectivity,Working,Phone,Medium,Other
+CASE-000675,Issue #675,ACC-000318,CON-001421,Billing,Closed,Email,Low,Other
+CASE-000676,Issue #676,ACC-000189,CON-000749,Software,New,Email,High,Shipment Damaged
+CASE-000677,Issue #677,ACC-000444,CON-000746,Software,Working,Web,Low,Return
+CASE-000678,Issue #678,ACC-000056,CON-000254,Software,Closed,Email,Medium,Network Issue
+CASE-000679,Issue #679,ACC-000089,CON-001474,Connectivity,New,Email,Medium,Other
+CASE-000680,Issue #680,ACC-000232,CON-000176,Shipping,Closed,Email,Low,Network Issue
+CASE-000681,Issue #681,ACC-000394,CON-000036,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-000682,Issue #682,ACC-000361,CON-000204,Connectivity,Closed,Web,High,Shipment Damaged
+CASE-000683,Issue #683,ACC-000439,CON-001346,Electrical,Working,Web,Low,Bug
+CASE-000684,Issue #684,ACC-000430,CON-000221,Connectivity,New,Web,Medium,Performance
+CASE-000685,Issue #685,ACC-000006,CON-001451,Billing,Closed,Email,High,Shipment Damaged
+CASE-000686,Issue #686,ACC-000372,CON-000565,Shipping,New,Phone,High,Other
+CASE-000687,Issue #687,ACC-000428,CON-000660,Billing,Closed,Web,Low,Performance
+CASE-000688,Issue #688,ACC-000161,CON-000720,Equipment,New,Web,Low,Network Issue
+CASE-000689,Issue #689,ACC-000364,CON-001456,Equipment,New,Email,Low,Performance
+CASE-000690,Issue #690,ACC-000314,CON-000891,Equipment,New,Web,Low,Bug
+CASE-000691,Issue #691,ACC-000208,CON-000669,Billing,Closed,Phone,High,Bug
+CASE-000692,Issue #692,ACC-000425,CON-000440,Installation,Closed,Phone,Low,Equipment Complexity
+CASE-000693,Issue #693,ACC-000471,CON-001207,Shipping,Closed,Email,Medium,Performance
+CASE-000694,Issue #694,ACC-000088,CON-000309,Shipping,Closed,Phone,Medium,Bug
+CASE-000695,Issue #695,ACC-000441,CON-000809,Shipping,New,Phone,Medium,Return
+CASE-000696,Issue #696,ACC-000024,CON-000378,Installation,Closed,Email,Low,Return
+CASE-000697,Issue #697,ACC-000499,CON-000350,Software,Working,Phone,High,Other
+CASE-000698,Issue #698,ACC-000072,CON-000276,Connectivity,Closed,Phone,Low,Equipment Complexity
+CASE-000699,Issue #699,ACC-000453,CON-001173,Software,New,Web,Medium,Equipment Complexity
+CASE-000700,Issue #700,ACC-000214,CON-001225,Billing,Closed,Web,Medium,Network Issue
+CASE-000701,Issue #701,ACC-000288,CON-000250,Software,Closed,Email,Medium,Equipment Complexity
+CASE-000702,Issue #702,ACC-000417,CON-001485,Equipment,Working,Web,Medium,Shipment Damaged
+CASE-000703,Issue #703,ACC-000171,CON-001244,Shipping,Working,Phone,Low,Other
+CASE-000704,Issue #704,ACC-000113,CON-001097,Software,New,Phone,Medium,Network Issue
+CASE-000705,Issue #705,ACC-000016,CON-000753,Billing,Working,Email,Low,Equipment Complexity
+CASE-000706,Issue #706,ACC-000479,CON-000317,Equipment,New,Phone,Low,Performance
+CASE-000707,Issue #707,ACC-000442,CON-001408,Connectivity,Working,Email,Medium,Performance
+CASE-000708,Issue #708,ACC-000359,CON-001469,Equipment,Working,Phone,Low,Bug
+CASE-000709,Issue #709,ACC-000458,CON-001064,Shipping,Working,Email,Low,Bug
+CASE-000710,Issue #710,ACC-000018,CON-000881,Shipping,Closed,Phone,Low,Return
+CASE-000711,Issue #711,ACC-000029,CON-000514,Electrical,Working,Phone,High,Performance
+CASE-000712,Issue #712,ACC-000129,CON-000979,Software,Closed,Web,Low,Network Issue
+CASE-000713,Issue #713,ACC-000057,CON-001058,Software,New,Phone,Medium,Bug
+CASE-000714,Issue #714,ACC-000254,CON-000519,Electrical,Closed,Email,Low,Return
+CASE-000715,Issue #715,ACC-000227,CON-000765,Billing,Working,Phone,Low,Equipment Complexity
+CASE-000716,Issue #716,ACC-000127,CON-000492,Billing,Closed,Web,Medium,Performance
+CASE-000717,Issue #717,ACC-000049,CON-001115,Installation,New,Email,Low,Performance
+CASE-000718,Issue #718,ACC-000268,CON-000151,Electrical,New,Web,Low,Bug
+CASE-000719,Issue #719,ACC-000050,CON-000914,Connectivity,New,Email,Medium,Bug
+CASE-000720,Issue #720,ACC-000355,CON-000755,Connectivity,Working,Phone,Medium,Network Issue
+CASE-000721,Issue #721,ACC-000459,CON-000080,Connectivity,Closed,Phone,Low,Return
+CASE-000722,Issue #722,ACC-000298,CON-001192,Installation,Working,Email,High,Bug
+CASE-000723,Issue #723,ACC-000130,CON-000655,Connectivity,Closed,Web,Medium,Network Issue
+CASE-000724,Issue #724,ACC-000275,CON-000815,Installation,Closed,Phone,High,Other
+CASE-000725,Issue #725,ACC-000406,CON-000401,Equipment,Closed,Email,Medium,Performance
+CASE-000726,Issue #726,ACC-000451,CON-000309,Connectivity,Working,Web,Medium,Bug
+CASE-000727,Issue #727,ACC-000373,CON-000163,Installation,New,Phone,High,Shipment Damaged
+CASE-000728,Issue #728,ACC-000268,CON-000734,Connectivity,Closed,Email,Medium,Performance
+CASE-000729,Issue #729,ACC-000163,CON-000966,Shipping,Closed,Web,High,Performance
+CASE-000730,Issue #730,ACC-000117,CON-000717,Shipping,Working,Web,High,Other
+CASE-000731,Issue #731,ACC-000031,CON-000699,Shipping,Working,Email,Medium,Bug
+CASE-000732,Issue #732,ACC-000280,CON-000887,Shipping,Closed,Web,Medium,Performance
+CASE-000733,Issue #733,ACC-000163,CON-001064,Electrical,New,Phone,Low,Shipment Damaged
+CASE-000734,Issue #734,ACC-000267,CON-000618,Billing,Working,Web,Low,Equipment Complexity
+CASE-000735,Issue #735,ACC-000406,CON-000606,Software,New,Phone,Medium,Bug
+CASE-000736,Issue #736,ACC-000265,CON-000678,Electrical,Working,Web,Low,Equipment Complexity
+CASE-000737,Issue #737,ACC-000307,CON-000541,Connectivity,Closed,Email,Low,Performance
+CASE-000738,Issue #738,ACC-000371,CON-000519,Billing,New,Web,Medium,Other
+CASE-000739,Issue #739,ACC-000345,CON-001455,Shipping,Closed,Phone,Low,Other
+CASE-000740,Issue #740,ACC-000382,CON-000158,Shipping,Closed,Email,Medium,Other
+CASE-000741,Issue #741,ACC-000124,CON-000072,Connectivity,Closed,Web,Medium,Equipment Complexity
+CASE-000742,Issue #742,ACC-000005,CON-000053,Connectivity,Closed,Phone,Medium,Other
+CASE-000743,Issue #743,ACC-000449,CON-000639,Connectivity,Closed,Email,High,Performance
+CASE-000744,Issue #744,ACC-000348,CON-001058,Equipment,Closed,Web,Low,Equipment Complexity
+CASE-000745,Issue #745,ACC-000430,CON-001197,Software,Working,Phone,Medium,Shipment Damaged
+CASE-000746,Issue #746,ACC-000351,CON-000635,Connectivity,Closed,Web,Medium,Other
+CASE-000747,Issue #747,ACC-000384,CON-000234,Installation,Closed,Web,High,Network Issue
+CASE-000748,Issue #748,ACC-000177,CON-000278,Connectivity,Closed,Email,Low,Equipment Complexity
+CASE-000749,Issue #749,ACC-000295,CON-001373,Software,Closed,Web,Low,Other
+CASE-000750,Issue #750,ACC-000010,CON-000546,Billing,Closed,Web,Medium,Bug
+CASE-000751,Issue #751,ACC-000447,CON-000457,Shipping,Working,Email,High,Network Issue
+CASE-000752,Issue #752,ACC-000186,CON-000280,Software,Closed,Phone,Low,Equipment Complexity
+CASE-000753,Issue #753,ACC-000448,CON-001199,Equipment,Closed,Phone,High,Network Issue
+CASE-000754,Issue #754,ACC-000253,CON-000916,Electrical,Closed,Web,High,Return
+CASE-000755,Issue #755,ACC-000390,CON-001353,Shipping,New,Email,High,Equipment Complexity
+CASE-000756,Issue #756,ACC-000071,CON-001259,Billing,New,Email,Low,Bug
+CASE-000757,Issue #757,ACC-000428,CON-000524,Software,New,Email,High,Equipment Complexity
+CASE-000758,Issue #758,ACC-000479,CON-000030,Installation,Working,Phone,Low,Other
+CASE-000759,Issue #759,ACC-000116,CON-000358,Electrical,New,Web,High,Network Issue
+CASE-000760,Issue #760,ACC-000264,CON-000454,Shipping,Working,Web,Medium,Performance
+CASE-000761,Issue #761,ACC-000344,CON-001053,Billing,New,Web,High,Other
+CASE-000762,Issue #762,ACC-000237,CON-001472,Shipping,New,Phone,High,Equipment Complexity
+CASE-000763,Issue #763,ACC-000102,CON-000366,Billing,New,Web,Medium,Other
+CASE-000764,Issue #764,ACC-000198,CON-000342,Shipping,Closed,Phone,Low,Return
+CASE-000765,Issue #765,ACC-000084,CON-000450,Billing,Closed,Web,High,Performance
+CASE-000766,Issue #766,ACC-000366,CON-000484,Equipment,Closed,Email,Medium,Equipment Complexity
+CASE-000767,Issue #767,ACC-000370,CON-000348,Billing,Working,Phone,Low,Shipment Damaged
+CASE-000768,Issue #768,ACC-000319,CON-000192,Shipping,New,Phone,Low,Other
+CASE-000769,Issue #769,ACC-000323,CON-000461,Billing,New,Phone,Medium,Performance
+CASE-000770,Issue #770,ACC-000230,CON-000547,Software,Working,Phone,Low,Bug
+CASE-000771,Issue #771,ACC-000046,CON-001044,Software,Closed,Email,Medium,Other
+CASE-000772,Issue #772,ACC-000490,CON-000500,Equipment,New,Phone,Low,Equipment Complexity
+CASE-000773,Issue #773,ACC-000453,CON-001138,Electrical,New,Email,Medium,Equipment Complexity
+CASE-000774,Issue #774,ACC-000170,CON-000425,Installation,Working,Web,Low,Bug
+CASE-000775,Issue #775,ACC-000420,CON-000048,Shipping,Closed,Email,Medium,Return
+CASE-000776,Issue #776,ACC-000425,CON-000249,Installation,Working,Phone,Low,Bug
+CASE-000777,Issue #777,ACC-000459,CON-000706,Software,Closed,Email,Medium,Performance
+CASE-000778,Issue #778,ACC-000071,CON-000486,Installation,New,Web,Medium,Bug
+CASE-000779,Issue #779,ACC-000200,CON-001401,Software,Closed,Web,Low,Shipment Damaged
+CASE-000780,Issue #780,ACC-000243,CON-000618,Software,Working,Phone,Low,Bug
+CASE-000781,Issue #781,ACC-000409,CON-001040,Shipping,New,Web,Low,Bug
+CASE-000782,Issue #782,ACC-000451,CON-000203,Billing,Working,Phone,Medium,Shipment Damaged
+CASE-000783,Issue #783,ACC-000366,CON-000154,Software,New,Web,Medium,Other
+CASE-000784,Issue #784,ACC-000478,CON-000446,Equipment,Working,Email,Low,Network Issue
+CASE-000785,Issue #785,ACC-000106,CON-001424,Connectivity,New,Web,Low,Performance
+CASE-000786,Issue #786,ACC-000215,CON-000247,Software,Closed,Web,Medium,Network Issue
+CASE-000787,Issue #787,ACC-000242,CON-000840,Electrical,Working,Email,High,Shipment Damaged
+CASE-000788,Issue #788,ACC-000187,CON-001153,Electrical,Working,Web,Low,Equipment Complexity
+CASE-000789,Issue #789,ACC-000152,CON-000927,Installation,New,Web,High,Network Issue
+CASE-000790,Issue #790,ACC-000004,CON-000024,Shipping,Closed,Email,Medium,Return
+CASE-000791,Issue #791,ACC-000170,CON-001055,Equipment,Working,Web,Medium,Return
+CASE-000792,Issue #792,ACC-000470,CON-000503,Installation,Working,Email,Low,Equipment Complexity
+CASE-000793,Issue #793,ACC-000109,CON-000112,Shipping,Closed,Phone,High,Network Issue
+CASE-000794,Issue #794,ACC-000499,CON-000860,Shipping,Working,Email,Medium,Network Issue
+CASE-000795,Issue #795,ACC-000427,CON-000459,Shipping,Closed,Web,Low,Performance
+CASE-000796,Issue #796,ACC-000136,CON-001335,Connectivity,New,Email,High,Other
+CASE-000797,Issue #797,ACC-000015,CON-001159,Equipment,Working,Phone,Medium,Performance
+CASE-000798,Issue #798,ACC-000371,CON-000319,Electrical,New,Phone,Low,Equipment Complexity
+CASE-000799,Issue #799,ACC-000025,CON-000336,Shipping,New,Phone,Low,Bug
+CASE-000800,Issue #800,ACC-000489,CON-001155,Equipment,Working,Email,Low,Other
+CASE-000801,Issue #801,ACC-000067,CON-000435,Equipment,Closed,Web,Low,Return
+CASE-000802,Issue #802,ACC-000020,CON-000290,Software,Working,Email,Medium,Performance
+CASE-000803,Issue #803,ACC-000116,CON-000926,Installation,Closed,Phone,Medium,Equipment Complexity
+CASE-000804,Issue #804,ACC-000304,CON-000714,Billing,New,Email,High,Network Issue
+CASE-000805,Issue #805,ACC-000122,CON-000817,Electrical,New,Email,Medium,Other
+CASE-000806,Issue #806,ACC-000195,CON-000495,Connectivity,Closed,Phone,High,Equipment Complexity
+CASE-000807,Issue #807,ACC-000323,CON-001455,Shipping,Working,Web,Low,Equipment Complexity
+CASE-000808,Issue #808,ACC-000202,CON-000904,Installation,New,Email,Low,Equipment Complexity
+CASE-000809,Issue #809,ACC-000119,CON-000306,Electrical,Closed,Phone,High,Equipment Complexity
+CASE-000810,Issue #810,ACC-000053,CON-000008,Connectivity,Closed,Phone,Medium,Shipment Damaged
+CASE-000811,Issue #811,ACC-000414,CON-000057,Equipment,New,Email,Medium,Performance
+CASE-000812,Issue #812,ACC-000192,CON-000780,Software,New,Phone,Medium,Network Issue
+CASE-000813,Issue #813,ACC-000393,CON-000990,Connectivity,New,Web,High,Performance
+CASE-000814,Issue #814,ACC-000490,CON-000684,Software,Working,Web,Low,Performance
+CASE-000815,Issue #815,ACC-000031,CON-001404,Installation,Closed,Phone,High,Network Issue
+CASE-000816,Issue #816,ACC-000117,CON-001365,Billing,New,Phone,Low,Equipment Complexity
+CASE-000817,Issue #817,ACC-000383,CON-000256,Installation,Working,Email,Low,Bug
+CASE-000818,Issue #818,ACC-000419,CON-001401,Billing,New,Email,Medium,Other
+CASE-000819,Issue #819,ACC-000292,CON-000121,Installation,Closed,Web,Low,Performance
+CASE-000820,Issue #820,ACC-000064,CON-000233,Installation,New,Email,Low,Shipment Damaged
+CASE-000821,Issue #821,ACC-000344,CON-000398,Billing,Closed,Phone,High,Equipment Complexity
+CASE-000822,Issue #822,ACC-000048,CON-001324,Electrical,Closed,Phone,Low,Return
+CASE-000823,Issue #823,ACC-000296,CON-001346,Billing,Closed,Phone,Low,Shipment Damaged
+CASE-000824,Issue #824,ACC-000422,CON-000412,Equipment,New,Phone,High,Equipment Complexity
+CASE-000825,Issue #825,ACC-000296,CON-000266,Shipping,New,Web,Low,Return
+CASE-000826,Issue #826,ACC-000474,CON-000654,Billing,Closed,Email,Low,Shipment Damaged
+CASE-000827,Issue #827,ACC-000074,CON-000521,Billing,Closed,Phone,Low,Shipment Damaged
+CASE-000828,Issue #828,ACC-000352,CON-000436,Billing,Working,Phone,High,Bug
+CASE-000829,Issue #829,ACC-000264,CON-001209,Shipping,New,Phone,Low,Network Issue
+CASE-000830,Issue #830,ACC-000154,CON-000162,Billing,Working,Email,Medium,Equipment Complexity
+CASE-000831,Issue #831,ACC-000097,CON-001142,Connectivity,Working,Email,Medium,Other
+CASE-000832,Issue #832,ACC-000121,CON-000237,Installation,Working,Web,Medium,Return
+CASE-000833,Issue #833,ACC-000057,CON-000490,Billing,Working,Web,Medium,Bug
+CASE-000834,Issue #834,ACC-000489,CON-001059,Equipment,Working,Web,Medium,Equipment Complexity
+CASE-000835,Issue #835,ACC-000293,CON-000392,Connectivity,Closed,Web,Low,Bug
+CASE-000836,Issue #836,ACC-000267,CON-000726,Connectivity,Closed,Phone,Medium,Equipment Complexity
+CASE-000837,Issue #837,ACC-000008,CON-001408,Billing,Working,Phone,Medium,Return
+CASE-000838,Issue #838,ACC-000386,CON-000067,Shipping,Closed,Web,High,Bug
+CASE-000839,Issue #839,ACC-000246,CON-001399,Installation,Closed,Email,Medium,Other
+CASE-000840,Issue #840,ACC-000215,CON-001331,Software,Closed,Phone,Low,Bug
+CASE-000841,Issue #841,ACC-000261,CON-001385,Shipping,Closed,Email,Low,Shipment Damaged
+CASE-000842,Issue #842,ACC-000234,CON-000848,Electrical,Closed,Web,Low,Bug
+CASE-000843,Issue #843,ACC-000425,CON-001424,Equipment,Working,Email,High,Bug
+CASE-000844,Issue #844,ACC-000145,CON-000667,Electrical,New,Web,High,Bug
+CASE-000845,Issue #845,ACC-000482,CON-000638,Electrical,New,Phone,Medium,Equipment Complexity
+CASE-000846,Issue #846,ACC-000484,CON-000188,Software,New,Web,Medium,Performance
+CASE-000847,Issue #847,ACC-000079,CON-000360,Billing,New,Phone,Medium,Other
+CASE-000848,Issue #848,ACC-000203,CON-000674,Shipping,Closed,Email,Low,Equipment Complexity
+CASE-000849,Issue #849,ACC-000324,CON-000729,Connectivity,Working,Email,Medium,Network Issue
+CASE-000850,Issue #850,ACC-000347,CON-000570,Billing,New,Phone,Low,Performance
+CASE-000851,Issue #851,ACC-000122,CON-001244,Electrical,Working,Phone,Medium,Network Issue
+CASE-000852,Issue #852,ACC-000322,CON-001143,Equipment,Closed,Email,High,Shipment Damaged
+CASE-000853,Issue #853,ACC-000176,CON-001146,Software,Closed,Email,Low,Performance
+CASE-000854,Issue #854,ACC-000156,CON-000101,Billing,Working,Email,High,Return
+CASE-000855,Issue #855,ACC-000344,CON-000045,Shipping,New,Web,Medium,Return
+CASE-000856,Issue #856,ACC-000130,CON-001118,Software,Working,Phone,Low,Bug
+CASE-000857,Issue #857,ACC-000291,CON-000886,Connectivity,New,Email,High,Performance
+CASE-000858,Issue #858,ACC-000282,CON-000968,Billing,New,Phone,Low,Shipment Damaged
+CASE-000859,Issue #859,ACC-000164,CON-000098,Shipping,Closed,Web,Low,Bug
+CASE-000860,Issue #860,ACC-000370,CON-000698,Electrical,Working,Web,Low,Bug
+CASE-000861,Issue #861,ACC-000288,CON-000852,Electrical,Working,Email,High,Network Issue
+CASE-000862,Issue #862,ACC-000030,CON-001336,Electrical,Closed,Phone,High,Performance
+CASE-000863,Issue #863,ACC-000085,CON-001464,Connectivity,Closed,Web,Medium,Shipment Damaged
+CASE-000864,Issue #864,ACC-000484,CON-000556,Electrical,Closed,Phone,Medium,Equipment Complexity
+CASE-000865,Issue #865,ACC-000142,CON-001428,Electrical,Working,Email,High,Return
+CASE-000866,Issue #866,ACC-000267,CON-000948,Connectivity,Closed,Email,Medium,Equipment Complexity
+CASE-000867,Issue #867,ACC-000168,CON-001225,Billing,New,Email,Medium,Shipment Damaged
+CASE-000868,Issue #868,ACC-000059,CON-000055,Equipment,Closed,Phone,High,Other
+CASE-000869,Issue #869,ACC-000261,CON-000644,Connectivity,Working,Phone,Medium,Equipment Complexity
+CASE-000870,Issue #870,ACC-000244,CON-000056,Connectivity,Working,Web,Low,Equipment Complexity
+CASE-000871,Issue #871,ACC-000040,CON-000678,Billing,Working,Phone,Medium,Performance
+CASE-000872,Issue #872,ACC-000061,CON-000740,Installation,Closed,Phone,High,Other
+CASE-000873,Issue #873,ACC-000243,CON-000866,Equipment,Working,Phone,Low,Equipment Complexity
+CASE-000874,Issue #874,ACC-000469,CON-000226,Connectivity,Closed,Phone,High,Shipment Damaged
+CASE-000875,Issue #875,ACC-000451,CON-000761,Installation,Closed,Email,Medium,Other
+CASE-000876,Issue #876,ACC-000139,CON-001227,Software,Closed,Email,Low,Network Issue
+CASE-000877,Issue #877,ACC-000103,CON-000812,Software,Closed,Web,Low,Return
+CASE-000878,Issue #878,ACC-000014,CON-000977,Software,Closed,Email,Low,Other
+CASE-000879,Issue #879,ACC-000140,CON-001348,Billing,Closed,Email,Low,Return
+CASE-000880,Issue #880,ACC-000066,CON-000222,Installation,New,Email,Low,Bug
+CASE-000881,Issue #881,ACC-000177,CON-000093,Software,Closed,Email,Low,Equipment Complexity
+CASE-000882,Issue #882,ACC-000440,CON-001487,Installation,New,Email,Medium,Return
+CASE-000883,Issue #883,ACC-000398,CON-000469,Equipment,Closed,Phone,Medium,Other
+CASE-000884,Issue #884,ACC-000069,CON-001466,Electrical,New,Web,Low,Performance
+CASE-000885,Issue #885,ACC-000130,CON-000761,Equipment,Closed,Web,Medium,Return
+CASE-000886,Issue #886,ACC-000385,CON-000055,Software,Closed,Email,Medium,Other
+CASE-000887,Issue #887,ACC-000341,CON-000223,Equipment,New,Phone,Medium,Shipment Damaged
+CASE-000888,Issue #888,ACC-000040,CON-000487,Billing,Working,Phone,Medium,Return
+CASE-000889,Issue #889,ACC-000111,CON-000436,Equipment,New,Email,Low,Bug
+CASE-000890,Issue #890,ACC-000172,CON-000971,Installation,Working,Email,Low,Performance
+CASE-000891,Issue #891,ACC-000141,CON-000074,Software,Working,Web,Low,Bug
+CASE-000892,Issue #892,ACC-000177,CON-000104,Connectivity,New,Web,High,Network Issue
+CASE-000893,Issue #893,ACC-000177,CON-000775,Software,Working,Web,Low,Equipment Complexity
+CASE-000894,Issue #894,ACC-000050,CON-001274,Connectivity,Working,Email,Low,Bug
+CASE-000895,Issue #895,ACC-000245,CON-001433,Electrical,Closed,Web,High,Other
+CASE-000896,Issue #896,ACC-000279,CON-001247,Connectivity,New,Web,High,Equipment Complexity
+CASE-000897,Issue #897,ACC-000368,CON-000795,Connectivity,Closed,Phone,Medium,Shipment Damaged
+CASE-000898,Issue #898,ACC-000363,CON-000794,Electrical,Working,Phone,Medium,Bug
+CASE-000899,Issue #899,ACC-000411,CON-001461,Shipping,New,Web,Medium,Performance
+CASE-000900,Issue #900,ACC-000393,CON-001481,Connectivity,Closed,Email,Medium,Shipment Damaged
+CASE-000901,Issue #901,ACC-000422,CON-001139,Electrical,New,Email,Low,Return
+CASE-000902,Issue #902,ACC-000153,CON-000661,Connectivity,New,Phone,Medium,Return
+CASE-000903,Issue #903,ACC-000127,CON-000736,Electrical,Closed,Phone,Low,Return
+CASE-000904,Issue #904,ACC-000107,CON-000084,Equipment,Closed,Web,High,Return
+CASE-000905,Issue #905,ACC-000111,CON-000607,Equipment,Closed,Phone,Medium,Shipment Damaged
+CASE-000906,Issue #906,ACC-000165,CON-001062,Installation,Working,Email,Low,Other
+CASE-000907,Issue #907,ACC-000221,CON-001361,Equipment,Closed,Email,Low,Other
+CASE-000908,Issue #908,ACC-000080,CON-000260,Installation,Closed,Phone,Medium,Equipment Complexity
+CASE-000909,Issue #909,ACC-000081,CON-000879,Software,Working,Email,High,Performance
+CASE-000910,Issue #910,ACC-000088,CON-000159,Billing,Closed,Email,High,Network Issue
+CASE-000911,Issue #911,ACC-000362,CON-000510,Software,New,Email,Low,Equipment Complexity
+CASE-000912,Issue #912,ACC-000181,CON-000752,Electrical,Working,Phone,Medium,Bug
+CASE-000913,Issue #913,ACC-000095,CON-001464,Billing,Working,Phone,Medium,Bug
+CASE-000914,Issue #914,ACC-000002,CON-001275,Shipping,Closed,Phone,Low,Network Issue
+CASE-000915,Issue #915,ACC-000028,CON-000611,Billing,Closed,Email,Low,Other
+CASE-000916,Issue #916,ACC-000249,CON-000871,Electrical,Closed,Web,Medium,Performance
+CASE-000917,Issue #917,ACC-000306,CON-000183,Shipping,Closed,Email,Low,Return
+CASE-000918,Issue #918,ACC-000201,CON-001445,Connectivity,New,Phone,Medium,Other
+CASE-000919,Issue #919,ACC-000189,CON-001250,Equipment,Working,Phone,Low,Bug
+CASE-000920,Issue #920,ACC-000137,CON-000119,Equipment,New,Web,Medium,Shipment Damaged
+CASE-000921,Issue #921,ACC-000169,CON-000554,Equipment,New,Phone,High,Equipment Complexity
+CASE-000922,Issue #922,ACC-000409,CON-000510,Billing,Closed,Web,Low,Performance
+CASE-000923,Issue #923,ACC-000467,CON-000535,Electrical,Working,Web,Medium,Performance
+CASE-000924,Issue #924,ACC-000251,CON-001013,Software,Working,Phone,Medium,Network Issue
+CASE-000925,Issue #925,ACC-000422,CON-001220,Installation,Working,Email,Medium,Performance
+CASE-000926,Issue #926,ACC-000251,CON-000669,Connectivity,New,Phone,Medium,Return
+CASE-000927,Issue #927,ACC-000318,CON-000530,Electrical,Closed,Email,Low,Other
+CASE-000928,Issue #928,ACC-000273,CON-000060,Electrical,New,Web,High,Other
+CASE-000929,Issue #929,ACC-000471,CON-000763,Equipment,Closed,Email,Low,Performance
+CASE-000930,Issue #930,ACC-000206,CON-000265,Equipment,Closed,Email,Medium,Network Issue
+CASE-000931,Issue #931,ACC-000427,CON-001381,Software,New,Email,Low,Shipment Damaged
+CASE-000932,Issue #932,ACC-000143,CON-001190,Equipment,Working,Web,Medium,Network Issue
+CASE-000933,Issue #933,ACC-000131,CON-000278,Electrical,Working,Email,Low,Return
+CASE-000934,Issue #934,ACC-000138,CON-001302,Billing,Working,Web,High,Shipment Damaged
+CASE-000935,Issue #935,ACC-000403,CON-001496,Software,Working,Web,Medium,Bug
+CASE-000936,Issue #936,ACC-000416,CON-000735,Shipping,Working,Email,Low,Return
+CASE-000937,Issue #937,ACC-000418,CON-000872,Software,Working,Phone,Medium,Network Issue
+CASE-000938,Issue #938,ACC-000275,CON-000238,Software,Working,Web,Low,Network Issue
+CASE-000939,Issue #939,ACC-000127,CON-001297,Software,Closed,Web,Medium,Return
+CASE-000940,Issue #940,ACC-000066,CON-000809,Shipping,Closed,Email,Medium,Equipment Complexity
+CASE-000941,Issue #941,ACC-000164,CON-000564,Equipment,New,Phone,High,Performance
+CASE-000942,Issue #942,ACC-000130,CON-001202,Software,Closed,Phone,High,Bug
+CASE-000943,Issue #943,ACC-000232,CON-000961,Shipping,Working,Web,High,Network Issue
+CASE-000944,Issue #944,ACC-000306,CON-000320,Electrical,Working,Email,Low,Other
+CASE-000945,Issue #945,ACC-000451,CON-000116,Electrical,Working,Phone,High,Network Issue
+CASE-000946,Issue #946,ACC-000078,CON-001230,Software,Closed,Phone,Low,Equipment Complexity
+CASE-000947,Issue #947,ACC-000433,CON-001024,Software,Closed,Email,Medium,Network Issue
+CASE-000948,Issue #948,ACC-000382,CON-000086,Equipment,Working,Phone,Medium,Other
+CASE-000949,Issue #949,ACC-000246,CON-001135,Connectivity,Working,Phone,Low,Shipment Damaged
+CASE-000950,Issue #950,ACC-000111,CON-001201,Connectivity,Closed,Phone,Low,Network Issue
+CASE-000951,Issue #951,ACC-000447,CON-001217,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-000952,Issue #952,ACC-000089,CON-000590,Installation,Working,Web,Medium,Bug
+CASE-000953,Issue #953,ACC-000044,CON-001040,Billing,New,Phone,Medium,Network Issue
+CASE-000954,Issue #954,ACC-000054,CON-000057,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-000955,Issue #955,ACC-000347,CON-000346,Connectivity,Working,Email,Medium,Network Issue
+CASE-000956,Issue #956,ACC-000320,CON-000548,Electrical,Working,Phone,Medium,Network Issue
+CASE-000957,Issue #957,ACC-000397,CON-001170,Software,New,Phone,Low,Shipment Damaged
+CASE-000958,Issue #958,ACC-000404,CON-001084,Installation,New,Web,Medium,Equipment Complexity
+CASE-000959,Issue #959,ACC-000078,CON-000073,Software,Working,Phone,High,Bug
+CASE-000960,Issue #960,ACC-000137,CON-000892,Equipment,New,Phone,Low,Shipment Damaged
+CASE-000961,Issue #961,ACC-000322,CON-001393,Software,New,Web,High,Equipment Complexity
+CASE-000962,Issue #962,ACC-000426,CON-001201,Equipment,Working,Email,Medium,Network Issue
+CASE-000963,Issue #963,ACC-000356,CON-000708,Equipment,Closed,Phone,Low,Shipment Damaged
+CASE-000964,Issue #964,ACC-000221,CON-000950,Installation,Working,Phone,Low,Performance
+CASE-000965,Issue #965,ACC-000328,CON-001306,Billing,New,Email,Low,Other
+CASE-000966,Issue #966,ACC-000179,CON-001022,Electrical,Closed,Web,Medium,Other
+CASE-000967,Issue #967,ACC-000349,CON-001127,Electrical,Closed,Email,Medium,Other
+CASE-000968,Issue #968,ACC-000218,CON-000364,Billing,Closed,Web,High,Bug
+CASE-000969,Issue #969,ACC-000302,CON-000510,Software,Working,Phone,High,Shipment Damaged
+CASE-000970,Issue #970,ACC-000055,CON-000536,Electrical,Closed,Phone,Medium,Equipment Complexity
+CASE-000971,Issue #971,ACC-000022,CON-000724,Electrical,Closed,Phone,Medium,Equipment Complexity
+CASE-000972,Issue #972,ACC-000009,CON-001296,Software,Working,Phone,High,Return
+CASE-000973,Issue #973,ACC-000219,CON-001209,Connectivity,Closed,Email,Low,Return
+CASE-000974,Issue #974,ACC-000171,CON-000803,Installation,Closed,Email,Low,Other
+CASE-000975,Issue #975,ACC-000390,CON-001006,Shipping,New,Web,Medium,Equipment Complexity
+CASE-000976,Issue #976,ACC-000132,CON-001051,Software,Closed,Phone,Low,Shipment Damaged
+CASE-000977,Issue #977,ACC-000254,CON-000036,Electrical,Working,Phone,High,Bug
+CASE-000978,Issue #978,ACC-000453,CON-000629,Equipment,Working,Email,Medium,Return
+CASE-000979,Issue #979,ACC-000247,CON-000092,Billing,Closed,Phone,Low,Bug
+CASE-000980,Issue #980,ACC-000208,CON-000973,Billing,Working,Web,Low,Shipment Damaged
+CASE-000981,Issue #981,ACC-000472,CON-000583,Equipment,Working,Email,Low,Shipment Damaged
+CASE-000982,Issue #982,ACC-000380,CON-001110,Software,Working,Web,Medium,Return
+CASE-000983,Issue #983,ACC-000495,CON-000647,Electrical,Working,Email,Medium,Return
+CASE-000984,Issue #984,ACC-000208,CON-001403,Software,Closed,Phone,Low,Return
+CASE-000985,Issue #985,ACC-000108,CON-000395,Billing,Closed,Email,High,Network Issue
+CASE-000986,Issue #986,ACC-000046,CON-001090,Equipment,Working,Phone,Medium,Shipment Damaged
+CASE-000987,Issue #987,ACC-000270,CON-000277,Billing,Closed,Email,Medium,Other
+CASE-000988,Issue #988,ACC-000195,CON-001219,Equipment,Closed,Web,Low,Equipment Complexity
+CASE-000989,Issue #989,ACC-000124,CON-001075,Electrical,Closed,Web,Medium,Other
+CASE-000990,Issue #990,ACC-000470,CON-000386,Connectivity,Working,Web,Low,Bug
+CASE-000991,Issue #991,ACC-000362,CON-000038,Billing,Closed,Phone,Medium,Equipment Complexity
+CASE-000992,Issue #992,ACC-000293,CON-001277,Equipment,New,Phone,Low,Bug
+CASE-000993,Issue #993,ACC-000145,CON-000034,Equipment,Working,Phone,Low,Shipment Damaged
+CASE-000994,Issue #994,ACC-000398,CON-001287,Billing,Working,Web,Low,Return
+CASE-000995,Issue #995,ACC-000242,CON-001286,Shipping,Working,Phone,Medium,Performance
+CASE-000996,Issue #996,ACC-000373,CON-001385,Software,Closed,Email,Low,Other
+CASE-000997,Issue #997,ACC-000325,CON-001006,Software,New,Email,Low,Return
+CASE-000998,Issue #998,ACC-000169,CON-000213,Billing,Closed,Web,Medium,Return
+CASE-000999,Issue #999,ACC-000384,CON-001453,Billing,Working,Phone,High,Network Issue
+CASE-001000,Issue #1000,ACC-000162,CON-000970,Billing,Closed,Phone,Medium,Other
+CASE-001001,Issue #1001,ACC-000246,CON-001156,Software,Closed,Web,Medium,Shipment Damaged
+CASE-001002,Issue #1002,ACC-000174,CON-000555,Billing,New,Web,Medium,Bug
+CASE-001003,Issue #1003,ACC-000462,CON-000208,Equipment,Working,Phone,High,Performance
+CASE-001004,Issue #1004,ACC-000208,CON-001056,Billing,Working,Web,Medium,Other
+CASE-001005,Issue #1005,ACC-000249,CON-001242,Software,Working,Email,High,Other
+CASE-001006,Issue #1006,ACC-000120,CON-000842,Installation,Closed,Web,Medium,Bug
+CASE-001007,Issue #1007,ACC-000302,CON-000277,Billing,Working,Email,Medium,Other
+CASE-001008,Issue #1008,ACC-000307,CON-001431,Shipping,Working,Email,Medium,Return
+CASE-001009,Issue #1009,ACC-000149,CON-001045,Billing,Closed,Email,Medium,Bug
+CASE-001010,Issue #1010,ACC-000487,CON-000578,Equipment,Closed,Email,Low,Bug
+CASE-001011,Issue #1011,ACC-000460,CON-000547,Software,New,Email,Medium,Network Issue
+CASE-001012,Issue #1012,ACC-000413,CON-000475,Shipping,Closed,Phone,High,Shipment Damaged
+CASE-001013,Issue #1013,ACC-000054,CON-000786,Installation,Closed,Web,High,Bug
+CASE-001014,Issue #1014,ACC-000295,CON-000259,Software,New,Email,Medium,Other
+CASE-001015,Issue #1015,ACC-000405,CON-000704,Billing,Closed,Email,Low,Return
+CASE-001016,Issue #1016,ACC-000005,CON-001188,Billing,New,Email,Medium,Other
+CASE-001017,Issue #1017,ACC-000277,CON-000744,Connectivity,Working,Email,Low,Return
+CASE-001018,Issue #1018,ACC-000453,CON-001208,Billing,Working,Email,High,Equipment Complexity
+CASE-001019,Issue #1019,ACC-000287,CON-000981,Electrical,Working,Email,Medium,Equipment Complexity
+CASE-001020,Issue #1020,ACC-000076,CON-000882,Shipping,Working,Web,Low,Equipment Complexity
+CASE-001021,Issue #1021,ACC-000031,CON-000658,Shipping,Closed,Phone,Medium,Network Issue
+CASE-001022,Issue #1022,ACC-000242,CON-001278,Connectivity,New,Phone,Low,Performance
+CASE-001023,Issue #1023,ACC-000171,CON-000904,Installation,Closed,Email,Medium,Equipment Complexity
+CASE-001024,Issue #1024,ACC-000152,CON-001230,Shipping,Working,Email,Medium,Return
+CASE-001025,Issue #1025,ACC-000209,CON-001147,Connectivity,Working,Phone,Medium,Bug
+CASE-001026,Issue #1026,ACC-000263,CON-000078,Installation,Working,Phone,Low,Equipment Complexity
+CASE-001027,Issue #1027,ACC-000248,CON-001359,Equipment,New,Phone,Medium,Performance
+CASE-001028,Issue #1028,ACC-000038,CON-000970,Electrical,Working,Email,High,Bug
+CASE-001029,Issue #1029,ACC-000256,CON-001437,Shipping,Closed,Phone,Low,Other
+CASE-001030,Issue #1030,ACC-000323,CON-001242,Software,New,Phone,Low,Other
+CASE-001031,Issue #1031,ACC-000444,CON-001160,Connectivity,Working,Web,Low,Other
+CASE-001032,Issue #1032,ACC-000398,CON-000669,Connectivity,Closed,Web,Medium,Bug
+CASE-001033,Issue #1033,ACC-000046,CON-000613,Billing,Working,Phone,Medium,Equipment Complexity
+CASE-001034,Issue #1034,ACC-000087,CON-000303,Installation,Working,Email,Low,Return
+CASE-001035,Issue #1035,ACC-000177,CON-000864,Billing,Working,Email,Low,Shipment Damaged
+CASE-001036,Issue #1036,ACC-000444,CON-000343,Installation,Closed,Email,Medium,Return
+CASE-001037,Issue #1037,ACC-000214,CON-000837,Shipping,New,Phone,Medium,Return
+CASE-001038,Issue #1038,ACC-000241,CON-000144,Billing,Closed,Phone,High,Network Issue
+CASE-001039,Issue #1039,ACC-000054,CON-001223,Software,Closed,Email,Low,Equipment Complexity
+CASE-001040,Issue #1040,ACC-000006,CON-001243,Electrical,Working,Phone,Medium,Equipment Complexity
+CASE-001041,Issue #1041,ACC-000388,CON-001019,Shipping,Closed,Email,Low,Performance
+CASE-001042,Issue #1042,ACC-000045,CON-000156,Billing,Working,Web,High,Equipment Complexity
+CASE-001043,Issue #1043,ACC-000324,CON-001343,Electrical,Working,Phone,Low,Equipment Complexity
+CASE-001044,Issue #1044,ACC-000052,CON-000873,Software,Working,Email,Medium,Performance
+CASE-001045,Issue #1045,ACC-000058,CON-000540,Electrical,New,Email,High,Equipment Complexity
+CASE-001046,Issue #1046,ACC-000333,CON-000496,Connectivity,Working,Email,Low,Return
+CASE-001047,Issue #1047,ACC-000075,CON-000745,Installation,Working,Phone,Low,Bug
+CASE-001048,Issue #1048,ACC-000438,CON-000128,Connectivity,New,Email,Medium,Performance
+CASE-001049,Issue #1049,ACC-000205,CON-000702,Electrical,New,Web,Low,Other
+CASE-001050,Issue #1050,ACC-000079,CON-000307,Installation,Closed,Phone,High,Bug
+CASE-001051,Issue #1051,ACC-000171,CON-000603,Shipping,Working,Phone,Low,Shipment Damaged
+CASE-001052,Issue #1052,ACC-000190,CON-000558,Shipping,Working,Web,High,Other
+CASE-001053,Issue #1053,ACC-000374,CON-000607,Equipment,Closed,Web,Medium,Bug
+CASE-001054,Issue #1054,ACC-000128,CON-000774,Equipment,Closed,Email,High,Performance
+CASE-001055,Issue #1055,ACC-000385,CON-000328,Billing,Working,Web,Low,Equipment Complexity
+CASE-001056,Issue #1056,ACC-000311,CON-001368,Shipping,Closed,Web,High,Equipment Complexity
+CASE-001057,Issue #1057,ACC-000451,CON-000430,Shipping,Working,Phone,Low,Return
+CASE-001058,Issue #1058,ACC-000255,CON-000592,Equipment,New,Phone,Low,Network Issue
+CASE-001059,Issue #1059,ACC-000017,CON-000341,Connectivity,Closed,Email,Medium,Network Issue
+CASE-001060,Issue #1060,ACC-000093,CON-001276,Electrical,New,Phone,Low,Performance
+CASE-001061,Issue #1061,ACC-000087,CON-000460,Software,Working,Email,Low,Other
+CASE-001062,Issue #1062,ACC-000042,CON-000087,Software,Working,Web,Medium,Other
+CASE-001063,Issue #1063,ACC-000298,CON-000978,Shipping,Closed,Phone,High,Performance
+CASE-001064,Issue #1064,ACC-000071,CON-001077,Electrical,Closed,Phone,Medium,Performance
+CASE-001065,Issue #1065,ACC-000282,CON-000580,Software,Closed,Phone,High,Performance
+CASE-001066,Issue #1066,ACC-000085,CON-000592,Connectivity,Working,Phone,Medium,Network Issue
+CASE-001067,Issue #1067,ACC-000500,CON-001150,Shipping,Working,Phone,Low,Performance
+CASE-001068,Issue #1068,ACC-000183,CON-000995,Equipment,Working,Email,Low,Return
+CASE-001069,Issue #1069,ACC-000106,CON-000793,Connectivity,Working,Phone,Medium,Network Issue
+CASE-001070,Issue #1070,ACC-000183,CON-000497,Shipping,Working,Phone,Low,Bug
+CASE-001071,Issue #1071,ACC-000102,CON-001388,Billing,Closed,Email,Medium,Return
+CASE-001072,Issue #1072,ACC-000461,CON-001495,Equipment,New,Web,Medium,Performance
+CASE-001073,Issue #1073,ACC-000389,CON-000116,Software,Working,Web,Medium,Equipment Complexity
+CASE-001074,Issue #1074,ACC-000140,CON-000171,Shipping,New,Email,Medium,Network Issue
+CASE-001075,Issue #1075,ACC-000001,CON-001035,Billing,Closed,Phone,Medium,Shipment Damaged
+CASE-001076,Issue #1076,ACC-000450,CON-000268,Installation,Closed,Email,Low,Return
+CASE-001077,Issue #1077,ACC-000218,CON-001378,Software,Closed,Web,Low,Other
+CASE-001078,Issue #1078,ACC-000297,CON-000067,Connectivity,Closed,Email,High,Network Issue
+CASE-001079,Issue #1079,ACC-000440,CON-000333,Software,Closed,Web,Medium,Network Issue
+CASE-001080,Issue #1080,ACC-000044,CON-001166,Connectivity,New,Email,High,Network Issue
+CASE-001081,Issue #1081,ACC-000470,CON-000850,Electrical,Closed,Email,Low,Equipment Complexity
+CASE-001082,Issue #1082,ACC-000100,CON-001411,Billing,Working,Phone,Low,Shipment Damaged
+CASE-001083,Issue #1083,ACC-000096,CON-000407,Installation,New,Web,Low,Other
+CASE-001084,Issue #1084,ACC-000006,CON-000136,Software,Closed,Phone,High,Return
+CASE-001085,Issue #1085,ACC-000065,CON-000892,Software,Working,Web,Low,Other
+CASE-001086,Issue #1086,ACC-000071,CON-000746,Shipping,New,Phone,Medium,Network Issue
+CASE-001087,Issue #1087,ACC-000345,CON-000117,Connectivity,Closed,Phone,High,Shipment Damaged
+CASE-001088,Issue #1088,ACC-000237,CON-001011,Electrical,Closed,Web,Low,Network Issue
+CASE-001089,Issue #1089,ACC-000296,CON-001482,Electrical,Working,Phone,Medium,Network Issue
+CASE-001090,Issue #1090,ACC-000448,CON-000454,Billing,New,Web,Low,Equipment Complexity
+CASE-001091,Issue #1091,ACC-000180,CON-001461,Electrical,Closed,Phone,Medium,Equipment Complexity
+CASE-001092,Issue #1092,ACC-000389,CON-001337,Shipping,Working,Phone,Low,Network Issue
+CASE-001093,Issue #1093,ACC-000402,CON-001405,Billing,Closed,Web,Low,Network Issue
+CASE-001094,Issue #1094,ACC-000176,CON-000604,Software,Working,Email,High,Other
+CASE-001095,Issue #1095,ACC-000379,CON-001129,Electrical,Closed,Phone,Low,Equipment Complexity
+CASE-001096,Issue #1096,ACC-000210,CON-001180,Installation,Closed,Email,Low,Performance
+CASE-001097,Issue #1097,ACC-000100,CON-000351,Electrical,Closed,Web,Low,Shipment Damaged
+CASE-001098,Issue #1098,ACC-000317,CON-000382,Connectivity,New,Phone,Low,Return
+CASE-001099,Issue #1099,ACC-000280,CON-001236,Billing,Working,Phone,High,Network Issue
+CASE-001100,Issue #1100,ACC-000415,CON-000179,Software,Working,Phone,Low,Shipment Damaged
+CASE-001101,Issue #1101,ACC-000470,CON-000437,Billing,New,Web,Medium,Other
+CASE-001102,Issue #1102,ACC-000027,CON-001480,Shipping,Working,Email,Medium,Other
+CASE-001103,Issue #1103,ACC-000050,CON-001145,Connectivity,Working,Phone,Medium,Performance
+CASE-001104,Issue #1104,ACC-000156,CON-000522,Billing,New,Web,Low,Return
+CASE-001105,Issue #1105,ACC-000334,CON-000050,Billing,Working,Phone,Medium,Equipment Complexity
+CASE-001106,Issue #1106,ACC-000257,CON-000175,Equipment,Working,Web,Low,Equipment Complexity
+CASE-001107,Issue #1107,ACC-000435,CON-001336,Electrical,Closed,Email,Medium,Equipment Complexity
+CASE-001108,Issue #1108,ACC-000213,CON-001195,Electrical,Working,Email,Medium,Return
+CASE-001109,Issue #1109,ACC-000447,CON-000836,Connectivity,Working,Phone,Medium,Shipment Damaged
+CASE-001110,Issue #1110,ACC-000357,CON-000756,Electrical,Working,Web,Low,Network Issue
+CASE-001111,Issue #1111,ACC-000217,CON-000743,Billing,Closed,Phone,Medium,Equipment Complexity
+CASE-001112,Issue #1112,ACC-000435,CON-000896,Electrical,Working,Phone,High,Shipment Damaged
+CASE-001113,Issue #1113,ACC-000089,CON-000171,Electrical,New,Web,Medium,Performance
+CASE-001114,Issue #1114,ACC-000244,CON-000098,Connectivity,Working,Email,Low,Return
+CASE-001115,Issue #1115,ACC-000133,CON-000921,Billing,Working,Email,Medium,Shipment Damaged
+CASE-001116,Issue #1116,ACC-000041,CON-000704,Shipping,Working,Email,Medium,Equipment Complexity
+CASE-001117,Issue #1117,ACC-000454,CON-000622,Software,New,Phone,Medium,Network Issue
+CASE-001118,Issue #1118,ACC-000483,CON-001300,Software,New,Phone,Low,Network Issue
+CASE-001119,Issue #1119,ACC-000481,CON-000326,Electrical,Closed,Web,Medium,Shipment Damaged
+CASE-001120,Issue #1120,ACC-000284,CON-000595,Connectivity,Closed,Email,Low,Shipment Damaged
+CASE-001121,Issue #1121,ACC-000124,CON-001191,Equipment,Closed,Phone,Medium,Return
+CASE-001122,Issue #1122,ACC-000131,CON-000286,Electrical,Closed,Email,Medium,Other
+CASE-001123,Issue #1123,ACC-000460,CON-001189,Billing,New,Email,Medium,Other
+CASE-001124,Issue #1124,ACC-000482,CON-000711,Software,Closed,Phone,Medium,Performance
+CASE-001125,Issue #1125,ACC-000182,CON-000212,Connectivity,New,Phone,Medium,Performance
+CASE-001126,Issue #1126,ACC-000302,CON-000246,Billing,Working,Phone,Medium,Bug
+CASE-001127,Issue #1127,ACC-000086,CON-001472,Software,New,Phone,Medium,Bug
+CASE-001128,Issue #1128,ACC-000237,CON-000816,Installation,New,Web,High,Network Issue
+CASE-001129,Issue #1129,ACC-000372,CON-000678,Software,Working,Email,Low,Performance
+CASE-001130,Issue #1130,ACC-000456,CON-001152,Connectivity,Closed,Email,Low,Bug
+CASE-001131,Issue #1131,ACC-000127,CON-000004,Software,Working,Email,Medium,Network Issue
+CASE-001132,Issue #1132,ACC-000410,CON-000742,Shipping,Closed,Phone,Low,Bug
+CASE-001133,Issue #1133,ACC-000084,CON-000527,Connectivity,Working,Web,High,Shipment Damaged
+CASE-001134,Issue #1134,ACC-000196,CON-000525,Connectivity,New,Phone,Low,Shipment Damaged
+CASE-001135,Issue #1135,ACC-000310,CON-000826,Connectivity,Closed,Phone,Low,Shipment Damaged
+CASE-001136,Issue #1136,ACC-000275,CON-001312,Billing,New,Email,Low,Other
+CASE-001137,Issue #1137,ACC-000061,CON-000421,Equipment,New,Web,Low,Performance
+CASE-001138,Issue #1138,ACC-000257,CON-000959,Connectivity,Working,Email,Low,Other
+CASE-001139,Issue #1139,ACC-000235,CON-001271,Installation,Closed,Phone,High,Other
+CASE-001140,Issue #1140,ACC-000337,CON-000976,Shipping,New,Email,Medium,Other
+CASE-001141,Issue #1141,ACC-000204,CON-001465,Equipment,Closed,Phone,Low,Performance
+CASE-001142,Issue #1142,ACC-000352,CON-001440,Connectivity,Working,Email,Medium,Return
+CASE-001143,Issue #1143,ACC-000353,CON-000941,Billing,New,Email,Low,Network Issue
+CASE-001144,Issue #1144,ACC-000063,CON-000949,Electrical,Closed,Web,Low,Bug
+CASE-001145,Issue #1145,ACC-000423,CON-001490,Connectivity,Closed,Phone,Low,Equipment Complexity
+CASE-001146,Issue #1146,ACC-000022,CON-000083,Billing,Working,Email,High,Network Issue
+CASE-001147,Issue #1147,ACC-000414,CON-000016,Installation,Working,Email,Medium,Bug
+CASE-001148,Issue #1148,ACC-000007,CON-000219,Connectivity,New,Phone,Low,Equipment Complexity
+CASE-001149,Issue #1149,ACC-000485,CON-000878,Billing,Working,Web,Low,Other
+CASE-001150,Issue #1150,ACC-000107,CON-000089,Billing,New,Web,Low,Shipment Damaged
+CASE-001151,Issue #1151,ACC-000369,CON-001252,Software,Working,Email,Low,Performance
+CASE-001152,Issue #1152,ACC-000296,CON-000847,Electrical,Closed,Web,Low,Performance
+CASE-001153,Issue #1153,ACC-000347,CON-000217,Equipment,New,Email,Low,Return
+CASE-001154,Issue #1154,ACC-000054,CON-001265,Connectivity,New,Phone,Low,Other
+CASE-001155,Issue #1155,ACC-000473,CON-000132,Equipment,Closed,Web,High,Performance
+CASE-001156,Issue #1156,ACC-000232,CON-001478,Electrical,Closed,Email,High,Network Issue
+CASE-001157,Issue #1157,ACC-000123,CON-000401,Software,Closed,Web,Low,Equipment Complexity
+CASE-001158,Issue #1158,ACC-000396,CON-001500,Connectivity,Closed,Phone,Low,Other
+CASE-001159,Issue #1159,ACC-000274,CON-001387,Equipment,Closed,Web,Medium,Equipment Complexity
+CASE-001160,Issue #1160,ACC-000476,CON-000944,Software,Working,Phone,Medium,Shipment Damaged
+CASE-001161,Issue #1161,ACC-000222,CON-000579,Connectivity,Working,Email,Low,Performance
+CASE-001162,Issue #1162,ACC-000297,CON-001033,Billing,New,Email,Low,Performance
+CASE-001163,Issue #1163,ACC-000407,CON-001051,Billing,Working,Web,High,Shipment Damaged
+CASE-001164,Issue #1164,ACC-000477,CON-000464,Equipment,Closed,Phone,Medium,Shipment Damaged
+CASE-001165,Issue #1165,ACC-000223,CON-000373,Equipment,Closed,Web,High,Network Issue
+CASE-001166,Issue #1166,ACC-000173,CON-000448,Shipping,Working,Web,Low,Bug
+CASE-001167,Issue #1167,ACC-000446,CON-001332,Software,Closed,Email,Medium,Network Issue
+CASE-001168,Issue #1168,ACC-000302,CON-000098,Equipment,New,Phone,Low,Other
+CASE-001169,Issue #1169,ACC-000448,CON-000170,Installation,New,Phone,Medium,Equipment Complexity
+CASE-001170,Issue #1170,ACC-000289,CON-000117,Billing,New,Phone,Medium,Network Issue
+CASE-001171,Issue #1171,ACC-000249,CON-001187,Installation,New,Phone,Medium,Return
+CASE-001172,Issue #1172,ACC-000455,CON-000473,Connectivity,Working,Web,High,Equipment Complexity
+CASE-001173,Issue #1173,ACC-000246,CON-000268,Connectivity,Closed,Email,Low,Network Issue
+CASE-001174,Issue #1174,ACC-000292,CON-000488,Installation,Working,Phone,Low,Other
+CASE-001175,Issue #1175,ACC-000314,CON-000101,Electrical,Closed,Web,Low,Shipment Damaged
+CASE-001176,Issue #1176,ACC-000139,CON-001441,Connectivity,Working,Phone,Medium,Other
+CASE-001177,Issue #1177,ACC-000057,CON-000420,Installation,Closed,Web,Low,Return
+CASE-001178,Issue #1178,ACC-000264,CON-001215,Shipping,Working,Email,Medium,Other
+CASE-001179,Issue #1179,ACC-000063,CON-001416,Equipment,Closed,Phone,Low,Other
+CASE-001180,Issue #1180,ACC-000456,CON-001045,Shipping,Working,Phone,Medium,Network Issue
+CASE-001181,Issue #1181,ACC-000211,CON-000019,Electrical,Working,Phone,High,Network Issue
+CASE-001182,Issue #1182,ACC-000032,CON-000188,Software,Closed,Phone,Medium,Shipment Damaged
+CASE-001183,Issue #1183,ACC-000111,CON-001102,Connectivity,Closed,Email,Low,Network Issue
+CASE-001184,Issue #1184,ACC-000478,CON-000202,Software,Working,Web,Low,Bug
+CASE-001185,Issue #1185,ACC-000269,CON-001485,Shipping,New,Email,Low,Shipment Damaged
+CASE-001186,Issue #1186,ACC-000243,CON-000078,Installation,Working,Phone,Low,Equipment Complexity
+CASE-001187,Issue #1187,ACC-000414,CON-000702,Equipment,Closed,Web,Medium,Shipment Damaged
+CASE-001188,Issue #1188,ACC-000311,CON-000310,Shipping,Closed,Web,Medium,Performance
+CASE-001189,Issue #1189,ACC-000318,CON-001062,Installation,Closed,Phone,Medium,Equipment Complexity
+CASE-001190,Issue #1190,ACC-000260,CON-001153,Installation,Closed,Phone,Medium,Shipment Damaged
+CASE-001191,Issue #1191,ACC-000022,CON-000726,Software,New,Email,High,Bug
+CASE-001192,Issue #1192,ACC-000198,CON-000023,Installation,Closed,Phone,Low,Bug
+CASE-001193,Issue #1193,ACC-000418,CON-000010,Electrical,Closed,Phone,Medium,Bug
+CASE-001194,Issue #1194,ACC-000162,CON-000533,Shipping,Closed,Phone,Low,Other
+CASE-001195,Issue #1195,ACC-000049,CON-000193,Software,Working,Phone,High,Return
+CASE-001196,Issue #1196,ACC-000330,CON-000276,Billing,Closed,Email,Medium,Performance
+CASE-001197,Issue #1197,ACC-000164,CON-000863,Equipment,New,Phone,High,Other
+CASE-001198,Issue #1198,ACC-000198,CON-000047,Equipment,Working,Web,Medium,Shipment Damaged
+CASE-001199,Issue #1199,ACC-000289,CON-000974,Software,Working,Email,Low,Return
+CASE-001200,Issue #1200,ACC-000036,CON-001119,Billing,Working,Web,Medium,Return
+CASE-001201,Issue #1201,ACC-000473,CON-001306,Connectivity,New,Email,Medium,Performance
+CASE-001202,Issue #1202,ACC-000139,CON-000677,Electrical,Closed,Email,Low,Performance
+CASE-001203,Issue #1203,ACC-000405,CON-000809,Software,Closed,Email,Medium,Network Issue
+CASE-001204,Issue #1204,ACC-000280,CON-000316,Electrical,Working,Phone,Medium,Network Issue
+CASE-001205,Issue #1205,ACC-000088,CON-000988,Installation,New,Phone,Medium,Bug
+CASE-001206,Issue #1206,ACC-000437,CON-000632,Equipment,Working,Phone,Low,Performance
+CASE-001207,Issue #1207,ACC-000464,CON-001297,Installation,Closed,Web,Medium,Performance
+CASE-001208,Issue #1208,ACC-000343,CON-001063,Installation,New,Email,Low,Network Issue
+CASE-001209,Issue #1209,ACC-000453,CON-001447,Billing,New,Phone,Low,Shipment Damaged
+CASE-001210,Issue #1210,ACC-000381,CON-000498,Software,New,Phone,Low,Bug
+CASE-001211,Issue #1211,ACC-000495,CON-000576,Shipping,Closed,Email,Low,Performance
+CASE-001212,Issue #1212,ACC-000468,CON-000192,Software,Closed,Email,Medium,Equipment Complexity
+CASE-001213,Issue #1213,ACC-000328,CON-001141,Software,New,Email,Low,Return
+CASE-001214,Issue #1214,ACC-000395,CON-001275,Shipping,New,Web,Low,Return
+CASE-001215,Issue #1215,ACC-000426,CON-000378,Connectivity,Closed,Phone,Medium,Shipment Damaged
+CASE-001216,Issue #1216,ACC-000078,CON-000668,Shipping,Closed,Web,Low,Shipment Damaged
+CASE-001217,Issue #1217,ACC-000462,CON-001343,Equipment,Closed,Email,Low,Shipment Damaged
+CASE-001218,Issue #1218,ACC-000161,CON-001175,Connectivity,Working,Email,High,Other
+CASE-001219,Issue #1219,ACC-000460,CON-000031,Connectivity,Closed,Email,Low,Equipment Complexity
+CASE-001220,Issue #1220,ACC-000219,CON-000123,Electrical,Working,Email,Medium,Equipment Complexity
+CASE-001221,Issue #1221,ACC-000313,CON-001211,Electrical,New,Phone,Medium,Return
+CASE-001222,Issue #1222,ACC-000429,CON-000348,Software,New,Phone,High,Other
+CASE-001223,Issue #1223,ACC-000253,CON-000217,Billing,New,Web,Medium,Equipment Complexity
+CASE-001224,Issue #1224,ACC-000257,CON-001037,Electrical,New,Phone,Medium,Bug
+CASE-001225,Issue #1225,ACC-000271,CON-001342,Shipping,Closed,Web,Low,Other
+CASE-001226,Issue #1226,ACC-000091,CON-000828,Installation,New,Web,Low,Equipment Complexity
+CASE-001227,Issue #1227,ACC-000249,CON-001354,Software,Working,Web,Low,Bug
+CASE-001228,Issue #1228,ACC-000419,CON-000231,Billing,Working,Phone,Medium,Equipment Complexity
+CASE-001229,Issue #1229,ACC-000207,CON-000520,Software,New,Phone,Medium,Network Issue
+CASE-001230,Issue #1230,ACC-000218,CON-000002,Shipping,Closed,Phone,Low,Equipment Complexity
+CASE-001231,Issue #1231,ACC-000147,CON-001367,Installation,New,Email,Low,Other
+CASE-001232,Issue #1232,ACC-000259,CON-000493,Software,New,Email,High,Shipment Damaged
+CASE-001233,Issue #1233,ACC-000023,CON-000319,Billing,Working,Email,Low,Performance
+CASE-001234,Issue #1234,ACC-000325,CON-000233,Shipping,New,Phone,Low,Performance
+CASE-001235,Issue #1235,ACC-000062,CON-000403,Shipping,Closed,Web,Low,Equipment Complexity
+CASE-001236,Issue #1236,ACC-000407,CON-000936,Software,New,Phone,Medium,Equipment Complexity
+CASE-001237,Issue #1237,ACC-000452,CON-000815,Software,Working,Email,High,Network Issue
+CASE-001238,Issue #1238,ACC-000282,CON-000611,Connectivity,Working,Web,High,Equipment Complexity
+CASE-001239,Issue #1239,ACC-000259,CON-000505,Shipping,New,Phone,Medium,Performance
+CASE-001240,Issue #1240,ACC-000093,CON-001212,Shipping,Working,Web,High,Equipment Complexity
+CASE-001241,Issue #1241,ACC-000019,CON-000115,Installation,New,Email,Medium,Bug
+CASE-001242,Issue #1242,ACC-000105,CON-000678,Installation,Closed,Phone,Medium,Performance
+CASE-001243,Issue #1243,ACC-000196,CON-000666,Billing,Closed,Phone,Low,Performance
+CASE-001244,Issue #1244,ACC-000351,CON-000398,Installation,New,Phone,Low,Other
+CASE-001245,Issue #1245,ACC-000190,CON-000876,Software,New,Email,High,Network Issue
+CASE-001246,Issue #1246,ACC-000185,CON-000761,Electrical,Working,Phone,Medium,Other
+CASE-001247,Issue #1247,ACC-000181,CON-001306,Connectivity,Closed,Web,Medium,Return
+CASE-001248,Issue #1248,ACC-000081,CON-001017,Software,Working,Web,Low,Other
+CASE-001249,Issue #1249,ACC-000369,CON-000790,Equipment,New,Phone,High,Bug
+CASE-001250,Issue #1250,ACC-000063,CON-001224,Shipping,New,Phone,High,Shipment Damaged
+CASE-001251,Issue #1251,ACC-000461,CON-000382,Software,Closed,Phone,Medium,Performance
+CASE-001252,Issue #1252,ACC-000305,CON-001247,Electrical,Closed,Web,Medium,Other
+CASE-001253,Issue #1253,ACC-000223,CON-000968,Billing,New,Web,Medium,Equipment Complexity
+CASE-001254,Issue #1254,ACC-000089,CON-000495,Installation,Working,Web,High,Performance
+CASE-001255,Issue #1255,ACC-000446,CON-000388,Billing,New,Phone,Medium,Performance
+CASE-001256,Issue #1256,ACC-000489,CON-001426,Connectivity,Closed,Phone,High,Performance
+CASE-001257,Issue #1257,ACC-000500,CON-000388,Software,Working,Phone,Low,Bug
+CASE-001258,Issue #1258,ACC-000312,CON-001155,Software,Closed,Email,High,Network Issue
+CASE-001259,Issue #1259,ACC-000027,CON-000508,Software,Working,Web,Low,Shipment Damaged
+CASE-001260,Issue #1260,ACC-000435,CON-001119,Connectivity,New,Email,Medium,Other
+CASE-001261,Issue #1261,ACC-000368,CON-000116,Connectivity,New,Web,Low,Return
+CASE-001262,Issue #1262,ACC-000202,CON-000692,Software,Closed,Web,Low,Equipment Complexity
+CASE-001263,Issue #1263,ACC-000455,CON-000275,Billing,New,Web,High,Return
+CASE-001264,Issue #1264,ACC-000124,CON-000148,Electrical,Closed,Email,Medium,Return
+CASE-001265,Issue #1265,ACC-000149,CON-000103,Electrical,Closed,Web,High,Shipment Damaged
+CASE-001266,Issue #1266,ACC-000174,CON-000264,Shipping,Closed,Email,Low,Shipment Damaged
+CASE-001267,Issue #1267,ACC-000465,CON-001238,Installation,Closed,Web,High,Network Issue
+CASE-001268,Issue #1268,ACC-000038,CON-000427,Billing,Working,Email,Low,Shipment Damaged
+CASE-001269,Issue #1269,ACC-000298,CON-001075,Shipping,Closed,Web,Medium,Shipment Damaged
+CASE-001270,Issue #1270,ACC-000494,CON-000512,Connectivity,New,Email,High,Performance
+CASE-001271,Issue #1271,ACC-000181,CON-000679,Equipment,Working,Web,Medium,Bug
+CASE-001272,Issue #1272,ACC-000251,CON-000017,Billing,Closed,Web,Medium,Other
+CASE-001273,Issue #1273,ACC-000320,CON-000739,Installation,Closed,Phone,Low,Return
+CASE-001274,Issue #1274,ACC-000413,CON-001466,Connectivity,New,Phone,Low,Performance
+CASE-001275,Issue #1275,ACC-000138,CON-001455,Connectivity,Working,Phone,Low,Equipment Complexity
+CASE-001276,Issue #1276,ACC-000363,CON-000499,Electrical,Working,Email,Medium,Shipment Damaged
+CASE-001277,Issue #1277,ACC-000274,CON-000938,Software,New,Phone,Medium,Network Issue
+CASE-001278,Issue #1278,ACC-000288,CON-001299,Shipping,Closed,Phone,Medium,Bug
+CASE-001279,Issue #1279,ACC-000022,CON-000922,Billing,New,Phone,Medium,Network Issue
+CASE-001280,Issue #1280,ACC-000231,CON-001329,Billing,Working,Web,Low,Bug
+CASE-001281,Issue #1281,ACC-000271,CON-000277,Shipping,New,Phone,Medium,Performance
+CASE-001282,Issue #1282,ACC-000090,CON-000959,Electrical,New,Web,Low,Return
+CASE-001283,Issue #1283,ACC-000336,CON-001072,Billing,Closed,Phone,Medium,Shipment Damaged
+CASE-001284,Issue #1284,ACC-000400,CON-000968,Equipment,Working,Phone,Low,Shipment Damaged
+CASE-001285,Issue #1285,ACC-000162,CON-000370,Installation,Working,Phone,Medium,Equipment Complexity
+CASE-001286,Issue #1286,ACC-000017,CON-000192,Software,New,Email,High,Bug
+CASE-001287,Issue #1287,ACC-000426,CON-001227,Software,Working,Web,Medium,Shipment Damaged
+CASE-001288,Issue #1288,ACC-000498,CON-001008,Billing,Working,Phone,High,Shipment Damaged
+CASE-001289,Issue #1289,ACC-000011,CON-001338,Electrical,Working,Web,Medium,Equipment Complexity
+CASE-001290,Issue #1290,ACC-000416,CON-000307,Installation,Closed,Email,High,Equipment Complexity
+CASE-001291,Issue #1291,ACC-000234,CON-000635,Billing,New,Email,Low,Return
+CASE-001292,Issue #1292,ACC-000418,CON-000471,Equipment,New,Web,Low,Performance
+CASE-001293,Issue #1293,ACC-000107,CON-000282,Software,Working,Web,Low,Equipment Complexity
+CASE-001294,Issue #1294,ACC-000176,CON-001389,Electrical,New,Email,High,Bug
+CASE-001295,Issue #1295,ACC-000060,CON-000949,Shipping,New,Phone,Low,Bug
+CASE-001296,Issue #1296,ACC-000315,CON-000082,Connectivity,Working,Web,Medium,Network Issue
+CASE-001297,Issue #1297,ACC-000221,CON-000184,Installation,Closed,Email,High,Equipment Complexity
+CASE-001298,Issue #1298,ACC-000422,CON-000652,Equipment,Working,Phone,Medium,Performance
+CASE-001299,Issue #1299,ACC-000389,CON-000548,Installation,New,Web,Low,Equipment Complexity
+CASE-001300,Issue #1300,ACC-000035,CON-001195,Installation,Closed,Phone,Medium,Bug
+CASE-001301,Issue #1301,ACC-000147,CON-000631,Connectivity,Closed,Phone,Low,Network Issue
+CASE-001302,Issue #1302,ACC-000370,CON-001090,Equipment,Closed,Web,Low,Other
+CASE-001303,Issue #1303,ACC-000333,CON-001008,Connectivity,Working,Email,High,Shipment Damaged
+CASE-001304,Issue #1304,ACC-000339,CON-001242,Installation,Working,Phone,High,Other
+CASE-001305,Issue #1305,ACC-000096,CON-000149,Software,Closed,Phone,Low,Other
+CASE-001306,Issue #1306,ACC-000473,CON-000689,Software,Closed,Email,Low,Equipment Complexity
+CASE-001307,Issue #1307,ACC-000315,CON-000939,Billing,New,Web,Low,Other
+CASE-001308,Issue #1308,ACC-000002,CON-001389,Electrical,Working,Email,Low,Performance
+CASE-001309,Issue #1309,ACC-000293,CON-001472,Software,New,Web,Medium,Equipment Complexity
+CASE-001310,Issue #1310,ACC-000369,CON-000686,Billing,New,Phone,Medium,Network Issue
+CASE-001311,Issue #1311,ACC-000003,CON-001452,Installation,Working,Web,High,Network Issue
+CASE-001312,Issue #1312,ACC-000319,CON-000330,Equipment,Closed,Email,Low,Return
+CASE-001313,Issue #1313,ACC-000443,CON-001169,Electrical,Working,Email,High,Return
+CASE-001314,Issue #1314,ACC-000177,CON-000524,Shipping,New,Phone,Medium,Shipment Damaged
+CASE-001315,Issue #1315,ACC-000287,CON-000498,Billing,New,Email,Low,Equipment Complexity
+CASE-001316,Issue #1316,ACC-000027,CON-000496,Billing,Closed,Web,Low,Network Issue
+CASE-001317,Issue #1317,ACC-000003,CON-001498,Installation,Working,Web,Low,Other
+CASE-001318,Issue #1318,ACC-000203,CON-001218,Installation,Working,Web,Low,Network Issue
+CASE-001319,Issue #1319,ACC-000087,CON-000222,Equipment,Working,Email,Low,Return
+CASE-001320,Issue #1320,ACC-000001,CON-000303,Connectivity,Working,Phone,Medium,Shipment Damaged
+CASE-001321,Issue #1321,ACC-000337,CON-000932,Software,Working,Web,Medium,Other
+CASE-001322,Issue #1322,ACC-000325,CON-000256,Shipping,Closed,Email,Medium,Network Issue
+CASE-001323,Issue #1323,ACC-000176,CON-000247,Electrical,New,Email,Low,Network Issue
+CASE-001324,Issue #1324,ACC-000011,CON-000042,Installation,Closed,Phone,Medium,Shipment Damaged
+CASE-001325,Issue #1325,ACC-000442,CON-000980,Installation,Closed,Web,Medium,Shipment Damaged
+CASE-001326,Issue #1326,ACC-000474,CON-000358,Electrical,New,Web,Medium,Network Issue
+CASE-001327,Issue #1327,ACC-000260,CON-000979,Installation,Working,Phone,High,Performance
+CASE-001328,Issue #1328,ACC-000498,CON-001499,Billing,New,Phone,Medium,Equipment Complexity
+CASE-001329,Issue #1329,ACC-000357,CON-000846,Shipping,Closed,Email,High,Bug
+CASE-001330,Issue #1330,ACC-000337,CON-000943,Shipping,New,Web,Low,Bug
+CASE-001331,Issue #1331,ACC-000196,CON-000367,Electrical,Working,Email,Medium,Return
+CASE-001332,Issue #1332,ACC-000187,CON-000779,Software,New,Phone,Medium,Network Issue
+CASE-001333,Issue #1333,ACC-000349,CON-000943,Software,New,Web,Medium,Performance
+CASE-001334,Issue #1334,ACC-000085,CON-001260,Software,Working,Web,Low,Performance
+CASE-001335,Issue #1335,ACC-000246,CON-000137,Connectivity,Working,Email,Medium,Return
+CASE-001336,Issue #1336,ACC-000316,CON-000481,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-001337,Issue #1337,ACC-000319,CON-000139,Equipment,New,Email,Low,Shipment Damaged
+CASE-001338,Issue #1338,ACC-000272,CON-001192,Software,New,Phone,Low,Return
+CASE-001339,Issue #1339,ACC-000118,CON-000791,Equipment,Closed,Phone,Medium,Return
+CASE-001340,Issue #1340,ACC-000470,CON-000738,Software,Working,Phone,Low,Other
+CASE-001341,Issue #1341,ACC-000420,CON-000390,Shipping,Working,Email,Low,Shipment Damaged
+CASE-001342,Issue #1342,ACC-000036,CON-000441,Software,New,Web,Low,Equipment Complexity
+CASE-001343,Issue #1343,ACC-000268,CON-001182,Installation,Closed,Web,High,Other
+CASE-001344,Issue #1344,ACC-000460,CON-001153,Billing,New,Web,Low,Network Issue
+CASE-001345,Issue #1345,ACC-000067,CON-000903,Software,Working,Email,Low,Shipment Damaged
+CASE-001346,Issue #1346,ACC-000409,CON-000788,Shipping,New,Phone,Low,Other
+CASE-001347,Issue #1347,ACC-000112,CON-000265,Billing,Working,Web,Medium,Performance
+CASE-001348,Issue #1348,ACC-000299,CON-000159,Electrical,Working,Phone,Low,Equipment Complexity
+CASE-001349,Issue #1349,ACC-000420,CON-001257,Billing,New,Web,Low,Shipment Damaged
+CASE-001350,Issue #1350,ACC-000042,CON-001424,Equipment,New,Web,Low,Return
+CASE-001351,Issue #1351,ACC-000436,CON-000711,Billing,Closed,Web,Medium,Equipment Complexity
+CASE-001352,Issue #1352,ACC-000475,CON-000294,Equipment,New,Email,Medium,Return
+CASE-001353,Issue #1353,ACC-000393,CON-001133,Connectivity,Closed,Email,Low,Other
+CASE-001354,Issue #1354,ACC-000075,CON-000899,Connectivity,New,Email,Medium,Other
+CASE-001355,Issue #1355,ACC-000150,CON-000997,Software,New,Web,Low,Shipment Damaged
+CASE-001356,Issue #1356,ACC-000483,CON-000932,Software,Closed,Email,High,Return
+CASE-001357,Issue #1357,ACC-000495,CON-000248,Installation,Working,Web,High,Other
+CASE-001358,Issue #1358,ACC-000391,CON-000694,Electrical,Working,Web,High,Shipment Damaged
+CASE-001359,Issue #1359,ACC-000078,CON-001019,Software,Working,Web,Medium,Bug
+CASE-001360,Issue #1360,ACC-000228,CON-000604,Billing,Working,Web,Low,Return
+CASE-001361,Issue #1361,ACC-000142,CON-000446,Equipment,Closed,Email,Medium,Return
+CASE-001362,Issue #1362,ACC-000431,CON-000658,Installation,New,Phone,Low,Performance
+CASE-001363,Issue #1363,ACC-000484,CON-000430,Shipping,Working,Phone,Medium,Shipment Damaged
+CASE-001364,Issue #1364,ACC-000056,CON-000065,Electrical,Working,Web,Low,Other
+CASE-001365,Issue #1365,ACC-000248,CON-000375,Shipping,New,Web,Low,Bug
+CASE-001366,Issue #1366,ACC-000482,CON-000855,Shipping,Working,Email,Medium,Other
+CASE-001367,Issue #1367,ACC-000359,CON-001061,Software,New,Phone,Medium,Equipment Complexity
+CASE-001368,Issue #1368,ACC-000325,CON-000017,Connectivity,Working,Phone,Medium,Other
+CASE-001369,Issue #1369,ACC-000252,CON-000243,Billing,Working,Email,Medium,Network Issue
+CASE-001370,Issue #1370,ACC-000121,CON-000475,Connectivity,Working,Phone,Low,Shipment Damaged
+CASE-001371,Issue #1371,ACC-000302,CON-000383,Connectivity,Working,Phone,High,Other
+CASE-001372,Issue #1372,ACC-000172,CON-000631,Software,Working,Phone,Medium,Performance
+CASE-001373,Issue #1373,ACC-000072,CON-000184,Electrical,Closed,Web,Medium,Return
+CASE-001374,Issue #1374,ACC-000463,CON-000078,Installation,Closed,Phone,High,Shipment Damaged
+CASE-001375,Issue #1375,ACC-000393,CON-000580,Equipment,Working,Phone,Medium,Return
+CASE-001376,Issue #1376,ACC-000411,CON-001403,Billing,Closed,Email,Low,Performance
+CASE-001377,Issue #1377,ACC-000440,CON-001264,Installation,New,Web,High,Other
+CASE-001378,Issue #1378,ACC-000360,CON-001368,Software,New,Email,Low,Bug
+CASE-001379,Issue #1379,ACC-000177,CON-000479,Connectivity,Working,Web,Low,Shipment Damaged
+CASE-001380,Issue #1380,ACC-000122,CON-001324,Equipment,Closed,Phone,High,Bug
+CASE-001381,Issue #1381,ACC-000055,CON-000507,Installation,Closed,Web,Low,Bug
+CASE-001382,Issue #1382,ACC-000424,CON-000218,Electrical,Closed,Web,Medium,Other
+CASE-001383,Issue #1383,ACC-000309,CON-001208,Shipping,Working,Web,Medium,Shipment Damaged
+CASE-001384,Issue #1384,ACC-000470,CON-001443,Billing,Closed,Email,Low,Equipment Complexity
+CASE-001385,Issue #1385,ACC-000059,CON-000838,Equipment,Closed,Email,Low,Network Issue
+CASE-001386,Issue #1386,ACC-000408,CON-000604,Software,New,Phone,Low,Other
+CASE-001387,Issue #1387,ACC-000187,CON-000320,Electrical,Closed,Web,Medium,Shipment Damaged
+CASE-001388,Issue #1388,ACC-000364,CON-000917,Installation,Closed,Email,Low,Shipment Damaged
+CASE-001389,Issue #1389,ACC-000259,CON-000523,Billing,New,Phone,Medium,Equipment Complexity
+CASE-001390,Issue #1390,ACC-000407,CON-000969,Equipment,Closed,Phone,Low,Return
+CASE-001391,Issue #1391,ACC-000032,CON-001247,Software,Working,Phone,Medium,Network Issue
+CASE-001392,Issue #1392,ACC-000441,CON-000377,Connectivity,New,Web,High,Return
+CASE-001393,Issue #1393,ACC-000335,CON-000243,Electrical,New,Phone,Medium,Network Issue
+CASE-001394,Issue #1394,ACC-000090,CON-000510,Shipping,Closed,Web,Medium,Bug
+CASE-001395,Issue #1395,ACC-000459,CON-001362,Shipping,Closed,Web,Low,Shipment Damaged
+CASE-001396,Issue #1396,ACC-000306,CON-000432,Connectivity,Closed,Web,High,Equipment Complexity
+CASE-001397,Issue #1397,ACC-000317,CON-000435,Installation,New,Email,Medium,Network Issue
+CASE-001398,Issue #1398,ACC-000210,CON-000373,Electrical,Working,Email,Low,Shipment Damaged
+CASE-001399,Issue #1399,ACC-000049,CON-001099,Billing,Closed,Web,Low,Other
+CASE-001400,Issue #1400,ACC-000004,CON-000528,Software,Closed,Phone,Medium,Network Issue
+CASE-001401,Issue #1401,ACC-000429,CON-000459,Billing,Working,Phone,Low,Equipment Complexity
+CASE-001402,Issue #1402,ACC-000423,CON-000709,Electrical,Working,Web,High,Return
+CASE-001403,Issue #1403,ACC-000028,CON-001449,Electrical,Closed,Web,Low,Other
+CASE-001404,Issue #1404,ACC-000100,CON-000794,Installation,Closed,Phone,Medium,Bug
+CASE-001405,Issue #1405,ACC-000286,CON-000045,Shipping,Working,Phone,Medium,Other
+CASE-001406,Issue #1406,ACC-000129,CON-000985,Billing,Closed,Web,Low,Shipment Damaged
+CASE-001407,Issue #1407,ACC-000322,CON-001202,Shipping,Working,Web,Low,Equipment Complexity
+CASE-001408,Issue #1408,ACC-000112,CON-000509,Connectivity,Closed,Phone,Low,Performance
+CASE-001409,Issue #1409,ACC-000419,CON-000176,Electrical,Working,Phone,Low,Return
+CASE-001410,Issue #1410,ACC-000400,CON-001314,Installation,Closed,Web,High,Equipment Complexity
+CASE-001411,Issue #1411,ACC-000073,CON-000242,Shipping,Working,Email,Low,Equipment Complexity
+CASE-001412,Issue #1412,ACC-000150,CON-000281,Connectivity,Working,Phone,Low,Other
+CASE-001413,Issue #1413,ACC-000260,CON-000736,Software,Closed,Email,High,Shipment Damaged
+CASE-001414,Issue #1414,ACC-000071,CON-001423,Shipping,Working,Web,Low,Shipment Damaged
+CASE-001415,Issue #1415,ACC-000230,CON-001466,Connectivity,Working,Email,Low,Bug
+CASE-001416,Issue #1416,ACC-000240,CON-000280,Software,Working,Phone,Medium,Bug
+CASE-001417,Issue #1417,ACC-000421,CON-000884,Connectivity,Working,Phone,High,Performance
+CASE-001418,Issue #1418,ACC-000138,CON-000937,Electrical,Working,Email,Medium,Performance
+CASE-001419,Issue #1419,ACC-000050,CON-000413,Shipping,New,Web,Medium,Bug
+CASE-001420,Issue #1420,ACC-000335,CON-001001,Installation,Closed,Email,High,Network Issue
+CASE-001421,Issue #1421,ACC-000484,CON-001385,Billing,New,Email,Low,Other
+CASE-001422,Issue #1422,ACC-000272,CON-001045,Installation,New,Web,Low,Performance
+CASE-001423,Issue #1423,ACC-000482,CON-000180,Software,Working,Email,Low,Equipment Complexity
+CASE-001424,Issue #1424,ACC-000331,CON-000897,Equipment,New,Email,Medium,Shipment Damaged
+CASE-001425,Issue #1425,ACC-000164,CON-001357,Shipping,Closed,Web,High,Network Issue
+CASE-001426,Issue #1426,ACC-000200,CON-000962,Connectivity,New,Web,High,Return
+CASE-001427,Issue #1427,ACC-000141,CON-000807,Electrical,Closed,Email,High,Network Issue
+CASE-001428,Issue #1428,ACC-000410,CON-000623,Electrical,New,Web,Low,Return
+CASE-001429,Issue #1429,ACC-000344,CON-000209,Software,Working,Email,Low,Performance
+CASE-001430,Issue #1430,ACC-000477,CON-000393,Equipment,New,Email,Low,Bug
+CASE-001431,Issue #1431,ACC-000078,CON-000994,Software,Working,Web,Low,Other
+CASE-001432,Issue #1432,ACC-000007,CON-001003,Software,Closed,Phone,Medium,Bug
+CASE-001433,Issue #1433,ACC-000416,CON-000379,Shipping,Working,Email,High,Other
+CASE-001434,Issue #1434,ACC-000200,CON-000281,Installation,Closed,Email,Medium,Shipment Damaged
+CASE-001435,Issue #1435,ACC-000469,CON-000249,Equipment,Closed,Email,Medium,Shipment Damaged
+CASE-001436,Issue #1436,ACC-000378,CON-000304,Connectivity,Closed,Phone,Medium,Shipment Damaged
+CASE-001437,Issue #1437,ACC-000187,CON-001396,Billing,New,Email,High,Network Issue
+CASE-001438,Issue #1438,ACC-000374,CON-000812,Electrical,Closed,Web,Medium,Shipment Damaged
+CASE-001439,Issue #1439,ACC-000292,CON-000750,Electrical,Closed,Phone,Low,Bug
+CASE-001440,Issue #1440,ACC-000169,CON-001337,Electrical,Closed,Email,High,Bug
+CASE-001441,Issue #1441,ACC-000085,CON-000087,Shipping,New,Web,Low,Other
+CASE-001442,Issue #1442,ACC-000321,CON-000331,Software,Closed,Email,Medium,Bug
+CASE-001443,Issue #1443,ACC-000205,CON-000192,Software,Closed,Web,Medium,Other
+CASE-001444,Issue #1444,ACC-000078,CON-001109,Billing,Working,Email,Medium,Bug
+CASE-001445,Issue #1445,ACC-000121,CON-000588,Connectivity,Working,Web,Medium,Performance
+CASE-001446,Issue #1446,ACC-000380,CON-000056,Connectivity,Working,Phone,High,Other
+CASE-001447,Issue #1447,ACC-000115,CON-000584,Installation,New,Web,Low,Equipment Complexity
+CASE-001448,Issue #1448,ACC-000373,CON-000554,Software,Closed,Web,Low,Other
+CASE-001449,Issue #1449,ACC-000233,CON-001162,Connectivity,Working,Web,Medium,Other
+CASE-001450,Issue #1450,ACC-000162,CON-001176,Software,Closed,Web,High,Bug
+CASE-001451,Issue #1451,ACC-000431,CON-000999,Software,Closed,Email,Low,Equipment Complexity
+CASE-001452,Issue #1452,ACC-000031,CON-000764,Installation,New,Web,Low,Shipment Damaged
+CASE-001453,Issue #1453,ACC-000063,CON-000984,Installation,Working,Phone,Low,Equipment Complexity
+CASE-001454,Issue #1454,ACC-000425,CON-000867,Equipment,Working,Email,Low,Other
+CASE-001455,Issue #1455,ACC-000412,CON-001064,Electrical,Working,Phone,Low,Return
+CASE-001456,Issue #1456,ACC-000147,CON-000709,Connectivity,Closed,Web,Low,Network Issue
+CASE-001457,Issue #1457,ACC-000500,CON-000287,Electrical,Closed,Web,Low,Performance
+CASE-001458,Issue #1458,ACC-000301,CON-000137,Connectivity,New,Phone,Low,Network Issue
+CASE-001459,Issue #1459,ACC-000306,CON-000720,Installation,Closed,Web,Medium,Bug
+CASE-001460,Issue #1460,ACC-000407,CON-000196,Connectivity,New,Email,Medium,Shipment Damaged
+CASE-001461,Issue #1461,ACC-000046,CON-000738,Connectivity,New,Phone,Low,Network Issue
+CASE-001462,Issue #1462,ACC-000306,CON-000062,Equipment,Closed,Phone,Low,Network Issue
+CASE-001463,Issue #1463,ACC-000190,CON-001274,Electrical,New,Phone,Low,Equipment Complexity
+CASE-001464,Issue #1464,ACC-000378,CON-001070,Equipment,New,Email,High,Network Issue
+CASE-001465,Issue #1465,ACC-000016,CON-001189,Installation,New,Email,Low,Other
+CASE-001466,Issue #1466,ACC-000050,CON-001250,Electrical,New,Web,Medium,Return
+CASE-001467,Issue #1467,ACC-000378,CON-000805,Connectivity,Working,Web,Medium,Return
+CASE-001468,Issue #1468,ACC-000211,CON-001447,Connectivity,Working,Phone,High,Return
+CASE-001469,Issue #1469,ACC-000451,CON-001062,Equipment,Closed,Phone,Low,Network Issue
+CASE-001470,Issue #1470,ACC-000141,CON-000444,Billing,New,Phone,Low,Other
+CASE-001471,Issue #1471,ACC-000174,CON-000312,Electrical,Working,Phone,Low,Bug
+CASE-001472,Issue #1472,ACC-000089,CON-000774,Equipment,Working,Email,High,Bug
+CASE-001473,Issue #1473,ACC-000343,CON-000871,Installation,Working,Email,Medium,Network Issue
+CASE-001474,Issue #1474,ACC-000219,CON-000649,Installation,New,Email,Medium,Other
+CASE-001475,Issue #1475,ACC-000435,CON-000280,Software,Closed,Web,Medium,Other
+CASE-001476,Issue #1476,ACC-000423,CON-001100,Equipment,Closed,Web,Low,Bug
+CASE-001477,Issue #1477,ACC-000240,CON-001260,Software,Working,Web,Medium,Performance
+CASE-001478,Issue #1478,ACC-000150,CON-000021,Equipment,New,Web,Medium,Network Issue
+CASE-001479,Issue #1479,ACC-000450,CON-000913,Billing,Working,Email,High,Network Issue
+CASE-001480,Issue #1480,ACC-000341,CON-000657,Software,New,Web,Medium,Network Issue
+CASE-001481,Issue #1481,ACC-000026,CON-000781,Installation,Working,Phone,High,Other
+CASE-001482,Issue #1482,ACC-000476,CON-000744,Connectivity,Working,Phone,High,Other
+CASE-001483,Issue #1483,ACC-000391,CON-000817,Equipment,Working,Web,High,Equipment Complexity
+CASE-001484,Issue #1484,ACC-000388,CON-001003,Installation,Closed,Email,High,Other
+CASE-001485,Issue #1485,ACC-000357,CON-000277,Software,Working,Web,Low,Performance
+CASE-001486,Issue #1486,ACC-000286,CON-000161,Connectivity,Closed,Phone,Medium,Network Issue
+CASE-001487,Issue #1487,ACC-000046,CON-000733,Software,Closed,Email,High,Equipment Complexity
+CASE-001488,Issue #1488,ACC-000380,CON-000988,Connectivity,Closed,Phone,High,Other
+CASE-001489,Issue #1489,ACC-000057,CON-001185,Software,New,Web,Low,Network Issue
+CASE-001490,Issue #1490,ACC-000115,CON-000531,Installation,Working,Web,Medium,Network Issue
+CASE-001491,Issue #1491,ACC-000486,CON-001052,Electrical,Closed,Phone,Medium,Network Issue
+CASE-001492,Issue #1492,ACC-000130,CON-000270,Electrical,Closed,Email,Medium,Performance
+CASE-001493,Issue #1493,ACC-000227,CON-001202,Equipment,New,Phone,Low,Bug
+CASE-001494,Issue #1494,ACC-000193,CON-000827,Connectivity,Closed,Web,Low,Performance
+CASE-001495,Issue #1495,ACC-000407,CON-000734,Shipping,Working,Phone,Medium,Bug
+CASE-001496,Issue #1496,ACC-000060,CON-000309,Shipping,New,Phone,Low,Equipment Complexity
+CASE-001497,Issue #1497,ACC-000394,CON-000568,Installation,Closed,Email,Low,Network Issue
+CASE-001498,Issue #1498,ACC-000393,CON-000914,Electrical,Working,Email,Low,Other
+CASE-001499,Issue #1499,ACC-000360,CON-001470,Equipment,New,Web,Low,Bug
+CASE-001500,Issue #1500,ACC-000109,CON-000830,Equipment,Working,Phone,Medium,Return

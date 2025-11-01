@@ -1,0 +1,9 @@
+External_Id__c,Name,Type,Status,StartDate,EndDate,IsActive
+CAM-0001,Launch Event 1,Email,Completed,2025-01-21,2025-01-26,True
+CAM-0002,Launch Campaign 2,Advertisement,Completed,2025-02-10,2025-02-14,True
+CAM-0003,Awareness Campaign 3,Conference,Planned,2025-03-02,2025-03-04,True
+CAM-0004,Summer Series 4,Conference,Completed,2025-03-22,2025-03-27,True
+CAM-0005,Holiday Event 5,Advertisement,In Progress,2025-04-11,2025-04-13,True
+CAM-0006,Holiday Campaign 6,Tradeshow,Planned,2025-05-01,2025-05-05,True
+CAM-0007,Holiday Blitz 7,Social,Planned,2025-05-21,2025-05-24,True
+CAM-0008,VIP Campaign 8,Email,Completed,2025-06-10,2025-06-15,True

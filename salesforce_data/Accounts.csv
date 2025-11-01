@@ -1,0 +1,501 @@
+External_Id__c,Name,Type,Industry,AnnualRevenue,NumberOfEmployees,BillingCity,BillingState,BillingCountry
+ACC-000001,Quantum Textiles (Baltimore),Prospect,Manufacturing,7851184,111,Baltimore,Maryland,United States
+ACC-000002,Summit Networks (Portland),Customer - Channel,Apparel,13651203,32,Portland,Oregon,United States
+ACC-000003,Arcadia Networks (Cleveland),Customer - Channel,Healthcare,30239412,22,Cleveland,Ohio,United States
+ACC-000004,Onyx Manufacturing (Detroit),Customer - Channel,Biotechnology,8303662,67,Detroit,Michigan,United States
+ACC-000005,Express Services (Miami),Customer - Direct,Finance,46784294,8,Miami,Florida,United States
+ACC-000006,Arcadia Services (Cleveland),Customer - Channel,Telecommunications,341005667,87,Cleveland,Ohio,United States
+ACC-000007,Ironwood Partners (Boston),Prospect,Apparel,15257974,83,Boston,Massachusetts,United States
+ACC-000008,GreenLeaf Textiles (Dallas),Customer - Channel,Healthcare,20440868,38,Dallas,Texas,United States
+ACC-000009,Helios Holdings (Cleveland),Customer - Channel,Apparel,71760471,14,Cleveland,Ohio,United States
+ACC-000010,Arcadia Textiles (Raleigh),Customer - Direct,Apparel,57994429,123,Raleigh,North Carolina,United States
+ACC-000011,GreenLeaf Logistics (Columbus),Prospect,Finance,122337975,31,Columbus,Ohio,United States
+ACC-000012,Northstar Manufacturing (Detroit),Customer - Channel,Biotechnology,80431732,11,Detroit,Michigan,United States
+ACC-000013,Burlington Networks (New York),Prospect,Retail,27835165,57,New York,New York,United States
+ACC-000014,Nimbus Manufacturing (Chicago),Customer - Channel,Finance,8506991,37,Chicago,Illinois,United States
+ACC-000015,Northstar Energy (Atlanta),Customer - Channel,Apparel,182953015,328,Atlanta,Georgia,United States
+ACC-000016,Nimbus Enterprises (Charlotte),Customer - Direct,Telecommunications,70941158,78,Charlotte,North Carolina,United States
+ACC-000017,United Services (Minneapolis),Customer - Channel,Software,12497156,15,Minneapolis,Minnesota,United States
+ACC-000018,Northstar Healthcare (Cleveland),Customer - Channel,Healthcare,7942256,62,Cleveland,Ohio,United States
+ACC-000019,BluePeak Labs (Nashville),Customer - Channel,Finance,69160427,23,Nashville,Tennessee,United States
+ACC-000020,Ironwood Holdings (Chicago),Customer - Direct,Healthcare,9543062,49,Chicago,Illinois,United States
+ACC-000021,Edge Holdings (San Diego),Prospect,Software,44584771,36,San Diego,California,United States
+ACC-000022,Vertex Enterprises (Denver),Customer - Direct,Apparel,116102400,37,Denver,Colorado,United States
+ACC-000023,BluePeak Enterprises (San Francisco),Customer - Direct,Telecommunications,30518667,16,San Francisco,California,United States
+ACC-000024,GenePoint Industries (Raleigh),Customer - Channel,Telecommunications,37354235,118,Raleigh,North Carolina,United States
+ACC-000025,Apex Systems (Orlando),Customer - Channel,Healthcare,34661635,42,Orlando,Florida,United States
+ACC-000026,Summit Industries (Raleigh),Customer - Channel,Retail,50306987,50,Raleigh,North Carolina,United States
+ACC-000027,Vertex Enterprises (San Jose),Prospect,Transportation,55408988,62,San Jose,California,United States
+ACC-000028,Express Textiles (Detroit),Customer - Channel,Software,60511864,21,Detroit,Michigan,United States
+ACC-000029,Ironwood Partners (San Jose),Customer - Channel,Retail,44014555,11,San Jose,California,United States
+ACC-000030,Express Labs (New York),Customer - Direct,Telecommunications,42575896,14,New York,New York,United States
+ACC-000031,Helios Dynamics (Raleigh),Customer - Direct,Software,30362813,59,Raleigh,North Carolina,United States
+ACC-000032,GenePoint Software (Denver),Customer - Direct,Transportation,21534055,43,Denver,Colorado,United States
+ACC-000033,Ironwood Solutions (Seattle),Prospect,Software,6322227,20,Seattle,Washington,United States
+ACC-000034,Edge Solutions (Orlando),Prospect,Electronics,64895042,16,Orlando,Florida,United States
+ACC-000035,Silverline Holdings (Phoenix),Customer - Direct,Electronics,62485956,13,Phoenix,Arizona,United States
+ACC-000036,Edge Systems (Denver),Customer - Channel,Biotechnology,13159013,16,Denver,Colorado,United States
+ACC-000037,Helios Logistics (Columbus),Customer - Direct,Finance,32839601,62,Columbus,Ohio,United States
+ACC-000038,Apex Solutions (Charlotte),Prospect,Biotechnology,11231042,34,Charlotte,North Carolina,United States
+ACC-000039,Crest Dynamics (Denver),Customer - Channel,Manufacturing,165081821,31,Denver,Colorado,United States
+ACC-000040,Summit Software (Charlotte),Customer - Channel,Transportation,14420841,55,Charlotte,North Carolina,United States
+ACC-000041,Onyx Group (Seattle),Prospect,Manufacturing,26071702,23,Seattle,Washington,United States
+ACC-000042,Apex Industries (Burlington),Customer - Channel,Healthcare,5412852,77,Burlington,North Carolina,United States
+ACC-000043,Nimbus Enterprises (Boston),Prospect,Retail,18420359,40,Boston,Massachusetts,United States
+ACC-000044,GreenLeaf Services (Cleveland),Customer - Channel,Healthcare,11255385,114,Cleveland,Ohio,United States
+ACC-000045,Northstar Healthcare (Boston),Prospect,Apparel,68879760,88,Boston,Massachusetts,United States
+ACC-000046,Vertex Labs (Columbus),Customer - Direct,Finance,29197139,58,Columbus,Ohio,United States
+ACC-000047,Vertex Systems (Charlotte),Customer - Direct,Transportation,79447513,91,Charlotte,North Carolina,United States
+ACC-000048,Edge Textiles (Cleveland),Customer - Direct,Electronics,44561614,38,Cleveland,Ohio,United States
+ACC-000049,BluePeak Partners (Cleveland),Customer - Direct,Retail,22760118,22,Cleveland,Ohio,United States
+ACC-000050,Express Dynamics (Baltimore),Customer - Direct,Energy,12416305,53,Baltimore,Maryland,United States
+ACC-000051,Onyx Networks (Nashville),Customer - Direct,Finance,25532110,8,Nashville,Tennessee,United States
+ACC-000052,Apex Textiles (Baltimore),Customer - Channel,Energy,27917167,94,Baltimore,Maryland,United States
+ACC-000053,Silverline Energy (Seattle),Prospect,Transportation,24762189,9,Seattle,Washington,United States
+ACC-000054,Silverline Holdings (Minneapolis),Customer - Channel,Apparel,28793438,75,Minneapolis,Minnesota,United States
+ACC-000055,GreenLeaf Partners (Tampa),Customer - Channel,Energy,39904457,28,Tampa,Florida,United States
+ACC-000056,Quantum Systems (Burlington),Customer - Direct,Energy,207012326,184,Burlington,North Carolina,United States
+ACC-000057,United Software (Charlotte),Prospect,Apparel,29549428,77,Charlotte,North Carolina,United States
+ACC-000058,Northstar Energy (Chicago),Prospect,Telecommunications,48278379,75,Chicago,Illinois,United States
+ACC-000059,Arcadia Dynamics (Burlington),Prospect,Software,139457648,77,Burlington,North Carolina,United States
+ACC-000060,United Textiles (Portland),Customer - Channel,Finance,35594630,23,Portland,Oregon,United States
+ACC-000061,Burlington Enterprises (Seattle),Prospect,Retail,14477599,39,Seattle,Washington,United States
+ACC-000062,Pioneer Manufacturing (Nashville),Customer - Direct,Telecommunications,103821594,51,Nashville,Tennessee,United States
+ACC-000063,Summit Energy (Atlanta),Customer - Direct,Finance,34382444,49,Atlanta,Georgia,United States
+ACC-000064,Northstar Enterprises (San Francisco),Customer - Channel,Biotechnology,33792277,62,San Francisco,California,United States
+ACC-000065,Nimbus Textiles (Nashville),Customer - Channel,Biotechnology,10607145,8,Nashville,Tennessee,United States
+ACC-000066,Apex Solutions (San Francisco),Customer - Channel,Software,21313472,16,San Francisco,California,United States
+ACC-000067,Onyx Healthcare (Atlanta),Customer - Direct,Retail,163960819,35,Atlanta,Georgia,United States
+ACC-000068,Northstar Textiles (Baltimore),Customer - Direct,Biotechnology,25320544,11,Baltimore,Maryland,United States
+ACC-000069,Helios Holdings (San Jose),Customer - Direct,Manufacturing,43231762,24,San Jose,California,United States
+ACC-000070,Nimbus Textiles (Miami),Customer - Direct,Retail,100114217,79,Miami,Florida,United States
+ACC-000071,Edge Group (San Diego),Customer - Channel,Retail,15008149,56,San Diego,California,United States
+ACC-000072,Northstar Group (Cleveland),Customer - Direct,Transportation,2142714,23,Cleveland,Ohio,United States
+ACC-000073,GenePoint Software (Austin),Customer - Direct,Telecommunications,113376140,76,Austin,Texas,United States
+ACC-000074,Express Healthcare (Orlando),Prospect,Energy,38854749,39,Orlando,Florida,United States
+ACC-000075,Northstar Manufacturing (Boston),Prospect,Electronics,7885102,13,Boston,Massachusetts,United States
+ACC-000076,Apex Logistics (Cleveland),Prospect,Electronics,40768144,165,Cleveland,Ohio,United States
+ACC-000077,Apex Systems (Detroit),Customer - Direct,Transportation,3719538,66,Detroit,Michigan,United States
+ACC-000078,BluePeak Healthcare (Tampa),Customer - Channel,Apparel,59482727,86,Tampa,Florida,United States
+ACC-000079,Crest Textiles (Dallas),Customer - Direct,Finance,13670534,26,Dallas,Texas,United States
+ACC-000080,Vertex Group (Phoenix),Prospect,Manufacturing,34129889,17,Phoenix,Arizona,United States
+ACC-000081,Onyx Manufacturing (Baltimore),Prospect,Transportation,9537201,19,Baltimore,Maryland,United States
+ACC-000082,Onyx Dynamics (Nashville),Customer - Direct,Software,30374273,54,Nashville,Tennessee,United States
+ACC-000083,Vertex Group (Baltimore),Customer - Channel,Finance,31813658,43,Baltimore,Maryland,United States
+ACC-000084,Vertex Manufacturing (San Diego),Customer - Direct,Telecommunications,16454125,22,San Diego,California,United States
+ACC-000085,Edge Systems (Raleigh),Customer - Direct,Software,99994207,38,Raleigh,North Carolina,United States
+ACC-000086,Crest Partners (Detroit),Customer - Channel,Biotechnology,30026361,85,Detroit,Michigan,United States
+ACC-000087,Apex Industries (Miami),Customer - Channel,Software,112508251,111,Miami,Florida,United States
+ACC-000088,Vertex Works (Miami),Customer - Channel,Manufacturing,48929557,38,Miami,Florida,United States
+ACC-000089,Helios Works (Denver),Prospect,Software,43545526,46,Denver,Colorado,United States
+ACC-000090,Ironwood Services (Charlotte),Prospect,Telecommunications,131890231,51,Charlotte,North Carolina,United States
+ACC-000091,BluePeak Logistics (Minneapolis),Customer - Channel,Healthcare,61737721,39,Minneapolis,Minnesota,United States
+ACC-000092,GenePoint Dynamics (Charlotte),Customer - Channel,Finance,128450201,7,Charlotte,North Carolina,United States
+ACC-000093,Apex Solutions (Orlando),Customer - Channel,Energy,47703201,74,Orlando,Florida,United States
+ACC-000094,Apex Manufacturing (Denver),Customer - Direct,Transportation,10230399,225,Denver,Colorado,United States
+ACC-000095,Nimbus Manufacturing (Charlotte),Prospect,Software,28056468,35,Charlotte,North Carolina,United States
+ACC-000096,Express Enterprises (San Francisco),Prospect,Retail,11078950,81,San Francisco,California,United States
+ACC-000097,Burlington Textiles (Dallas),Prospect,Energy,40811212,25,Dallas,Texas,United States
+ACC-000098,Helios Group (Boston),Customer - Direct,Apparel,40884550,70,Boston,Massachusetts,United States
+ACC-000099,United Healthcare (Raleigh),Customer - Channel,Electronics,109891558,48,Raleigh,North Carolina,United States
+ACC-000100,Quantum Networks (Raleigh),Customer - Direct,Electronics,12424444,25,Raleigh,North Carolina,United States
+ACC-000101,Onyx Solutions (Austin),Customer - Direct,Electronics,3274292,22,Austin,Texas,United States
+ACC-000102,Nimbus Works (Nashville),Customer - Direct,Electronics,68098728,58,Nashville,Tennessee,United States
+ACC-000103,Crest Industries (Minneapolis),Customer - Channel,Telecommunications,29271472,30,Minneapolis,Minnesota,United States
+ACC-000104,GenePoint Logistics (Burlington),Customer - Channel,Retail,159018927,50,Burlington,North Carolina,United States
+ACC-000105,Quantum Textiles (Chicago),Prospect,Apparel,80966527,55,Chicago,Illinois,United States
+ACC-000106,Arcadia Textiles (Portland),Customer - Channel,Finance,16695060,140,Portland,Oregon,United States
+ACC-000107,BluePeak Manufacturing (Raleigh),Prospect,Transportation,9453172,15,Raleigh,North Carolina,United States
+ACC-000108,Burlington Energy (New York),Customer - Direct,Transportation,21228400,22,New York,New York,United States
+ACC-000109,Crest Textiles (Denver),Prospect,Manufacturing,18671915,25,Denver,Colorado,United States
+ACC-000110,Crest Works (Cleveland),Customer - Direct,Apparel,87471816,42,Cleveland,Ohio,United States
+ACC-000111,Summit Textiles (Burlington),Customer - Channel,Healthcare,46358139,11,Burlington,North Carolina,United States
+ACC-000112,Burlington Partners (Denver),Prospect,Apparel,13978746,96,Denver,Colorado,United States
+ACC-000113,Express Energy (Chicago),Customer - Channel,Apparel,9783162,103,Chicago,Illinois,United States
+ACC-000114,Summit Labs (Chicago),Customer - Direct,Telecommunications,11632740,51,Chicago,Illinois,United States
+ACC-000115,Silverline Healthcare (Denver),Customer - Direct,Telecommunications,13988694,47,Denver,Colorado,United States
+ACC-000116,Burlington Manufacturing (Burlington),Customer - Channel,Biotechnology,13261321,32,Burlington,North Carolina,United States
+ACC-000117,Pioneer Dynamics (Seattle),Customer - Channel,Finance,173649206,29,Seattle,Washington,United States
+ACC-000118,Vertex Labs (Boston),Customer - Direct,Apparel,249955830,28,Boston,Massachusetts,United States
+ACC-000119,Apex Networks (Phoenix),Customer - Channel,Energy,10061535,42,Phoenix,Arizona,United States
+ACC-000120,GreenLeaf Holdings (Phoenix),Customer - Direct,Electronics,21660692,164,Phoenix,Arizona,United States
+ACC-000121,Quantum Solutions (Phoenix),Customer - Channel,Electronics,77123845,104,Phoenix,Arizona,United States
+ACC-000122,Express Textiles (Chicago),Customer - Direct,Biotechnology,61323284,292,Chicago,Illinois,United States
+ACC-000123,Nimbus Systems (Burlington),Prospect,Transportation,72153223,61,Burlington,North Carolina,United States
+ACC-000124,Silverline Energy (Chicago),Customer - Channel,Apparel,14226278,19,Chicago,Illinois,United States
+ACC-000125,Vertex Textiles (Boston),Customer - Channel,Software,39201906,89,Boston,Massachusetts,United States
+ACC-000126,Helios Solutions (Austin),Customer - Channel,Energy,99628521,19,Austin,Texas,United States
+ACC-000127,Ironwood Labs (Orlando),Customer - Direct,Finance,55472985,47,Orlando,Florida,United States
+ACC-000128,Burlington Holdings (Seattle),Customer - Direct,Manufacturing,10657094,60,Seattle,Washington,United States
+ACC-000129,Quantum Enterprises (Burlington),Customer - Channel,Apparel,3366666,49,Burlington,North Carolina,United States
+ACC-000130,Quantum Manufacturing (Dallas),Customer - Direct,Telecommunications,385986708,17,Dallas,Texas,United States
+ACC-000131,Northstar Manufacturing (Tampa),Customer - Channel,Apparel,33222988,8,Tampa,Florida,United States
+ACC-000132,Quantum Solutions (Atlanta),Customer - Channel,Finance,15325035,74,Atlanta,Georgia,United States
+ACC-000133,Nimbus Labs (Detroit),Customer - Channel,Manufacturing,11496325,39,Detroit,Michigan,United States
+ACC-000134,GreenLeaf Solutions (Miami),Customer - Direct,Apparel,22858456,29,Miami,Florida,United States
+ACC-000135,Arcadia Systems (Miami),Customer - Channel,Finance,39454106,59,Miami,Florida,United States
+ACC-000136,GenePoint Manufacturing (Seattle),Customer - Direct,Healthcare,111581715,78,Seattle,Washington,United States
+ACC-000137,Nimbus Energy (Atlanta),Customer - Direct,Apparel,18532902,125,Atlanta,Georgia,United States
+ACC-000138,BluePeak Industries (Nashville),Customer - Channel,Software,113609901,11,Nashville,Tennessee,United States
+ACC-000139,Edge Enterprises (Cleveland),Customer - Direct,Transportation,63416370,78,Cleveland,Ohio,United States
+ACC-000140,GreenLeaf Systems (Atlanta),Prospect,Manufacturing,85696182,62,Atlanta,Georgia,United States
+ACC-000141,Nimbus Manufacturing (Denver),Customer - Channel,Transportation,8911175,32,Denver,Colorado,United States
+ACC-000142,GenePoint Labs (Columbus),Prospect,Telecommunications,4113535,35,Columbus,Ohio,United States
+ACC-000143,Vertex Systems (Phoenix),Customer - Channel,Transportation,248000823,69,Phoenix,Arizona,United States
+ACC-000144,GreenLeaf Healthcare (Columbus),Prospect,Software,75240753,26,Columbus,Ohio,United States
+ACC-000145,United Textiles (San Diego),Prospect,Manufacturing,11807711,17,San Diego,California,United States
+ACC-000146,Silverline Manufacturing (Austin),Customer - Direct,Retail,36907031,21,Austin,Texas,United States
+ACC-000147,Crest Group (Detroit),Customer - Direct,Biotechnology,17233474,101,Detroit,Michigan,United States
+ACC-000148,Northstar Manufacturing (Raleigh),Customer - Direct,Transportation,6319167,14,Raleigh,North Carolina,United States
+ACC-000149,Ironwood Labs (Phoenix),Customer - Channel,Finance,19572723,37,Phoenix,Arizona,United States
+ACC-000150,Ironwood Partners (Detroit),Prospect,Energy,28645108,13,Detroit,Michigan,United States
+ACC-000151,Nimbus Manufacturing (Orlando),Customer - Channel,Apparel,39579004,36,Orlando,Florida,United States
+ACC-000152,Crest Holdings (Austin),Customer - Direct,Telecommunications,46477509,17,Austin,Texas,United States
+ACC-000153,Quantum Works (Seattle),Customer - Channel,Manufacturing,41655302,48,Seattle,Washington,United States
+ACC-000154,Edge Labs (San Jose),Customer - Direct,Electronics,16845051,33,San Jose,California,United States
+ACC-000155,Edge Industries (Miami),Customer - Channel,Software,18699381,119,Miami,Florida,United States
+ACC-000156,BluePeak Solutions (Burlington),Customer - Channel,Apparel,1440342,12,Burlington,North Carolina,United States
+ACC-000157,Onyx Software (Dallas),Customer - Channel,Telecommunications,5922176,29,Dallas,Texas,United States
+ACC-000158,Helios Solutions (Minneapolis),Customer - Direct,Transportation,16543537,29,Minneapolis,Minnesota,United States
+ACC-000159,Apex Software (Denver),Customer - Direct,Healthcare,66920281,10,Denver,Colorado,United States
+ACC-000160,United Holdings (Minneapolis),Customer - Channel,Biotechnology,13996339,33,Minneapolis,Minnesota,United States
+ACC-000161,Express Solutions (Tampa),Prospect,Healthcare,9798909,54,Tampa,Florida,United States
+ACC-000162,Pioneer Industries (New York),Prospect,Retail,45353474,22,New York,New York,United States
+ACC-000163,Helios Works (Atlanta),Customer - Channel,Electronics,5547693,145,Atlanta,Georgia,United States
+ACC-000164,Silverline Logistics (Orlando),Prospect,Retail,52226368,56,Orlando,Florida,United States
+ACC-000165,Silverline Labs (Phoenix),Customer - Channel,Manufacturing,35049099,40,Phoenix,Arizona,United States
+ACC-000166,Helios Healthcare (San Diego),Customer - Direct,Finance,74855913,39,San Diego,California,United States
+ACC-000167,Burlington Manufacturing (Minneapolis),Prospect,Biotechnology,17349836,71,Minneapolis,Minnesota,United States
+ACC-000168,BluePeak Holdings (San Jose),Prospect,Retail,34611452,21,San Jose,California,United States
+ACC-000169,Edge Software (Austin),Customer - Channel,Biotechnology,13174067,102,Austin,Texas,United States
+ACC-000170,Pioneer Systems (Burlington),Prospect,Transportation,61285105,196,Burlington,North Carolina,United States
+ACC-000171,Crest Energy (Miami),Customer - Channel,Apparel,19256222,22,Miami,Florida,United States
+ACC-000172,Crest Services (Seattle),Customer - Direct,Software,48831715,121,Seattle,Washington,United States
+ACC-000173,Northstar Works (Denver),Customer - Direct,Software,59218964,57,Denver,Colorado,United States
+ACC-000174,Helios Software (Charlotte),Prospect,Energy,215180563,22,Charlotte,North Carolina,United States
+ACC-000175,Vertex Healthcare (Boston),Customer - Channel,Telecommunications,9360890,22,Boston,Massachusetts,United States
+ACC-000176,Pioneer Enterprises (Cleveland),Prospect,Biotechnology,23751185,54,Cleveland,Ohio,United States
+ACC-000177,Burlington Textiles (Atlanta),Prospect,Healthcare,90599599,55,Atlanta,Georgia,United States
+ACC-000178,Silverline Solutions (San Diego),Customer - Direct,Healthcare,149575785,20,San Diego,California,United States
+ACC-000179,Burlington Networks (Miami),Prospect,Manufacturing,219200076,21,Miami,Florida,United States
+ACC-000180,GreenLeaf Logistics (Denver),Customer - Direct,Retail,105132943,19,Denver,Colorado,United States
+ACC-000181,Express Labs (Portland),Customer - Direct,Manufacturing,45959310,42,Portland,Oregon,United States
+ACC-000182,Edge Systems (Boston),Prospect,Finance,54710141,73,Boston,Massachusetts,United States
+ACC-000183,Ironwood Works (Phoenix),Prospect,Software,26345310,38,Phoenix,Arizona,United States
+ACC-000184,Nimbus Dynamics (Detroit),Prospect,Biotechnology,41413261,14,Detroit,Michigan,United States
+ACC-000185,Silverline Solutions (Phoenix),Prospect,Transportation,15693600,11,Phoenix,Arizona,United States
+ACC-000186,United Healthcare (Cleveland),Prospect,Telecommunications,32777422,239,Cleveland,Ohio,United States
+ACC-000187,United Textiles (Cleveland),Prospect,Finance,68429133,20,Cleveland,Ohio,United States
+ACC-000188,Onyx Services (Nashville),Customer - Channel,Electronics,16067598,88,Nashville,Tennessee,United States
+ACC-000189,Vertex Partners (Portland),Customer - Channel,Finance,20289024,11,Portland,Oregon,United States
+ACC-000190,Quantum Healthcare (Portland),Customer - Channel,Electronics,11723248,17,Portland,Oregon,United States
+ACC-000191,Vertex Labs (San Jose),Customer - Channel,Biotechnology,11741043,69,San Jose,California,United States
+ACC-000192,Arcadia Networks (Burlington),Prospect,Transportation,34994549,12,Burlington,North Carolina,United States
+ACC-000193,Helios Energy (Atlanta),Customer - Direct,Apparel,19004816,16,Atlanta,Georgia,United States
+ACC-000194,Vertex Partners (San Francisco),Prospect,Biotechnology,9738322,12,San Francisco,California,United States
+ACC-000195,Quantum Enterprises (Baltimore),Customer - Direct,Healthcare,187101543,31,Baltimore,Maryland,United States
+ACC-000196,Northstar Holdings (Detroit),Customer - Direct,Electronics,58016069,81,Detroit,Michigan,United States
+ACC-000197,Helios Systems (Dallas),Prospect,Electronics,22202785,62,Dallas,Texas,United States
+ACC-000198,Ironwood Software (Cleveland),Customer - Channel,Software,55986205,48,Cleveland,Ohio,United States
+ACC-000199,Silverline Industries (Miami),Customer - Direct,Software,285437066,50,Miami,Florida,United States
+ACC-000200,United Manufacturing (Charlotte),Prospect,Energy,25945519,67,Charlotte,North Carolina,United States
+ACC-000201,GreenLeaf Logistics (Miami),Customer - Direct,Biotechnology,192954224,89,Miami,Florida,United States
+ACC-000202,Edge Services (San Diego),Prospect,Manufacturing,20210242,20,San Diego,California,United States
+ACC-000203,BluePeak Textiles (Burlington),Prospect,Electronics,12853795,23,Burlington,North Carolina,United States
+ACC-000204,Onyx Textiles (Chicago),Prospect,Retail,47989889,79,Chicago,Illinois,United States
+ACC-000205,Silverline Systems (Detroit),Prospect,Finance,3368749,39,Detroit,Michigan,United States
+ACC-000206,Summit Group (Portland),Prospect,Biotechnology,10799183,69,Portland,Oregon,United States
+ACC-000207,Ironwood Logistics (Chicago),Prospect,Electronics,81370104,21,Chicago,Illinois,United States
+ACC-000208,Apex Partners (Austin),Prospect,Software,20802355,18,Austin,Texas,United States
+ACC-000209,Quantum Holdings (Raleigh),Prospect,Telecommunications,48210072,11,Raleigh,North Carolina,United States
+ACC-000210,Ironwood Holdings (Raleigh),Prospect,Biotechnology,10579458,23,Raleigh,North Carolina,United States
+ACC-000211,Summit Healthcare (Detroit),Customer - Direct,Finance,111164201,276,Detroit,Michigan,United States
+ACC-000212,GenePoint Industries (Columbus),Customer - Channel,Telecommunications,33263072,15,Columbus,Ohio,United States
+ACC-000213,Summit Software (Chicago),Customer - Direct,Finance,35116668,20,Chicago,Illinois,United States
+ACC-000214,Helios Industries (Nashville),Customer - Direct,Manufacturing,51640642,16,Nashville,Tennessee,United States
+ACC-000215,GreenLeaf Dynamics (Chicago),Customer - Channel,Retail,22533477,39,Chicago,Illinois,United States
+ACC-000216,Pioneer Manufacturing (Boston),Customer - Channel,Telecommunications,54840734,38,Boston,Massachusetts,United States
+ACC-000217,GenePoint Group (San Francisco),Customer - Channel,Electronics,115627986,44,San Francisco,California,United States
+ACC-000218,Apex Healthcare (Nashville),Customer - Channel,Apparel,5315752,84,Nashville,Tennessee,United States
+ACC-000219,Silverline Networks (Nashville),Prospect,Manufacturing,24370564,23,Nashville,Tennessee,United States
+ACC-000220,Arcadia Services (Boston),Customer - Direct,Apparel,147256229,18,Boston,Massachusetts,United States
+ACC-000221,GreenLeaf Works (Minneapolis),Customer - Channel,Finance,35063365,22,Minneapolis,Minnesota,United States
+ACC-000222,Nimbus Labs (Atlanta),Customer - Direct,Biotechnology,126080220,30,Atlanta,Georgia,United States
+ACC-000223,Vertex Group (New York),Customer - Channel,Healthcare,41272190,13,New York,New York,United States
+ACC-000224,Quantum Industries (Detroit),Customer - Channel,Biotechnology,136896262,17,Detroit,Michigan,United States
+ACC-000225,Express Textiles (Minneapolis),Prospect,Retail,81040478,98,Minneapolis,Minnesota,United States
+ACC-000226,BluePeak Labs (San Diego),Prospect,Biotechnology,111810426,172,San Diego,California,United States
+ACC-000227,BluePeak Textiles (Charlotte),Prospect,Retail,10112289,55,Charlotte,North Carolina,United States
+ACC-000228,Onyx Dynamics (Miami),Customer - Direct,Finance,37429497,56,Miami,Florida,United States
+ACC-000229,Silverline Logistics (Austin),Customer - Channel,Apparel,97788695,44,Austin,Texas,United States
+ACC-000230,Arcadia Dynamics (Portland),Prospect,Transportation,14404925,37,Portland,Oregon,United States
+ACC-000231,Onyx Dynamics (Seattle),Customer - Direct,Retail,151976495,15,Seattle,Washington,United States
+ACC-000232,Helios Works (San Jose),Customer - Channel,Apparel,35310264,18,San Jose,California,United States
+ACC-000233,BluePeak Logistics (Atlanta),Customer - Direct,Transportation,98816920,10,Atlanta,Georgia,United States
+ACC-000234,Onyx Group (Dallas),Prospect,Electronics,23182622,36,Dallas,Texas,United States
+ACC-000235,Summit Energy (Austin),Customer - Direct,Electronics,36649697,267,Austin,Texas,United States
+ACC-000236,GreenLeaf Software (Burlington),Prospect,Apparel,154417229,17,Burlington,North Carolina,United States
+ACC-000237,BluePeak Solutions (Tampa),Customer - Direct,Telecommunications,282560841,15,Tampa,Florida,United States
+ACC-000238,Crest Logistics (Seattle),Customer - Channel,Biotechnology,5020848,12,Seattle,Washington,United States
+ACC-000239,Pioneer Industries (Dallas),Customer - Channel,Finance,39962435,62,Dallas,Texas,United States
+ACC-000240,Pioneer Works (Raleigh),Customer - Channel,Apparel,3572992,57,Raleigh,North Carolina,United States
+ACC-000241,Pioneer Textiles (Charlotte),Customer - Channel,Transportation,24964062,71,Charlotte,North Carolina,United States
+ACC-000242,Pioneer Works (Baltimore),Prospect,Energy,22195346,83,Baltimore,Maryland,United States
+ACC-000243,Quantum Healthcare (Raleigh),Prospect,Manufacturing,57330603,15,Raleigh,North Carolina,United States
+ACC-000244,United Works (Burlington),Customer - Direct,Telecommunications,138390782,47,Burlington,North Carolina,United States
+ACC-000245,Northstar Solutions (Seattle),Customer - Channel,Electronics,67662916,110,Seattle,Washington,United States
+ACC-000246,GreenLeaf Networks (Phoenix),Customer - Direct,Finance,12301621,37,Phoenix,Arizona,United States
+ACC-000247,BluePeak Services (Chicago),Prospect,Manufacturing,14336252,19,Chicago,Illinois,United States
+ACC-000248,Pioneer Systems (Nashville),Customer - Channel,Biotechnology,42541028,53,Nashville,Tennessee,United States
+ACC-000249,GreenLeaf Works (San Jose),Customer - Channel,Manufacturing,123457002,122,San Jose,California,United States
+ACC-000250,Apex Solutions (Atlanta),Customer - Direct,Manufacturing,31916756,20,Atlanta,Georgia,United States
+ACC-000251,Ironwood Systems (Chicago),Prospect,Manufacturing,800453833,225,Chicago,Illinois,United States
+ACC-000252,Pioneer Solutions (Tampa),Customer - Channel,Software,29306949,19,Tampa,Florida,United States
+ACC-000253,Arcadia Partners (Tampa),Customer - Channel,Manufacturing,21344947,50,Tampa,Florida,United States
+ACC-000254,Crest Manufacturing (Dallas),Customer - Direct,Telecommunications,101092977,87,Dallas,Texas,United States
+ACC-000255,Nimbus Services (Miami),Customer - Direct,Electronics,50395639,33,Miami,Florida,United States
+ACC-000256,BluePeak Holdings (Portland),Prospect,Software,38577709,31,Portland,Oregon,United States
+ACC-000257,Onyx Dynamics (Raleigh),Prospect,Energy,35002624,37,Raleigh,North Carolina,United States
+ACC-000258,Nimbus Partners (San Diego),Customer - Channel,Apparel,55136653,8,San Diego,California,United States
+ACC-000259,Edge Logistics (Orlando),Customer - Channel,Telecommunications,23076422,32,Orlando,Florida,United States
+ACC-000260,Crest Enterprises (Boston),Customer - Direct,Software,10526028,35,Boston,Massachusetts,United States
+ACC-000261,Express Networks (Charlotte),Customer - Direct,Electronics,11369645,23,Charlotte,North Carolina,United States
+ACC-000262,Arcadia Enterprises (Columbus),Prospect,Telecommunications,24405473,33,Columbus,Ohio,United States
+ACC-000263,Pioneer Services (Tampa),Customer - Direct,Apparel,18369768,97,Tampa,Florida,United States
+ACC-000264,BluePeak Holdings (Baltimore),Prospect,Healthcare,39871210,52,Baltimore,Maryland,United States
+ACC-000265,United Labs (Columbus),Prospect,Software,41164745,23,Columbus,Ohio,United States
+ACC-000266,Quantum Works (New York),Customer - Channel,Retail,13480853,79,New York,New York,United States
+ACC-000267,Ironwood Logistics (Columbus),Prospect,Electronics,22906289,9,Columbus,Ohio,United States
+ACC-000268,Apex Energy (Orlando),Customer - Direct,Energy,3617207,48,Orlando,Florida,United States
+ACC-000269,BluePeak Works (Phoenix),Prospect,Electronics,15602204,38,Phoenix,Arizona,United States
+ACC-000270,Burlington Solutions (Austin),Customer - Channel,Finance,18863621,29,Austin,Texas,United States
+ACC-000271,Summit Healthcare (San Diego),Customer - Direct,Energy,27433141,14,San Diego,California,United States
+ACC-000272,Onyx Networks (Detroit),Customer - Channel,Energy,31999715,89,Detroit,Michigan,United States
+ACC-000273,BluePeak Logistics (Cleveland),Customer - Direct,Energy,65376555,10,Cleveland,Ohio,United States
+ACC-000274,Crest Works (San Francisco),Customer - Channel,Apparel,8523724,13,San Francisco,California,United States
+ACC-000275,Northstar Enterprises (Dallas),Prospect,Biotechnology,25442490,80,Dallas,Texas,United States
+ACC-000276,GenePoint Enterprises (Nashville),Customer - Channel,Software,45036522,9,Nashville,Tennessee,United States
+ACC-000277,Apex Labs (Atlanta),Customer - Direct,Retail,34445383,77,Atlanta,Georgia,United States
+ACC-000278,Silverline Services (Detroit),Prospect,Transportation,20810870,185,Detroit,Michigan,United States
+ACC-000279,Express Software (Cleveland),Customer - Direct,Biotechnology,16996732,103,Cleveland,Ohio,United States
+ACC-000280,GreenLeaf Networks (Burlington),Prospect,Electronics,342309849,14,Burlington,North Carolina,United States
+ACC-000281,Ironwood Software (San Jose),Customer - Direct,Retail,23589526,64,San Jose,California,United States
+ACC-000282,Express Partners (Baltimore),Customer - Channel,Electronics,809087516,9,Baltimore,Maryland,United States
+ACC-000283,Vertex Systems (Boston),Customer - Direct,Retail,57428440,50,Boston,Massachusetts,United States
+ACC-000284,Summit Holdings (Minneapolis),Prospect,Electronics,21372676,20,Minneapolis,Minnesota,United States
+ACC-000285,Pioneer Energy (Denver),Prospect,Finance,19270458,31,Denver,Colorado,United States
+ACC-000286,Ironwood Software (Boston),Customer - Direct,Apparel,9158019,142,Boston,Massachusetts,United States
+ACC-000287,BluePeak Networks (Detroit),Prospect,Finance,10762193,28,Detroit,Michigan,United States
+ACC-000288,Nimbus Systems (Chicago),Customer - Channel,Finance,16827397,29,Chicago,Illinois,United States
+ACC-000289,Apex Partners (New York),Customer - Direct,Biotechnology,35782801,22,New York,New York,United States
+ACC-000290,Quantum Healthcare (Miami),Customer - Channel,Software,25748066,160,Miami,Florida,United States
+ACC-000291,Summit Solutions (Minneapolis),Customer - Channel,Apparel,93755449,32,Minneapolis,Minnesota,United States
+ACC-000292,Silverline Solutions (Dallas),Customer - Channel,Transportation,80774962,21,Dallas,Texas,United States
+ACC-000293,Edge Group (Boston),Customer - Channel,Transportation,40870996,12,Boston,Massachusetts,United States
+ACC-000294,GenePoint Networks (San Jose),Prospect,Electronics,10385086,20,San Jose,California,United States
+ACC-000295,Pioneer Labs (Raleigh),Prospect,Retail,112395643,48,Raleigh,North Carolina,United States
+ACC-000296,GenePoint Textiles (Austin),Customer - Direct,Transportation,56387780,45,Austin,Texas,United States
+ACC-000297,Nimbus Healthcare (Chicago),Customer - Direct,Retail,47058404,56,Chicago,Illinois,United States
+ACC-000298,Summit Holdings (Nashville),Prospect,Energy,70092137,46,Nashville,Tennessee,United States
+ACC-000299,GenePoint Textiles (Columbus),Customer - Direct,Transportation,13045648,21,Columbus,Ohio,United States
+ACC-000300,Onyx Energy (Cleveland),Customer - Direct,Retail,109800222,125,Cleveland,Ohio,United States
+ACC-000301,Vertex Dynamics (Orlando),Prospect,Electronics,57045766,10,Orlando,Florida,United States
+ACC-000302,Summit Energy (Raleigh),Customer - Direct,Electronics,157536948,52,Raleigh,North Carolina,United States
+ACC-000303,Silverline Dynamics (Boston),Customer - Channel,Retail,30264258,41,Boston,Massachusetts,United States
+ACC-000304,Silverline Partners (Austin),Customer - Direct,Finance,22461568,165,Austin,Texas,United States
+ACC-000305,United Labs (San Francisco),Customer - Channel,Retail,175408950,17,San Francisco,California,United States
+ACC-000306,Onyx Dynamics (Charlotte),Prospect,Transportation,26969142,51,Charlotte,North Carolina,United States
+ACC-000307,BluePeak Healthcare (Columbus),Prospect,Finance,116771724,5,Columbus,Ohio,United States
+ACC-000308,GenePoint Group (Orlando),Prospect,Biotechnology,82690064,153,Orlando,Florida,United States
+ACC-000309,Quantum Solutions (Detroit),Prospect,Telecommunications,23345387,38,Detroit,Michigan,United States
+ACC-000310,GenePoint Logistics (Nashville),Customer - Channel,Apparel,113040678,54,Nashville,Tennessee,United States
+ACC-000311,Summit Energy (Baltimore),Prospect,Biotechnology,8485024,15,Baltimore,Maryland,United States
+ACC-000312,Nimbus Partners (Dallas),Prospect,Electronics,11467129,12,Dallas,Texas,United States
+ACC-000313,Burlington Software (Minneapolis),Prospect,Biotechnology,31957305,26,Minneapolis,Minnesota,United States
+ACC-000314,Vertex Software (Boston),Customer - Channel,Manufacturing,33493952,70,Boston,Massachusetts,United States
+ACC-000315,Summit Group (Cleveland),Prospect,Energy,192302890,47,Cleveland,Ohio,United States
+ACC-000316,Vertex Dynamics (Cleveland),Prospect,Biotechnology,4971106,121,Cleveland,Ohio,United States
+ACC-000317,Edge Solutions (Detroit),Customer - Direct,Finance,28526752,101,Detroit,Michigan,United States
+ACC-000318,Onyx Networks (Austin),Prospect,Apparel,20451666,50,Austin,Texas,United States
+ACC-000319,Edge Industries (San Francisco),Prospect,Biotechnology,28031602,39,San Francisco,California,United States
+ACC-000320,Pioneer Dynamics (Phoenix),Prospect,Manufacturing,115192954,23,Phoenix,Arizona,United States
+ACC-000321,Crest Labs (Phoenix),Customer - Direct,Software,37789712,47,Phoenix,Arizona,United States
+ACC-000322,GenePoint Energy (Dallas),Prospect,Healthcare,21720805,6,Dallas,Texas,United States
+ACC-000323,Crest Services (Boston),Customer - Channel,Finance,45435834,5,Boston,Massachusetts,United States
+ACC-000324,Express Group (San Diego),Prospect,Energy,7106714,27,San Diego,California,United States
+ACC-000325,Ironwood Services (Seattle),Prospect,Telecommunications,49261688,79,Seattle,Washington,United States
+ACC-000326,Express Software (Orlando),Customer - Direct,Transportation,73449003,64,Orlando,Florida,United States
+ACC-000327,Pioneer Solutions (Raleigh),Customer - Direct,Biotechnology,22273916,105,Raleigh,North Carolina,United States
+ACC-000328,Summit Manufacturing (Phoenix),Customer - Channel,Electronics,24550118,98,Phoenix,Arizona,United States
+ACC-000329,Onyx Works (Cleveland),Customer - Channel,Apparel,3415720,18,Cleveland,Ohio,United States
+ACC-000330,Edge Holdings (Tampa),Customer - Direct,Retail,18021835,39,Tampa,Florida,United States
+ACC-000331,Crest Energy (Burlington),Customer - Direct,Healthcare,2920458,76,Burlington,North Carolina,United States
+ACC-000332,Helios Enterprises (Burlington),Prospect,Finance,86541159,75,Burlington,North Carolina,United States
+ACC-000333,Burlington Works (Phoenix),Prospect,Apparel,19130286,128,Phoenix,Arizona,United States
+ACC-000334,Silverline Enterprises (Austin),Customer - Channel,Retail,18550707,82,Austin,Texas,United States
+ACC-000335,Apex Healthcare (Chicago),Customer - Channel,Electronics,30272453,39,Chicago,Illinois,United States
+ACC-000336,Arcadia Holdings (Dallas),Customer - Direct,Manufacturing,27485907,39,Dallas,Texas,United States
+ACC-000337,Ironwood Textiles (Tampa),Prospect,Electronics,97763868,126,Tampa,Florida,United States
+ACC-000338,United Textiles (Tampa),Customer - Direct,Healthcare,134178268,82,Tampa,Florida,United States
+ACC-000339,GenePoint Industries (Phoenix),Customer - Channel,Telecommunications,62687379,57,Phoenix,Arizona,United States
+ACC-000340,BluePeak Works (Dallas),Customer - Channel,Healthcare,186951191,28,Dallas,Texas,United States
+ACC-000341,Burlington Industries (Portland),Prospect,Apparel,17033476,41,Portland,Oregon,United States
+ACC-000342,Ironwood Works (Chicago),Prospect,Finance,6046308,33,Chicago,Illinois,United States
+ACC-000343,Apex Labs (Chicago),Customer - Direct,Software,30279113,17,Chicago,Illinois,United States
+ACC-000344,United Logistics (Minneapolis),Customer - Channel,Apparel,18024151,69,Minneapolis,Minnesota,United States
+ACC-000345,Express Networks (Tampa),Customer - Channel,Transportation,25495864,42,Tampa,Florida,United States
+ACC-000346,BluePeak Energy (Phoenix),Customer - Direct,Healthcare,90397175,24,Phoenix,Arizona,United States
+ACC-000347,United Partners (Columbus),Customer - Channel,Energy,10217601,38,Columbus,Ohio,United States
+ACC-000348,Arcadia Manufacturing (Austin),Customer - Direct,Energy,49095145,9,Austin,Texas,United States
+ACC-000349,Vertex Dynamics (Denver),Prospect,Software,61957185,31,Denver,Colorado,United States
+ACC-000350,Nimbus Manufacturing (Columbus),Customer - Channel,Biotechnology,21224696,20,Columbus,Ohio,United States
+ACC-000351,Quantum Systems (Austin),Customer - Direct,Manufacturing,26705884,86,Austin,Texas,United States
+ACC-000352,BluePeak Energy (Burlington),Prospect,Electronics,54508801,76,Burlington,North Carolina,United States
+ACC-000353,Helios Manufacturing (Baltimore),Customer - Channel,Biotechnology,22339582,143,Baltimore,Maryland,United States
+ACC-000354,GreenLeaf Enterprises (Miami),Customer - Direct,Apparel,115601266,39,Miami,Florida,United States
+ACC-000355,Crest Holdings (Atlanta),Customer - Channel,Healthcare,2327349,42,Atlanta,Georgia,United States
+ACC-000356,Arcadia Textiles (New York),Customer - Direct,Biotechnology,508903732,38,New York,New York,United States
+ACC-000357,Pioneer Enterprises (Detroit),Prospect,Manufacturing,11637859,157,Detroit,Michigan,United States
+ACC-000358,Northstar Software (Cleveland),Customer - Direct,Healthcare,17475454,59,Cleveland,Ohio,United States
+ACC-000359,Vertex Services (Seattle),Customer - Channel,Telecommunications,69650726,12,Seattle,Washington,United States
+ACC-000360,Onyx Networks (Columbus),Prospect,Electronics,36806870,104,Columbus,Ohio,United States
+ACC-000361,Quantum Systems (Denver),Customer - Channel,Finance,23360580,67,Denver,Colorado,United States
+ACC-000362,Edge Manufacturing (San Diego),Customer - Channel,Software,31742530,91,San Diego,California,United States
+ACC-000363,GreenLeaf Group (Portland),Prospect,Energy,206999108,16,Portland,Oregon,United States
+ACC-000364,BluePeak Manufacturing (Chicago),Prospect,Telecommunications,24388230,55,Chicago,Illinois,United States
+ACC-000365,Vertex Labs (Detroit),Prospect,Healthcare,17275856,20,Detroit,Michigan,United States
+ACC-000366,Vertex Solutions (Denver),Customer - Direct,Healthcare,22982270,32,Denver,Colorado,United States
+ACC-000367,Onyx Healthcare (Chicago),Customer - Channel,Finance,16887023,52,Chicago,Illinois,United States
+ACC-000368,United Enterprises (Columbus),Customer - Channel,Software,73037057,73,Columbus,Ohio,United States
+ACC-000369,Edge Group (Detroit),Customer - Direct,Apparel,64318415,105,Detroit,Michigan,United States
+ACC-000370,Vertex Solutions (New York),Customer - Direct,Transportation,8311678,36,New York,New York,United States
+ACC-000371,Ironwood Logistics (Orlando),Customer - Direct,Apparel,39389909,61,Orlando,Florida,United States
+ACC-000372,Express Manufacturing (Tampa),Prospect,Apparel,6477789,182,Tampa,Florida,United States
+ACC-000373,Nimbus Energy (San Jose),Customer - Channel,Biotechnology,13381587,49,San Jose,California,United States
+ACC-000374,GreenLeaf Holdings (Dallas),Customer - Channel,Manufacturing,68155765,96,Dallas,Texas,United States
+ACC-000375,Nimbus Group (Columbus),Customer - Direct,Apparel,16412835,26,Columbus,Ohio,United States
+ACC-000376,Quantum Labs (Burlington),Customer - Direct,Software,47261179,64,Burlington,North Carolina,United States
+ACC-000377,Arcadia Enterprises (Detroit),Customer - Direct,Retail,81181654,38,Detroit,Michigan,United States
+ACC-000378,GreenLeaf Textiles (Austin),Customer - Direct,Manufacturing,16291440,13,Austin,Texas,United States
+ACC-000379,Quantum Logistics (Tampa),Customer - Channel,Energy,186966138,13,Tampa,Florida,United States
+ACC-000380,Ironwood Enterprises (Tampa),Customer - Direct,Biotechnology,65739448,50,Tampa,Florida,United States
+ACC-000381,Apex Solutions (Chicago),Customer - Direct,Telecommunications,70026714,86,Chicago,Illinois,United States
+ACC-000382,United Software (Miami),Customer - Channel,Electronics,126102077,38,Miami,Florida,United States
+ACC-000383,Pioneer Systems (Charlotte),Prospect,Apparel,48648344,8,Charlotte,North Carolina,United States
+ACC-000384,Helios Manufacturing (Chicago),Prospect,Software,34235218,19,Chicago,Illinois,United States
+ACC-000385,BluePeak Services (Seattle),Customer - Channel,Telecommunications,28056583,109,Seattle,Washington,United States
+ACC-000386,Quantum Software (Austin),Customer - Channel,Software,36423026,97,Austin,Texas,United States
+ACC-000387,Apex Manufacturing (Cleveland),Prospect,Healthcare,26783603,55,Cleveland,Ohio,United States
+ACC-000388,GenePoint Group (Phoenix),Prospect,Healthcare,21660556,5,Phoenix,Arizona,United States
+ACC-000389,United Networks (Nashville),Prospect,Healthcare,16045924,32,Nashville,Tennessee,United States
+ACC-000390,Apex Works (New York),Customer - Channel,Transportation,38364069,40,New York,New York,United States
+ACC-000391,Northstar Partners (Atlanta),Customer - Direct,Apparel,28898310,86,Atlanta,Georgia,United States
+ACC-000392,Ironwood Systems (Seattle),Customer - Direct,Apparel,61317942,29,Seattle,Washington,United States
+ACC-000393,GreenLeaf Industries (Boston),Customer - Channel,Apparel,78494783,8,Boston,Massachusetts,United States
+ACC-000394,Summit Services (New York),Customer - Direct,Finance,24747318,36,New York,New York,United States
+ACC-000395,Burlington Services (Austin),Customer - Channel,Energy,120927869,26,Austin,Texas,United States
+ACC-000396,Crest Manufacturing (San Diego),Customer - Direct,Energy,7543226,46,San Diego,California,United States
+ACC-000397,Vertex Solutions (Columbus),Customer - Channel,Biotechnology,178934226,34,Columbus,Ohio,United States
+ACC-000398,GenePoint Networks (Baltimore),Customer - Channel,Software,29833523,34,Baltimore,Maryland,United States
+ACC-000399,Arcadia Solutions (Minneapolis),Prospect,Finance,34716650,115,Minneapolis,Minnesota,United States
+ACC-000400,Helios Textiles (San Diego),Prospect,Retail,235055501,59,San Diego,California,United States
+ACC-000401,Arcadia Partners (Atlanta),Prospect,Electronics,29745359,180,Atlanta,Georgia,United States
+ACC-000402,Silverline Systems (Burlington),Customer - Channel,Energy,36485551,43,Burlington,North Carolina,United States
+ACC-000403,Arcadia Dynamics (Cleveland),Customer - Channel,Retail,23120236,31,Cleveland,Ohio,United States
+ACC-000404,Crest Software (Atlanta),Customer - Channel,Retail,42093551,32,Atlanta,Georgia,United States
+ACC-000405,Helios Solutions (Miami),Customer - Channel,Healthcare,50281755,44,Miami,Florida,United States
+ACC-000406,Crest Partners (Denver),Customer - Direct,Manufacturing,57730805,30,Denver,Colorado,United States
+ACC-000407,Edge Energy (Seattle),Customer - Channel,Software,27123281,49,Seattle,Washington,United States
+ACC-000408,Silverline Industries (Denver),Customer - Channel,Transportation,35479796,44,Denver,Colorado,United States
+ACC-000409,GreenLeaf Manufacturing (Miami),Prospect,Retail,106769543,17,Miami,Florida,United States
+ACC-000410,Summit Industries (Chicago),Customer - Direct,Biotechnology,4754874,73,Chicago,Illinois,United States
+ACC-000411,Summit Logistics (Austin),Customer - Direct,Finance,26020106,120,Austin,Texas,United States
+ACC-000412,Crest Holdings (Baltimore),Customer - Direct,Manufacturing,30426725,16,Baltimore,Maryland,United States
+ACC-000413,Northstar Works (Burlington),Customer - Direct,Electronics,297127904,56,Burlington,North Carolina,United States
+ACC-000414,Quantum Services (Dallas),Prospect,Energy,21075671,22,Dallas,Texas,United States
+ACC-000415,Summit Services (Minneapolis),Prospect,Telecommunications,58086082,23,Minneapolis,Minnesota,United States
+ACC-000416,Pioneer Industries (Austin),Customer - Direct,Transportation,48873475,103,Austin,Texas,United States
+ACC-000417,Pioneer Partners (Baltimore),Prospect,Retail,8247258,30,Baltimore,Maryland,United States
+ACC-000418,Summit Services (Burlington),Customer - Channel,Finance,53393031,154,Burlington,North Carolina,United States
+ACC-000419,Edge Services (Austin),Customer - Channel,Biotechnology,83740533,28,Austin,Texas,United States
+ACC-000420,Nimbus Partners (Charlotte),Prospect,Transportation,142494770,30,Charlotte,North Carolina,United States
+ACC-000421,Summit Healthcare (Dallas),Prospect,Transportation,28062925,55,Dallas,Texas,United States
+ACC-000422,Ironwood Networks (Portland),Customer - Direct,Retail,11038702,477,Portland,Oregon,United States
+ACC-000423,Ironwood Holdings (Minneapolis),Customer - Direct,Telecommunications,109216575,48,Minneapolis,Minnesota,United States
+ACC-000424,Vertex Systems (New York),Customer - Direct,Healthcare,18665694,16,New York,New York,United States
+ACC-000425,Onyx Solutions (Columbus),Customer - Direct,Biotechnology,47772992,71,Columbus,Ohio,United States
+ACC-000426,Onyx Healthcare (Boston),Prospect,Biotechnology,22100262,34,Boston,Massachusetts,United States
+ACC-000427,Vertex Holdings (San Francisco),Prospect,Electronics,57444542,38,San Francisco,California,United States
+ACC-000428,Helios Services (New York),Prospect,Electronics,5146168,69,New York,New York,United States
+ACC-000429,Summit Group (Miami),Customer - Channel,Biotechnology,41952002,72,Miami,Florida,United States
+ACC-000430,Vertex Group (Dallas),Customer - Direct,Telecommunications,15441125,7,Dallas,Texas,United States
+ACC-000431,Helios Software (San Jose),Prospect,Healthcare,9429318,51,San Jose,California,United States
+ACC-000432,Helios Healthcare (Orlando),Customer - Direct,Energy,262455020,267,Orlando,Florida,United States
+ACC-000433,Ironwood Networks (Raleigh),Customer - Channel,Finance,44433378,12,Raleigh,North Carolina,United States
+ACC-000434,Onyx Partners (Tampa),Customer - Direct,Apparel,23439664,58,Tampa,Florida,United States
+ACC-000435,Northstar Services (Raleigh),Customer - Direct,Software,50745610,43,Raleigh,North Carolina,United States
+ACC-000436,Nimbus Partners (New York),Customer - Direct,Software,125087358,19,New York,New York,United States
+ACC-000437,Vertex Works (Atlanta),Prospect,Manufacturing,3757712,20,Atlanta,Georgia,United States
+ACC-000438,GreenLeaf Services (Detroit),Customer - Channel,Energy,10254636,242,Detroit,Michigan,United States
+ACC-000439,Silverline Labs (Columbus),Prospect,Telecommunications,27205280,12,Columbus,Ohio,United States
+ACC-000440,Arcadia Dynamics (San Francisco),Customer - Direct,Electronics,60720833,90,San Francisco,California,United States
+ACC-000441,BluePeak Healthcare (Detroit),Customer - Direct,Manufacturing,34555934,47,Detroit,Michigan,United States
+ACC-000442,Express Holdings (Portland),Customer - Direct,Biotechnology,91183482,61,Portland,Oregon,United States
+ACC-000443,Edge Networks (Dallas),Prospect,Manufacturing,16272058,65,Dallas,Texas,United States
+ACC-000444,Express Works (Austin),Prospect,Electronics,82906386,53,Austin,Texas,United States
+ACC-000445,Quantum Enterprises (Nashville),Customer - Direct,Retail,78398103,64,Nashville,Tennessee,United States
+ACC-000446,Crest Manufacturing (Boston),Prospect,Apparel,25848477,36,Boston,Massachusetts,United States
+ACC-000447,Northstar Group (Minneapolis),Prospect,Energy,60464171,26,Minneapolis,Minnesota,United States
+ACC-000448,GreenLeaf Works (Portland),Customer - Channel,Retail,103520200,107,Portland,Oregon,United States
+ACC-000449,GenePoint Energy (Portland),Customer - Direct,Healthcare,4286909,38,Portland,Oregon,United States
+ACC-000450,BluePeak Energy (San Jose),Customer - Channel,Healthcare,15433369,24,San Jose,California,United States
+ACC-000451,GreenLeaf Software (New York),Customer - Channel,Finance,37792855,35,New York,New York,United States
+ACC-000452,Express Textiles (Portland),Customer - Channel,Transportation,57499298,52,Portland,Oregon,United States
+ACC-000453,Summit Solutions (Chicago),Customer - Channel,Energy,47336133,21,Chicago,Illinois,United States
+ACC-000454,Pioneer Group (Portland),Customer - Channel,Biotechnology,23061649,130,Portland,Oregon,United States
+ACC-000455,Apex Holdings (San Jose),Customer - Channel,Apparel,2737207,160,San Jose,California,United States
+ACC-000456,Pioneer Enterprises (San Diego),Customer - Direct,Energy,18638250,104,San Diego,California,United States
+ACC-000457,Nimbus Networks (Nashville),Customer - Direct,Healthcare,2437617,28,Nashville,Tennessee,United States
+ACC-000458,Helios Partners (Detroit),Customer - Channel,Retail,76274196,45,Detroit,Michigan,United States
+ACC-000459,Express Dynamics (San Jose),Prospect,Apparel,90151319,20,San Jose,California,United States
+ACC-000460,Nimbus Manufacturing (Portland),Customer - Direct,Retail,18654866,23,Portland,Oregon,United States
+ACC-000461,Helios Healthcare (Baltimore),Customer - Channel,Biotechnology,54226677,58,Baltimore,Maryland,United States
+ACC-000462,Quantum Dynamics (Burlington),Customer - Direct,Biotechnology,28875900,32,Burlington,North Carolina,United States
+ACC-000463,Ironwood Partners (Orlando),Customer - Direct,Electronics,24378595,43,Orlando,Florida,United States
+ACC-000464,GenePoint Dynamics (Chicago),Customer - Direct,Transportation,12645468,38,Chicago,Illinois,United States
+ACC-000465,United Solutions (San Francisco),Customer - Channel,Healthcare,28271703,26,San Francisco,California,United States
+ACC-000466,Silverline Holdings (Burlington),Customer - Channel,Transportation,18461340,131,Burlington,North Carolina,United States
+ACC-000467,Arcadia Holdings (San Francisco),Prospect,Energy,17658753,56,San Francisco,California,United States
+ACC-000468,Vertex Services (San Diego),Customer - Direct,Telecommunications,128189411,73,San Diego,California,United States
+ACC-000469,Express Works (Cleveland),Customer - Channel,Apparel,33305141,91,Cleveland,Ohio,United States
+ACC-000470,Edge Healthcare (Burlington),Prospect,Manufacturing,7845544,15,Burlington,North Carolina,United States
+ACC-000471,Burlington Group (Charlotte),Customer - Channel,Healthcare,21956087,33,Charlotte,North Carolina,United States
+ACC-000472,Helios Systems (Phoenix),Customer - Channel,Manufacturing,29662468,182,Phoenix,Arizona,United States
+ACC-000473,Helios Dynamics (Seattle),Customer - Channel,Apparel,176529058,39,Seattle,Washington,United States
+ACC-000474,Summit Dynamics (Cleveland),Customer - Channel,Energy,42121559,19,Cleveland,Ohio,United States
+ACC-000475,Apex Energy (Denver),Customer - Direct,Transportation,44893803,13,Denver,Colorado,United States
+ACC-000476,Edge Enterprises (Miami),Prospect,Apparel,132264723,26,Miami,Florida,United States
+ACC-000477,GreenLeaf Textiles (Miami),Customer - Channel,Software,56988078,14,Miami,Florida,United States
+ACC-000478,Edge Networks (Phoenix),Customer - Channel,Finance,131174813,66,Phoenix,Arizona,United States
+ACC-000479,Quantum Holdings (Burlington),Prospect,Telecommunications,231553654,42,Burlington,North Carolina,United States
+ACC-000480,BluePeak Partners (Raleigh),Prospect,Finance,6457324,21,Raleigh,North Carolina,United States
+ACC-000481,Burlington Works (Miami),Customer - Channel,Apparel,9295268,143,Miami,Florida,United States
+ACC-000482,Silverline Logistics (Seattle),Customer - Channel,Finance,17469461,22,Seattle,Washington,United States
+ACC-000483,BluePeak Networks (San Francisco),Prospect,Biotechnology,59180590,50,San Francisco,California,United States
+ACC-000484,Arcadia Textiles (Boston),Customer - Channel,Retail,53399535,27,Boston,Massachusetts,United States
+ACC-000485,Vertex Energy (Seattle),Customer - Direct,Manufacturing,4422851,13,Seattle,Washington,United States
+ACC-000486,Pioneer Enterprises (Seattle),Customer - Direct,Energy,3628968,112,Seattle,Washington,United States
+ACC-000487,Pioneer Solutions (Cleveland),Prospect,Software,81060930,29,Cleveland,Ohio,United States
+ACC-000488,United Systems (Cleveland),Prospect,Retail,60884794,69,Cleveland,Ohio,United States
+ACC-000489,Summit Partners (Minneapolis),Customer - Channel,Energy,61651988,61,Minneapolis,Minnesota,United States
+ACC-000490,BluePeak Partners (Seattle),Customer - Direct,Finance,79002467,43,Seattle,Washington,United States
+ACC-000491,GenePoint Services (Boston),Customer - Channel,Electronics,3542153,5,Boston,Massachusetts,United States
+ACC-000492,Onyx Labs (Orlando),Prospect,Healthcare,115656197,65,Orlando,Florida,United States
+ACC-000493,Quantum Energy (Nashville),Customer - Direct,Healthcare,2641635,46,Nashville,Tennessee,United States
+ACC-000494,Nimbus Dynamics (Minneapolis),Prospect,Electronics,13552904,26,Minneapolis,Minnesota,United States
+ACC-000495,Arcadia Software (San Francisco),Customer - Channel,Software,2413109,75,San Francisco,California,United States
+ACC-000496,Express Holdings (San Jose),Prospect,Transportation,29997466,77,San Jose,California,United States
+ACC-000497,Arcadia Logistics (Tampa),Customer - Channel,Finance,97068764,113,Tampa,Florida,United States
+ACC-000498,Ironwood Works (Columbus),Prospect,Finance,170027562,51,Columbus,Ohio,United States
+ACC-000499,BluePeak Holdings (Boston),Customer - Channel,Transportation,40592765,24,Boston,Massachusetts,United States
+ACC-000500,Crest Enterprises (Burlington),Prospect,Software,55444563,33,Burlington,North Carolina,United States
